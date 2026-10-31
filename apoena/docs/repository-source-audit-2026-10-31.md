@@ -45,12 +45,16 @@
 - Repositório de uma Central Multi-IA genérica para conexões, memória, coordenação, contexto exportável e failover autorizado.
 - É um projeto de infraestrutura de IA separado; não deve ser confundido com o universo ficcional, Studio Maker, GameCreator ou jogo Apoena.
 
-## Fontes originais ainda não recuperadas
-- PDFs “Sistema de Poderes Apoena Atual.pdf”, “Sistema de Poderes Apoena.pdf” e “Apoena a Origem do Universo (5).pdf”: os nomes e metadados estão documentados, mas as páginas não foram lidas integralmente nesta auditoria.
-- Anexo “Texto colado.txt” da conversa “Aurium Constelações Poderes”.
+## Fontes originais ainda não recuperadas / atualização de status
+A seção inicial desta auditoria foi escrita antes da leitura dos PDFs e foi superada pela atualização documental de 2026-10-31. O estado correto é:
+- `Sistema de Poderes Apoena Atual.pdf`: 62 páginas transcritas integralmente em texto.
+- `Sistema de Poderes Apoena.pdf`: 25 páginas transcritas integralmente como versão histórica.
+- `Apoena a Origem do Universo (5).pdf`: 90 páginas transcritas; página 90 com OCR fragmentado, exige conferência visual.
+- Segunda cópia `Apoena a Origem do Universo (5)(1).pdf`: não comparada.
+- Anexo `Texto colado.txt` da conversa “Aurium Constelações Poderes”.
 - As 16 referências PDF mencionadas pelo autor em conversa anterior.
-- Fichas originais completas, mapas oficiais, cronologia integral e bíblia visual.
-- Binários não baixados: PNG/JPG/WEBP originais, spritesheets, GLB/FBX, ZIPs e arquivos de conversa. A existência de caminhos no GitHub não significa que tenham sido copiados para `apoenaskil`.
+- Fichas originais completas, mapas oficiais aprovados, cronologia integral e bíblia visual.
+- Binários não copiados para o repositório: PNG/JPG/WEBP originais, spritesheets, GLB/FBX, ZIPs e arquivos de conversa. Dois mapas candidatos foram inspecionados e catalogados em `references/visual-assets-in-library.md`; seus originais continuam na Biblioteca.
 
 ## Regras de preservação
 1. Não mover código/arquivos entre repositórios por conveniência.
@@ -65,3 +69,9 @@ A biblioteca já continha Skills de cânone, worldbuilding, Aurium, constelaçõ
 
 ## Limite desta auditoria
 A estrutura Git foi inspecionada e documentos textuais selecionados foram lidos. Não houve leitura integral de todo o código, revisão de todos os commits/branches, download de binários, leitura dos PDFs primários nem inspeção integral de todas as conversas históricas.
+
+
+## Correção posterior de proveniência
+**data_hora_do_registro:** 2026-10-31T08:47:00-03:00
+
+A inspeção da Biblioteca encontrou os três PDFs principais e gerou transcrições textuais com marcadores de página. Ver `references/README.md`, `docs/cosmology-source-notes.md` e `docs/aurium-system.md`. Essa atualização corrige a afirmação anterior de que os PDFs não haviam sido lidos integralmente. As limitações de OCR e de preservação binária permanecem.
