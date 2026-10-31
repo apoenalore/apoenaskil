@@ -78,7 +78,7 @@ Quando uma nova fonte surgir, registrar data/hora, proveniência, páginas e esc
 - Catálogo: `references/visual-assets-in-library.md`. Os PNGs originais permanecem na Biblioteca; não foram copiados como binários para GitHub.
 
 
-## Recuperação conversacional adicional — 2026-10-31
+## Recuperação conversacional adicional — 2026-10-31T10:52:00-03:00
 
 Foi registrado um esclarecimento direto do criador sobre a cosmologia dimensional e a história de Agar. Ver o registro integral em apoena/docs/recovery/2026-10-31-arcana-agar-pandora.md e a Skill apoena/skills/apoena-dimensional-cosmology/SKILL.md.
 
