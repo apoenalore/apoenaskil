@@ -48,24 +48,12 @@
 
 ## Recuperação conversacional adicional
 - ../docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md
-
-- apoena-agar-governance-and-defense/SKILL.md — hierarquia político-militar e defesa de Agar.
-
-## Recuperação da conversa de 2026-10-31
 - ../docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md
-
-## Recuperação conversacional — ritual e sistema de classes
 - ../docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md
-
+- ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
+- ../docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md
+- ../docs/conversation-recovery-2026-10-31-backup-topics-49-71.md
 
 ## Transferência complementar — 2026-10-31
 - ../docs/transfer-session-2026-10-31-1335.md
-- ../../apoena-knowledge/README.md — conjunto suplementar de Skills e notas; consultar após a biblioteca principal, não substitui as Skills canônicas existentes.
-
-## Cosmologia primordial — recuperação de 2026-10-31
-- apoena-primordial-cosmology/SKILL.md
-- ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
-
-
-## Recuperação visual — 2026-10-31
-- ../docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md — pranchas de fauna da Tribo do Ar, Grande Árvore e pedidos de assets de montanhas distantes.
+- ../../apoena-knowledge/README.md — conjunto suplementar; não substitui as Skills canônicas existentes.
