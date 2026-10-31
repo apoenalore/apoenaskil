@@ -24,3 +24,17 @@ Ainda precisam de catalogação e validação: fichas completas, geografia, cron
 
 ## Atualização
 Registre afirmação aprovada, fonte, data, aprovação do autor e documentos substituídos.
+
+
+## Atualização de cânone — Bíblia Oficial
+A fonte prioritária localizada e inspecionada é **APOENA VERSO BÍBLIA OFICIAL — CÂNONE MESTRE.pdf**. Ela declara que suas definições prevalecem sobre documentos antigos divergentes. Resumo de correções confirmadas:
+- Apoena começa aos 12 anos; ritual aos 14 no Monte do Renascimento/Caverna da Decisão; experiência de cerca de 3 meses. A versão antiga de 3 anos na Caverna é descartada.
+- Elementos oficiais: Água, Fogo, Terra, Ar (não Vento).
+- Ubirara é a grafia oficial do Grande Monarca; Birará é forma antiga/incorreta para ele.
+- Nairuk é o nome oficial da entidade; Luciel é nomenclatura antiga quando se refere a ela.
+- 13 constelações no total: 12 conhecidas + Serpentário oculta.
+- Potencial de Apoena inclui seis manifestações, mas não domínio automático.
+- Agar conhece a energia como Força Vital/Energia Elementar; Aurium é o conceito profundo/perdido.
+- Porta, manifestação, domínio, classe, estilo e técnica são conceitos distintos.
+
+Ver canon-master-addendum.md e legacy-lore-conflicts.md para detalhes e conflitos não resolvidos. A lista de PDFs no topo precisa ser atualizada para refletir que os anexos adicionais agora estão disponíveis e parcialmente lidos.
