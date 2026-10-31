@@ -37,3 +37,7 @@ Biblioteca de instruções reutilizáveis para orientar agentes de IA no univers
 Esta biblioteca é uma base de transferência de conhecimento, não uma enciclopédia completa. PDFs originais, anexos integrais de conversas, fichas completas, cronologia, geografia, facções, arcos e bíblia visual ainda precisam de catalogação e validação integral. Consulte o inventário de recuperação para proveniência e lacunas.
 
 **Regra principal:** a IA auxilia o autor; não decide o cânone. Toda lacuna deve ser marcada como desconhecida ou proposta, nunca preenchida silenciosamente.
+
+
+## Transferência de cânone Apoena
+Consulte [o índice de transferência](TRANSFER-INDEX.md), [o adendo da Bíblia Oficial](apoena/docs/canon-master-addendum.md), [o inventário de fontes](apoena/docs/source-inventory.md) e [os conflitos de versões](apoena/docs/legacy-lore-conflicts.md). A transferência é incremental; não substitui a leitura integral dos documentos-fonte.
