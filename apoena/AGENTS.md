@@ -19,11 +19,13 @@ Antes de qualquer tarefa relacionada a Apoena:
 - Cânone: `skills/apoena-canon-guardian/SKILL.md`
 - Mundo: `skills/apoena-worldbuilding/SKILL.md`
 - Aurium: `skills/apoena-aurium-system/SKILL.md`
+- Constelações: `skills/apoena-constellations-and-blessings/SKILL.md`
 - Roteiro: `skills/apoena-scriptwriter/SKILL.md`
 - Direção artística: `skills/apoena-art-director/SKILL.md`
 - Personagens: `skills/apoena-character-designer/SKILL.md`
 - Imagens: `skills/apoena-image-production/SKILL.md`
 - Continuidade: `skills/apoena-continuity-reviewer/SKILL.md`
 - Sistemas de jogo: `skills/apoena-game-systems/SKILL.md`
+- Ecossistema: `skills/apoena-ecology-systems/SKILL.md`
 - Prototipagem Godot: `skills/apoena-godot-prototyping/SKILL.md`
 - Arquivista: `skills/apoena-knowledge-archivist/SKILL.md`
