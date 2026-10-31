@@ -57,3 +57,6 @@
 ## Transferência complementar — 2026-10-31
 - ../docs/transfer-session-2026-10-31-1335.md
 - ../../apoena-knowledge/README.md — conjunto suplementar; não substitui as Skills canônicas existentes.
+
+## Auditoria de transferência — 2026-10-31
+- ../docs/transfer-session-2026-10-31-1343.md — escopo e resultado verificável da transferência desta sessão.
