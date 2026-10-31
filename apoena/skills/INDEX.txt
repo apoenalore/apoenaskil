@@ -61,3 +61,7 @@
 ## Transferência complementar — 2026-10-31
 - ../docs/transfer-session-2026-10-31-1335.md
 - ../../apoena-knowledge/README.md — conjunto suplementar de Skills e notas; consultar após a biblioteca principal, não substitui as Skills canônicas existentes.
+
+## Cosmologia primordial — recuperação de 2026-10-31
+- apoena-primordial-cosmology/SKILL.md
+- ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
