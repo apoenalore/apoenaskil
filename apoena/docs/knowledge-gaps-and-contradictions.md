@@ -47,3 +47,10 @@
 
 ## Registro de atualização
 - `2026-10-31T08:47:00-03:00`: transcrições textuais dos três PDFs principais foram adicionadas; cosmologia e Aurium foram expandidos a partir das fontes primárias.
+
+
+## Referências visuais — situação atual
+- Dois mapas de cidade circular/Grande Árvore foram inspecionados e catalogados em `references/visual-assets-in-library.md`, com nomes, dimensões, hashes e descrição.
+- Sua aprovação como mapas oficiais de Agar não foi comprovada; preservar ambos como candidatos distintos.
+- Spritesheets e imagens com nomes relacionados a garoto aventureiro/compostagem foram encontrados na Biblioteca, mas não foi possível materializar seus bytes nem confirmar a ligação com Apoena.
+- Os originais binários dos mapas continuam na Biblioteca; não foram transferidos para o GitHub.
