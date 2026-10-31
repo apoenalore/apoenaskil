@@ -30,3 +30,6 @@
 
 ## Recuperação e preservação
 - apoena-knowledge-archivist/SKILL.md
+
+## Produção editorial
+- apoena-studio-production/SKILL.md
