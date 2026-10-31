@@ -4,6 +4,7 @@
 - apoena-canon-guardian/SKILL.md
 - apoena-worldbuilding/SKILL.md
 - apoena-aurium-system/SKILL.md
+- apoena-constellations-and-blessings/SKILL.md
 - apoena-continuity-reviewer/SKILL.md
 
 ## Narrativa e personagens
@@ -16,6 +17,7 @@
 
 ## Jogos e desenvolvimento
 - apoena-game-systems/SKILL.md
+- apoena-ecology-systems/SKILL.md
 - apoena-godot-prototyping/SKILL.md
 
 ## Recuperação e preservação
