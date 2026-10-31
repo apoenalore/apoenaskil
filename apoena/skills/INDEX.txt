@@ -19,6 +19,7 @@
 - apoena-game-systems/SKILL.md
 - apoena-ecology-systems/SKILL.md
 - apoena-godot-prototyping/SKILL.md
+- apoena-project-architect/SKILL.md
 
 ## Recuperação e preservação
 - apoena-knowledge-archivist/SKILL.md
