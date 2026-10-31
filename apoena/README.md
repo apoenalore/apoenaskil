@@ -9,8 +9,9 @@ Este diretório reúne regras de trabalho, modos operacionais, Skills, documento
 4. references/README.md para conhecer as fontes primárias e transcrições.
 5. docs/knowledge-recovery-2026-10-30.md
 6. docs/knowledge-gaps-and-contradictions.md
-7. Documento temático e Skill apropriada.
-8. canon/ para materiais aprovados pelo autor.
+7. docs/conversation-recovery-2026-10-31-human-perspective.md — registro da solicitação de análise humana sem Aurium e dos limites das hipóteses discutidas.
+8. Documento temático e Skill apropriada.
+9. canon/ para materiais aprovados pelo autor.
 
 ## Regra central
 **Primeiro recuperar e preservar tudo; depois organizar; em seguida auditar contradições; somente por último atualizar o cânone com o autor.** Versões antigas, desatualizadas, incompletas, descartadas ou contraditórias não podem ser apagadas ou substituídas silenciosamente. O modo padrão para importar conhecimento de outras IAs, conversas antigas, documentos ou repositórios é **MODO DE RECUPERAÇÃO INTEGRAL**.
