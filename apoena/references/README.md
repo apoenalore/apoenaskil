@@ -38,7 +38,7 @@
   - `transcriptions/apoena-origem-do-universo-p69-p90.md`
 
 ### Cópia adicional de cosmologia
-A Biblioteca também contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, com o mesmo tamanho de arquivo (686.747 bytes). Não foi feita comparação binária ou página a página integral entre as duas cópias; portanto, não declarar duplicata idêntica. Preservar como cópia adicional até conferência.
+A Biblioteca também contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, com o mesmo tamanho de arquivo (686.747 bytes). As extrações textuais das 90 páginas foram comparadas por blocos e coincidem integralmente com a primeira cópia. Isso confirma equivalência textual da extração, mas não identidade binária dos PDFs; os bytes não foram comparados.
 
 ## Referências visuais
 - `visual-assets-in-library.md` cataloga duas imagens candidatas de cidade circular/Grande Árvore, com dimensões e hashes SHA-256, e uma lista de outros assets ainda não classificados.
