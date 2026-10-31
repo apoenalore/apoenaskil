@@ -62,3 +62,8 @@
 - ../docs/transfer-session-2026-10-31-1335.md
 - ../docs/transfer-session-2026-10-31-1343.md
 - ../../apoena-knowledge/README.md — conjunto suplementar; não substitui as Skills canônicas existentes.
+
+
+## Continuidade registrada — mundo da Caverna e mentores espirituais
+- apoena-spirit-dimension-and-cave-mentors/SKILL.md — leis dos espíritos, percepção/restrição de revelação do futuro, fadas e ninfas da Caverna, mentores de Apoena, conexão/fé e limites atuais de Luciel.
+- ../docs/conversation-recovery-2026-10-31-spirit-dimension-and-apoena-cave-mentors.md — proveniência detalhada desta conversa; manter separada de outras continuidades até orientação do criador.
