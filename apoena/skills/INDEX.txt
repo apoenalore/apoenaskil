@@ -3,9 +3,6 @@
 ## Cânone e lore
 - apoena-canon-guardian/SKILL.md
 - apoena-worldbuilding/SKILL.md
-- apoena-dimensional-cosmology/SKILL.md
-
-<!-- Atualizado em 2026-10-31T10:52:00-03:00 -->
 - apoena-aurium-system/SKILL.md
 - apoena-constellations-and-blessings/SKILL.md
 - apoena-continuity-reviewer/SKILL.md
@@ -17,6 +14,7 @@
 
 ## Mundo e sociedade
 - apoena-agar-civilization/SKILL.md
+- apoena-human-perspective-reviewer/SKILL.md
 
 ## Visual
 - apoena-art-director/SKILL.md
