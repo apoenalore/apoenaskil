@@ -133,3 +133,10 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 - **Importante:** o criador identificou este material como “um mundo novo”. Não fundir automaticamente com outras versões da Caverna ou com outras cronologias do repositório.
 - As sugestões anteriores da IA (nomes para a manifestação do Grande Espírito, detalhes adicionais da aparência de Luciel e mecanismos adicionais dos espíritos) foram marcadas como não aprovadas.
 - Nenhum binário de imagem ou PDF foi copiado nesta atualização.
+
+
+## Recuperação conversacional — descrição visual de Apoena (2026-10-31T13:51:00-03:00)
+
+- Registro de proveniência: [descrição de Apoena e correção de resposta da IA](apoena/docs/conversation-recovery-2026-10-31-apoena-character-description-correction.md).
+- A descrição do protagonista nas instruções visuais do projeto é masculina: rapaz moreno, cabelos brancos bagunçados, olhos castanhos, colar dourado com cristal azul, roupa azul simples com detalhes brancos, faixa branca, sandálias de couro e arco de madeira.
+- O prompt anterior da IA que descreveu Apoena como mulher/guardiã de olhos azuis, armadura e manto foi preservado como erro histórico não canônico, não como design alternativo.
