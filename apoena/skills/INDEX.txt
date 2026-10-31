@@ -65,3 +65,7 @@
 ## Cosmologia primordial — recuperação de 2026-10-31
 - apoena-primordial-cosmology/SKILL.md
 - ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
+
+
+## Recuperação visual — 2026-10-31
+- ../docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md — pranchas de fauna da Tribo do Ar, Grande Árvore e pedidos de assets de montanhas distantes.
