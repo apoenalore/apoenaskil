@@ -14,6 +14,7 @@
 
 ## Mundo e sociedade
 - apoena-agar-civilization/SKILL.md
+- apoena-human-perspective/SKILL.md
 - apoena-human-perspective-reviewer/SKILL.md
 
 ## Visual
