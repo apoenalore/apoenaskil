@@ -27,3 +27,10 @@ Este diretório reúne regras de trabalho, modos operacionais, Skills, documento
 Os PDFs originais permanecem na Biblioteca do usuário. O repositório contém transcrições textuais extraídas dos três documentos principais sobre Aurium e cosmologia. As transcrições não preservam imagens, diagramas ou diagramação e podem conter erros de OCR. A página 90 da cosmologia precisa de conferência visual.
 
 Não trate resumos de memória como substitutos dos PDFs originais. Não transforme sistemas de jogo em lore canônica. A aprovação final pertence ao criador.
+
+
+## Registros complementares desta recuperação
+- `docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md`: pedido de arquitetura ancestral sem estátuas e geografia prioritária.
+- `docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md`: registro detalhado complementar da conversa.
+- `references/attachments-2026-10-31.md`: inventário e transcrição visual complementar dos anexos.
+- `docs/conversation-recovery-2026-10-31-new-uploads.md`: registro de fontes recebidas, metadados e pendências de comparação.
