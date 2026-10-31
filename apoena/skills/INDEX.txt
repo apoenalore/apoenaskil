@@ -36,3 +36,10 @@
 
 ## Produção editorial
 - apoena-studio-production/SKILL.md
+
+
+## Registros de recuperação relacionados a Agar e fontes recentes
+- ../docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md
+- ../docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md
+- ../docs/conversation-recovery-2026-10-31-new-uploads.md
+- ../references/attachments-2026-10-31.md
