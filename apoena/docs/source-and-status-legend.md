@@ -16,4 +16,13 @@
 Correção explícita mais recente do autor prevalece no mesmo escopo. Fonte primária aprovada prevalece sobre resumo de memória. Se a precedência não puder ser estabelecida, registrar divergência e pedir decisão.
 
 ## Metadados mínimos
-Afirmação, status, fonte, data/contexto, escopo (mangá, jogo, editor ou ferramenta), decisão substituída e validação pendente.
+Afirmação, status, fonte, escopo (mangá, jogo, editor ou ferramenta), decisão substituída e validação pendente.
+
+## Regra obrigatória de data e hora
+Todo novo registro, atualização, decisão, descoberta, correção, teste ou relatório deve informar data e hora em ISO 8601 com fuso horário quando disponível (ex.: `2026-10-31T02:55:00-03:00`).
+
+Quando aplicável, registrar separadamente:
+- `data_hora_do_evento`: quando a conversa, decisão ou acontecimento ocorreu.
+- `data_hora_do_registro`: quando a IA documentou ou atualizou a informação.
+
+Não inventar datas, horários ou fusos. Se só a data for conhecida, escrever **Hora não disponível na fonte**. Se ambos forem desconhecidos, escrever **Data e hora não disponíveis na fonte**. Se o ambiente não fornecer relógio/fuso confiável, declarar a limitação em vez de fabricar um timestamp.
