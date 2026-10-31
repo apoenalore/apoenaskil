@@ -40,3 +40,13 @@ Leia docs/agar-civilization-and-geography.md, docs/cosmology.md e docs/canon-sta
 - Consultar skills/apoena-agar-governance-and-defense/SKILL.md para as definições diretas do criador sobre Primodiarca, Arcontes e Sentinelas.
 - Não confundir esses cargos com classes de Aurium ou uma hierarquia cósmica.
 - Registro da conversa: docs/conversation-recovery-2026-10-31-primodiarca-arcontes-sentinelas.md.
+
+
+## Hierarquia político-militar de Agar — atualização 2026-10-31
+- Primodiarca: líder supremo militar; autoridade comparável à de rei/monarca; analogia funcional ao Hokage e deveres comparados aos de um presidente.
+- Arcontes: quatro autoridades abaixo do Primodiarca, um para cada tribo; cada um cuida de sua tribo.
+- Sentinelas: primeira força de defesa de Agar; vigiam e defendem as muralhas e o território próximo, patrulhando sobre e ao redor delas.
+- Não converter os três cargos em entidades cósmicas ou níveis sobrenaturais.
+- A cadeia formal de comando dos Sentinelas e competências específicas dos Arcontes ainda não foram detalhadas.
+- A relação entre Agam, Angam Ubirara e Primodiarca permanece pendente de confirmação.
+- Registro detalhado: docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md.
