@@ -58,3 +58,24 @@ Consulte `../../docs/conversation-recovery-2026-08-25-professions-and-elemental-
 - Um aprendiz Terra + Fogo foi imaginado aprendendo a sentir/compreender o metal por Terra e aquecê-lo com precisão por Fogo.
 - Esses exemplos são ilustrativos e não estabelecem personagens, técnicas nomeadas ou resultados automáticos para todos os usuários dessas manifestações.
 - Um Mago pode usar um cajado como catalisador para combinações e também manifestar elementos separadamente; não restringir toda magia a combinações.
+
+
+## Correção de perspectiva narrativa — 2026-10-31
+
+Não confundir a verdade metafísica com o vocabulário consciente dos personagens. No começo da história, os habitantes pensam que estão manifestando/controlando seu elemento; não pensam cotidianamente “estou canalizando Aurium”. A energia fundamental existe na arquitetura real do universo, mas a compreensão consciente desse mecanismo será descoberta gradualmente pela nova geração, com Apoena e fragmentos de texto antigo em uma construção em ruínas. O achado é uma ideia do criador ainda sem conteúdo/localização definidos.
+
+## Classe e habilidades profissionais
+
+Classe não é apenas fortalecimento físico genérico. Ela concede habilidades/poderes específicos ligados à função. Exemplo do criador: pessoa da tribo da Água com classe Ferreiro mantém sua manifestação de Água e recebe habilidades próprias de ferreiro; resistência ao calor extremo da forja foi citada como exemplo. Não inventar catálogo de habilidades para classes sem aprovação.
+
+A proposta de dois domínios — elemental e de classe — e “nível máximo” para o ápice de ambos está em desenvolvimento, sem níveis ou critérios definidos.
+
+## Caverna dos Renascidos
+
+A cerimônia dura três dias: (1) a criança é ouvida e cria vínculo de confiança com o espírito; (2) o espírito anuncia que Agar será transportada novamente para Arkana em alguns anos, explica a responsabilidade de proteger o que se ama e responde perguntas somente dentro da autorização que possui; (3) a criança recebe a classe e um treinamento inicial de suas habilidades. A formação posterior acontece na sociedade. Consultar o registro de recuperação para detalhes e pendências.
+
+## Apoena — anomalia e cronologia
+
+O criador definiu que a sobrecarga de Sombra de um dos pais e a sobrecarga de Luz do outro resultaram em quantidade excepcional de Aurium desde o nascimento. Pessoas comuns desenvolvem Aurium gradualmente junto com o corpo; Apoena nasceu fora dessa progressão e o sistema biológico impede a manifestação até que o corpo tenha preparação suficiente. É o primeiro caso conhecido. Aos 7 começa o ensino elemental; permanece na escola até 12; aos 12 segue o caminho militar; dos 12 aos 14 continua sem manifestação elemental, mas desenvolve seu estilo corporal ao longo dos anos. Aos 14 enfrenta uma luta que não pode vencer apenas com suas capacidades físicas e busca respostas na Caverna. Não atribuir à Caverna a criação de seu estilo físico.
+
+**Atenção à divergência:** a fonte Atual diz Mudança de Classe aos 14; esta conversa descreve classe recebida no rito infantil. Não harmonizar sem confirmação. Ver `../../docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md`.
