@@ -87,3 +87,7 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 - A atualização corrige a interpretação metafísica anterior feita pela IA: os três termos foram definidos pelo criador como cargos/funções políticos e militares de Agar.
 - A liderança previamente registrada como “Angam Ubirara” foi mantida como ponto de comparação pendente; nenhuma equivalência foi presumida.
 - Esta atualização não copiou os PDFs anexados como binários. Eles permanecem disponíveis como anexos desta sessão; as transcrições e inventários já existentes no repositório continuam sendo referências textuais, não substitutos dos originais.
+
+
+## Recuperação mais recente
+A hierarquia político-militar de Agar (Primodiarca, quatro Arcontes e Sentinelas) está registrada em apoena/docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md e na Skill apoena/skills/apoena-agar-governance-and-defense/SKILL.md. A descrição metafísica anterior de Primodiarca foi corrigida pelo criador e não deve ser reutilizada.
