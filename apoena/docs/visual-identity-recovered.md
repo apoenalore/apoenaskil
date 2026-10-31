@@ -26,5 +26,12 @@ Apoena: cabelo branco, pele muito escura e sobrancelhas pretas. Usar referência
 - Meta para modelo Apoena Android: abaixo de 8.000 vértices, ideal perto de 5.000; meta discutida, não limite universal.
 - Creator deveria reunir ferramentas 3D e Pixel Art, com editores de personagem/animal/cenário, upload, recorte, grade ajustável, corte inteligente e remoção de sobras; requisito planejado.
 
+## Mapas e referências visuais encontradas
+A Biblioteca contém duas imagens distintas de cidade circular com grande árvore central:
+- `Mapa Aquarelado da Cidade Circular Celeste.png`
+- `Mapa Aéreo da Cidade do Tronco Gigante.png`
+
+Ambas foram inspecionadas e catalogadas em `../references/visual-assets-in-library.md`, com dimensões e hashes SHA-256. Parecem compatíveis com a descrição recuperada da cidade circular e da Grande Árvore, mas a aprovação como mapa canônico não foi comprovada. Não escolher uma como versão oficial nem assumir que substitui a outra.
+
 ## Restrições
 Não misturar anime/mangá minimalista com CGI sem pedido. Não adicionar itens ausentes da referência. Não declarar paletas e proporções universais aprovadas enquanto a bíblia visual não for recuperada.
