@@ -56,3 +56,17 @@
 
 ## Regra para próximas atualizações
 Quando um PDF, anexo, conversa antiga ou asset for disponibilizado, comparar com estes resumos, registrar fonte e atualizar Skills. Não substituir resumo por inferência. Manter versões anteriores e apontar conflitos para decisão do autor.
+
+
+## Complemento de recuperação — expansão de 2026-10-30
+
+Nesta etapa foram adicionados, a partir do contexto de conversas anteriores disponível:
+- Agar: país único, quatro tribos e cores, cultura ancestral, fundação, isolamento, medidas gerais da capital, muralha, portão, liderança e educação.
+- Personagens: Apoena Rocha Rios, Oriom/Orium, Serena, Aqua, Blin/Brin, Ruf, Kael, Ubirara/Ubirará/Birará e fragmentos de profecia/visões.
+- Temas e estilo narrativo: esperança, perseverança, amizade, família, crescimento, sacrifício/coragem, ritmo Webtoon e linguagem simples.
+- Direção visual: anime/mangá 2D minimalista, pixel art 2.5D específica do jogo, regras de spritesheet/transparência e metas de produção 3D.
+- Parâmetros de gameplay lembrados: HP, AUR, moedas, habilidades Q/W/E/R/F, veneno, dungeon, itens e ecossistema vivo.
+- Legenda formal de proveniência/status e documento de lacunas/contradições.
+- Skills novas: Agar, cânone de personagens, continuidade visual e implementação de gameplay.
+
+Os novos documentos são sínteses de memória e decisões de conversa. Não substituem as fontes primárias. Nenhum PDF, imagem ou arquivo binário foi copiado nesta etapa.
