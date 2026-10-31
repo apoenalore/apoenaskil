@@ -17,3 +17,11 @@ Esta pasta reúne as instruções e referências de IA exclusivas do projeto Apo
 - Para recuperar novos materiais, use `apoena-knowledge-archivist`.
 
 **Importante:** a transferência ainda é parcial. Não representa análise integral de todos os PDFs ou conversas antigas. Não invente o que ainda não foi catalogado. Marque lacunas e peça validação do autor.
+
+
+## Novas referências de cânone
+- `docs/canon-master-addendum.md` — resumo de regras explícitas da Bíblia Oficial.
+- `docs/legacy-lore-conflicts.md` — preserva conflitos e versões substituídas.
+- `docs/source-inventory.md` — lista dos PDFs enviados e escopo de leitura nesta etapa.
+- `docs/agar-geography.md`, `docs/agar-government.md`, `docs/character-canon.md` — referências iniciais por tema.
+- `skills/INDEX.txt` foi ampliado com Skills de cosmologia, história, personagens, Agar, governo, direção visual e separação de projetos de jogo.
