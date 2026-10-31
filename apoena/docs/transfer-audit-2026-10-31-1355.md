@@ -75,3 +75,23 @@ Nenhuma divergência foi resolvida nesta transferência.
 ## 7. Verificação pós-gravação
 
 Após criação/atualização, reler os arquivos no GitHub e conferir a presença dos links no índice e README. Registrar os SHAs de commit retornados pela API.
+
+
+## 8. Resultado da verificação e commits
+
+Os cinco arquivos/atualizações foram relidos pela API do GitHub após a gravação. Os conteúdos retornaram sem erro e com os seguintes blobs SHA:
+
+- Skill: `21429ce344130190092ac386aaf51c4a9762d60a`
+- Registro de recuperação: `8cccbd9082a94ba271a6d74be52509178a18b2f1`
+- Auditoria: `e7bd0757c30dc542f35aa57d5dafb886cfbc2526`
+- Índice: `5212df78fcbb5d18f1eda7297e4b339e2ab998e8`
+- README raiz: `39522b93dfea6dca07d507b9ea34ad6e5ce76e11`
+
+Commits gravados na branch `main`:
+1. `8c2c07ebfd1538e7deee9732e94c6217466c2598` — Skill Tupi/Anahi.
+2. `f6165437cd6fa8e9f81f3571c757fb220c98de84` — registro de recuperação.
+3. `a04c1e9a32b7f67d2e2cb9990e5c8b7d3a8d8f22` — auditoria.
+4. `b45f0998d491c36c9f67de7119cf2f51779a37db` — índice de Skills.
+5. `87aff200564fd2da9f31a9536df8c91b439ad716` — README raiz.
+
+**Verificação limitada:** foi conferida a existência e leitura dos cinco arquivos e o conteúdo inicial de cada um. Não foi executado um validador automático de links Markdown nem uma auditoria de todos os arquivos do repositório.
