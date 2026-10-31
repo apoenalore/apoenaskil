@@ -7,7 +7,7 @@
 Aurium absorvido → estômago/conversão → coração → cérebro → sistema nervoso → utilização. A Porta de Fluidez é o caminho-base do Aurium, não uma porta rara adicional. A manifestação segue o fluxo e as capacidades individuais.
 
 ## Manifestações
-Quatro portas elementais humanas principais: Terra, Água, Fogo e Vento. Luz e Sombra são manifestações de camada primordial/cósmica distinta. Ter uma porta não significa domínio.
+Quatro portas elementais humanas principais: Terra, Água, Fogo e Ar. “Vento” não é elemento oficial; quando aparecer em material antigo como nome do elemento, harmonizar para Ar. Luz e Sombra são manifestações de camada primordial/cósmica distinta. Ter uma porta não significa domínio.
 
 ## Ambiente, classe e estilo
 - A manifestação não depende exclusivamente de existir matéria do elemento no ambiente; matéria compatível pode oferecer vantagem.
@@ -32,8 +32,8 @@ A linhagem de Apoena permite predisposição para Terra, Água, Fogo, Vento, Luz
 Após a Caverna dos Renascidos, aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
 
 ## Personagens citados no material
-- Brin: exemplo de manifestação de Ar/Vento com Aurium exteriorizado.
-- Birará: Terra e Água; combinação associada a Madeira; domínio direto.
+- Blin/Brin: o sistema consolidado final declara Blin como nome oficial e Brin como grafia antiga; a Bíblia Oficial ainda usa Brin em uma seção. O exemplo de manifestação de Ar por exteriorização natural de Aurium está associado a esse personagem; ver conflito registrado.
+- Ubirara: Terra e Água; combinação associada a Madeira; domínio direto. “Birará” é forma antiga/incorreta para o Grande Monarca.
 - Serena: Água, Vento e Luz.
 - Orium: Fogo, Terra e Sombra.
 - Kael e Ruf: citados entre os companheiros; não inferir portas sem fonte.
@@ -43,3 +43,7 @@ Considere personagem, personalidade, manifestações disponíveis, classe, exper
 
 ## Limite entre cânone e jogo
 Barras, valores numéricos, modificadores ambientais, custos específicos de Q/W/E/R, habilidades de manopla e bênçãos de constelações pertencem ao protótipo de jogo quando assim marcados. Não os converta em regras narrativas sem aprovação explícita.
+
+
+## Cânone-mestre — correções prioritárias
+A Bíblia Oficial estabelece: Apoena começa aos 12 anos; aos 14 passa pelo ritual no Monte do Renascimento/Caverna da Decisão; a experiência dura aproximadamente 3 meses. A versão de 3 anos na Caverna é descartada. Apoena possui potencial excepcional para Água, Fogo, Terra, Ar, Luz e Sombra, mas não começa dominando as seis. A população comum de Agar conhece a energia como Força Vital/Energia Elementar; Aurium é o conceito profundo/perdido. Porta aberta, manifestação, domínio, classe, estilo e técnica são conceitos distintos.
