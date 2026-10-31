@@ -127,7 +127,7 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - Nova Skill: [Espíritos, leis espirituais e mentores da Caverna](apoena/skills/apoena-spirit-dimension-and-cave-mentors/SKILL.md).
 - Registro de proveniência: [conversa sobre dimensão espiritual e treinamento de Apoena](apoena/docs/conversation-recovery-2026-10-31-spirit-dimension-and-apoena-cave-mentors.md).
-- Preservadas as correções do criador: Luciel foi criado pelo Grande Espírito; permanece preso em outra dimensão; seu corpo astral só flui limitadamente na Terra dos Vivos; não alcança a Caverna de Apoena nem o mundo onde está presente no momento atual.
+- Preservadas as correções do criador: Luciel foi criado pelo Grande Espírito; permanece preso em outra dimensão; seu corpo astral só flui limitadamente na Terra dos Vivos; não alcança a Caverna de Apoena nem o mundo onde Apoena está no presente da narrativa.
 - Registrados os ensinamentos confirmados para os três anos de Apoena (cura, luz, floresta e história oculta do Cataclismo), a presença de fadas, ninfas das plantas e pequenos seres espirituais, e as leis dos espíritos sobre percepção/revelação do futuro.
 - Preservada a distinção de que todos têm acesso ao Aurium, enquanto a conexão/fé permite utilizar mais Aurium. A Caverna atende às necessidades da vocação individual e não concede atributos genéricos.
 - **Importante:** o criador identificou este material como “um mundo novo”. Não fundir automaticamente com outras versões da Caverna ou com outras cronologias do repositório.
