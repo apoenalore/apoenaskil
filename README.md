@@ -104,3 +104,12 @@ A hierarquia político-militar de Agar (Primodiarca, quatro Arcontes e Sentinela
 
 - `apoena/docs/conversation-recovery-2026-10-31-grande-espirito-visual-representation.md` preserva a pergunta do criador sobre a possibilidade de representar o Grande Espírito e separa as sugestões visuais da IA (não aprovadas) do que foi efetivamente declarado pelo criador.
 - A resposta anterior da IA tratou “Criador absoluto” como premissa; o registro marca essa formulação como interpretação a verificar nas fontes primárias, não como decisão nova.
+
+
+## Recuperação conversacional — cosmologia primordial (2026-10-31T13:39:00-03:00)
+
+- Nova Skill: `apoena/skills/apoena-primordial-cosmology/SKILL.md`, com as regras de continuidade da cosmologia primordial, Grande Espírito, três manifestações, Aurium, Esvazium, Kairu, Nairuk, Guerra do Céu e vocabulário temporal.
+- Registro de proveniência: `apoena/docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md`, com sequência narrativa, correções do criador, histórico de nomes e divergências.
+- A correção explícita “Aurium não foi criado” foi registrada em confronto com o texto-base anterior que dizia “surgiu” da vontade do Grande Espírito; a divergência permanece aberta para atualização editorial com o criador.
+- A versão narrativa revisada pela IA não foi marcada como cânone final, pois não houve aprovação explícita registrada.
+- Nenhum PDF ou imagem binária foi copiado nesta atualização.
