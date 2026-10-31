@@ -25,3 +25,6 @@ Esta pasta reúne as instruções e referências de IA exclusivas do projeto Apo
 - `docs/source-inventory.md` — lista dos PDFs enviados e escopo de leitura nesta etapa.
 - `docs/agar-geography.md`, `docs/agar-government.md`, `docs/character-canon.md` — referências iniciais por tema.
 - `skills/INDEX.txt` foi ampliado com Skills de cosmologia, história, personagens, Agar, governo, direção visual e separação de projetos de jogo.
+
+- `docs/chapter1-reference.md` — referência de continuidade do Capítulo 1.
+- `docs/legacy-lore-archive.md` — resumo preservado de versões históricas (Grock Lore, Lore antiga e bíblia desatualizada).
