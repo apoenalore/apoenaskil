@@ -19,6 +19,8 @@
 - apoena-agar-governance-and-defense/SKILL.md
 - apoena-human-perspective/SKILL.md
 - apoena-human-perspective-reviewer/SKILL.md
+- apoena-ecology-systems/SKILL.md
+- apoena-ancestral-beasts-and-artifacts/SKILL.md
 
 ## Visual
 - apoena-art-director/SKILL.md
@@ -28,7 +30,6 @@
 ## Jogos e desenvolvimento
 - apoena-game-systems/SKILL.md
 - apoena-gameplay-implementation/SKILL.md
-- apoena-ecology-systems/SKILL.md
 - apoena-progression-economy/SKILL.md
 - apoena-godot-prototyping/SKILL.md
 - apoena-project-architect/SKILL.md
@@ -52,11 +53,10 @@
 - ../docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md
 - ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
 - ../docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md
+- ../docs/conversation-recovery-2026-10-31-ancestral-beasts-and-forbidden-gauntlet.md
 - ../docs/conversation-recovery-2026-10-31-backup-topics-49-71.md
 
 ## Transferência complementar — 2026-10-31
 - ../docs/transfer-session-2026-10-31-1335.md
+- ../docs/transfer-session-2026-10-31-1343.md
 - ../../apoena-knowledge/README.md — conjunto suplementar; não substitui as Skills canônicas existentes.
-
-## Auditoria de transferência — 2026-10-31
-- ../docs/transfer-session-2026-10-31-1343.md — escopo e resultado verificável da transferência desta sessão.
