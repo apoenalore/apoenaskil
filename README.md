@@ -91,3 +91,10 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 ## Recuperação mais recente
 A hierarquia político-militar de Agar (Primodiarca, quatro Arcontes e Sentinelas) está registrada em apoena/docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md e na Skill apoena/skills/apoena-agar-governance-and-defense/SKILL.md. A descrição metafísica anterior de Primodiarca foi corrigida pelo criador e não deve ser reutilizada.
+
+
+## Recuperação conversacional — ritual, classes e Apoena (2026-10-31)
+
+- `apoena/docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md` preserva as declarações e correções desta sessão sobre a equipe, infância de Apoena, anomalia de Aurium, cerimônia de três dias, classe e descoberta histórica futura.
+- `apoena/docs/aurium-system.md` e `apoena/skills/apoena-aurium-system/SKILL.md` receberam notas de perspectiva narrativa e distinção entre classe e manifestação.
+- `apoena/docs/knowledge-gaps-and-contradictions.md` registra divergências ainda sem resolução, especialmente classe infantil versus Mudança de Classe aos 14 anos.
