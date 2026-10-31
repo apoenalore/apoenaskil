@@ -61,3 +61,9 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - `apoena/docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md`: histórico da escolha de “Agam” como preferência do autor (ainda sem confirmação canônica formal) e proveniência da reafirmação do protocolo de recuperação integral.
 - A Skill `apoena/skills/apoena-agar-civilization/SKILL.md` aponta para esse registro e preserva o status provisório do termo.
+
+
+## Recuperação conversacional — 2026-10-31T11:05:00-03:00
+
+- `apoena/docs/conversation-recovery-2026-10-31-escola-coliseu-and-four-students.md`: preserva as referências arquitetônicas identificadas como Escola Coliseu, a solicitação explícita da sequência de quatro alunos sentados perto da janela (amarelo, azul, verde, vermelho), descrições visuais observáveis e propostas anteriores da IA marcadas como não canônicas.
+- Nenhum binário das imagens anexadas nesta conversa foi copiado por esta atualização; o documento registra o conteúdo visual e a pendência de preservação dos originais.
