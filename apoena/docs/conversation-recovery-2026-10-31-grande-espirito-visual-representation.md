@@ -52,8 +52,8 @@ Os três arquivos abaixo foram disponibilizados no contexto desta sessão e conf
 
 | Arquivo | Tamanho | SHA-256 |
 |---|---:|---|
-| `Livro.pdf` | 5.4 MiB (5,? bytes não registrado nesta checagem) | `a2aae5a4750a7270efac303b7ca34e6e1e85dca6760158d5d73842e9e5d4cc4e` |
-| `Apoena a Origem do Universo  (6).pdf` | 748 KiB | `1350c8381a0741b81a0a61dca027c29c00677717b44d5cd75465fc86b052831d` |
-| `Sistema de Poderes Apoena.pdf` | 251 KiB | `d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8` |
+| `Livro.pdf` | 5,625,710 bytes | `a2aae5a4750a7270efac303b7ca34e6e1e85dca6760158d5d73842e9e5d4cc4e` |
+| `Apoena a Origem do Universo  (6).pdf` | 765,419 bytes | `1350c8381a0741b81a0a61dca027c29c00677717b44d5cd75465fc86b052831d` |
+| `Sistema de Poderes Apoena.pdf` | 256,662 bytes | `d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8` |
 
 Os nomes correspondem aos anexos recebidos; não foi feita nesta etapa uma nova análise integral do conteúdo dos PDFs. Consultar as transcrições e auditorias já existentes em `apoena/references/` e `apoena/docs/`. A identidade/versão desses arquivos deve ser comparada com os inventários anteriores antes de tratá-los como versões novas ou substitutas.
