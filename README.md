@@ -8,11 +8,12 @@ Biblioteca de instruções reutilizáveis para orientar agentes de IA no univers
 3. Leia apoena/docs/source-and-status-legend.md.
 4. Consulte apoena/canon/ e os documentos temáticos em apoena/docs/.
 5. Selecione a Skill em apoena/skills/INDEX.txt.
+6. Para tarefas do GameCreator e integração com Godot, leia apoena/skills/apoena-game-engineering/SKILL.md e a auditoria técnica datada em apoena/docs/.
 
 ## Estrutura
 - apoena/AGENTS.md: regras gerais.
 - apoena/skills/: Skills especializadas, cada uma com SKILL.md.
-- apoena/docs/: conhecimento recuperado, proveniência e lacunas.
+- apoena/docs/: conhecimento recuperado, proveniência, auditorias e lacunas.
 - apoena/canon/: materiais aprovados.
 - apoena/decisions/: decisões registradas.
 
