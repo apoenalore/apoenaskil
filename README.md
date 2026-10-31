@@ -118,3 +118,5 @@ A hierarquia político-militar de Agar (Primodiarca, quatro Arcontes e Sentinela
 ## Recuperação visual — fauna, Grande Árvore e montanhas (2026-10-31)
 
 - `apoena/docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md`: preserva as pranchas de fauna da Tribo do Ar, os dados visíveis da Grande Árvore, os pedidos de cena com Apoena e animais, as correções de composição, a exigência de montanhas distantes com alpha real e o desvio de estilo apontado pelo criador. Registra também que os binários não foram copiados e que a recriação corrigida não foi concluída por limite temporário da ferramenta.
+
+- `apoena/docs/transfer-session-2026-10-31-1343.md`: auditoria desta execução, arquivos consultados, commits realizados e limites de recuperação.
