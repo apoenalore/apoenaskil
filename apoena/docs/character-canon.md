@@ -17,7 +17,7 @@
 Irmã de Apoena. Conversas registram água, ar e tempestade; idades 5 e 7 aparecem em diferentes fases/registros. Fixar idade por fase apenas com referência de capítulo.
 
 ## Oriom / Orium
-A Bíblia Oficial lista a forma **Orium** em exemplos de sistema, enquanto conversas registram **Oriom** como pai de Apoena/Sentinela das Sombras. É necessário verificar grafia de personagem e versão do documento antes de harmonizar. Registros conversacionais atribuem fogo, lava, terra, sombras e pulseira de cristal vermelho.
+A Bíblia Oficial e PDFs de sistema usam **Orium** em exemplos; conversas registram **Oriom** como pai de Apoena/Sentinela das Sombras. Não está confirmado nesta recuperação se é grafia divergente do mesmo personagem ou se há distinção de contexto. Conversas atribuem fogo, lava, terra, sombras e pulseira de cristal vermelho. Preservar a fonte e pedir validação antes de harmonizar.
 
 ## Serena
 Registros de conversa: mãe de Apoena, sacerdotisa; manifestações/associações água, ar, luz e tempestade. A Bíblia Oficial cita Serena com Água, Vento e Luz em seção de sistema; Ar/Vento precisa ser harmonizado para Ar como nome oficial do elemento.
@@ -25,5 +25,9 @@ Registros de conversa: mãe de Apoena, sacerdotisa; manifestações/associaçõe
 ## Ubirara
 Bíblia Oficial: Grande Monarca Ubirara; Terra + Água → Estilo Madeira; Classe Mago; catalisador/cajado; Aurium direto; técnicas listadas em canon-master-addendum.md.
 
-## Brin, Kael e Ruf
-A Bíblia Oficial confirma que Brin, Kael e Ruf possuem Aurium e inicialmente se concentram nas manifestações elementares. Brin pode manifestar Ar por exteriorização natural de Aurium. Não deduzir portas adicionais ou atributos não descritos.
+## Blin/Brin, Kael e Ruf
+A Bíblia Oficial — Cânone Mestre usa **Brin** em sua seção sobre Brin, Kael e Ruf. O documento “Claud cloud — Livro de Regras do Aurium — Documento Consolidado Final” declara explicitamente **Blin** como nome oficial e Brin como grafia antiga. Esta divergência entre fontes está registrada em legacy-lore-conflicts.md; usar “Blin (grafia consolidada no sistema; Bíblia Oficial ainda contém Brin)” em referência provisória. Kael e Ruf também possuem Aurium; Blin pode manifestar Ar por exteriorização natural. Não deduzir portas adicionais.
+
+
+## Notas sobre nomes de fonte
+O sistema consolidado também declara Ubirara e Ar como grafias/termos oficiais em lugar de Birará e Vento. A Bíblia Oficial confirma essas correções. Consulte o adendo do cânone-mestre.
