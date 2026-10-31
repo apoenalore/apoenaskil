@@ -18,6 +18,7 @@
 ## Jogos e desenvolvimento
 - apoena-game-systems/SKILL.md
 - apoena-ecology-systems/SKILL.md
+- apoena-progression-economy/SKILL.md
 - apoena-godot-prototyping/SKILL.md
 - apoena-project-architect/SKILL.md
 
