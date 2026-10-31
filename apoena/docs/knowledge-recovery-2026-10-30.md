@@ -93,3 +93,9 @@ Conteúdo recuperado:
 - A proposta de livro inspiracional, com elementos do mundo real e estrutura de grande narrativa fundadora, foi discutida como possibilidade em desenvolvimento.
 
 Divergências preservadas: ano 90 versus ano 99; aproximadamente 4.130 versus 4.000 anos; grafias Arkana versus Arcana. A atualização não resolve essas diferenças.
+
+## Recuperação conversacional complementar — 2026-10-31T10:52:00-03:00
+
+Registro detalhado em apoena/docs/recovery-session-2026-10-31-chat-context.md. A captura preserva direção artística fornecida pelo autor, descrição da muralha circular de Agar com 60 m e domo azul-claro mais alto, restrições de circulação para fora de Agar, exemplos de liberdade de uso das manifestações elementais, abertura inicial da HQ, referências de geografia/capital e limites de recuperação.
+
+O registro distingue decisões explícitas de lembranças a validar. Os pedidos de proporção 9:3 e 4:3 são relativos a imagens específicas, não regras universais. A espessura de 20 m, as relações entre medidas geográficas e a composição do exército permanecem pendentes de validação. Nenhum binário de imagem ou PDF expirado foi copiado nesta captura.
