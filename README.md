@@ -121,3 +121,15 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 - O registro separa as sugestões não aprovadas da IA, aponta a divergência Luciel/Nairuk já existente na documentação e mantém em aberto as questões sem resposta.
 - A imagem adulta sem tatuagens/símbolos foi aprovada como referência visual nesta conversa, mas seu binário não foi copiado para o GitHub. A arte juvenil de 14 anos ainda não foi criada.
 - Nenhuma informação sobre população, governo, atributo principal de Apoena ou motivo dos três anos foi inventada.
+
+
+## Recuperação conversacional — espíritos, mentores da Caverna e estado de Luciel (2026-10-31T13:50:00-03:00)
+
+- Nova Skill: [Espíritos, leis espirituais e mentores da Caverna](apoena/skills/apoena-spirit-dimension-and-cave-mentors/SKILL.md).
+- Registro de proveniência: [conversa sobre dimensão espiritual e treinamento de Apoena](apoena/docs/conversation-recovery-2026-10-31-spirit-dimension-and-apoena-cave-mentors.md).
+- Preservadas as correções do criador: Luciel foi criado pelo Grande Espírito; permanece preso em outra dimensão; seu corpo astral só flui limitadamente na Terra dos Vivos; não alcança a Caverna de Apoena nem o mundo onde está presente no momento atual.
+- Registrados os ensinamentos confirmados para os três anos de Apoena (cura, luz, floresta e história oculta do Cataclismo), a presença de fadas, ninfas das plantas e pequenos seres espirituais, e as leis dos espíritos sobre percepção/revelação do futuro.
+- Preservada a distinção de que todos têm acesso ao Aurium, enquanto a conexão/fé permite utilizar mais Aurium. A Caverna atende às necessidades da vocação individual e não concede atributos genéricos.
+- **Importante:** o criador identificou este material como “um mundo novo”. Não fundir automaticamente com outras versões da Caverna ou com outras cronologias do repositório.
+- As sugestões anteriores da IA (nomes para a manifestação do Grande Espírito, detalhes adicionais da aparência de Luciel e mecanismos adicionais dos espíritos) foram marcadas como não aprovadas.
+- Nenhum binário de imagem ou PDF foi copiado nesta atualização.
