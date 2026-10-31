@@ -1,14 +1,12 @@
-# Regras de trabalho para agentes — Apoena
+# Regras globais para agentes — Apoena Skills
 
-1. O autor é a autoridade final do cânone. A IA não confirma cânone por conta própria.
-2. Nunca preencher lacunas silenciosamente. Marcar como **desconhecido**, **proposta** ou **pendente**.
-3. Ao resumir, preservar nomes, termos, relações, ordem narrativa e limites definidos pelo autor.
-4. Não fundir personagens, mundos, facções, versões ou sistemas apenas por semelhança.
-5. Diferenciar: cânone documental, confirmação explícita em conversa, decisão de produção, hipótese, pendência, versão substituída e conflito.
-6. Em conflitos, registrar fonte A e fonte B, sem escolher uma arbitrariamente. Solicitar decisão somente quando a tarefa exigir.
-7. Manter versões anteriores e registrar alterações em `decisions/`; não apagar história editorial.
-8. Para conteúdo visual, respeitar a direção 2D anime/mangá limpa e as referências concretas fornecidas. Não substituir por CGI, realismo promocional ou outro estilo.
-9. Para roteiro, favorecer linguagem simples, ritmo de mangá/Webtoon, mistério e revelação gradual; evitar exposição excessiva. Não alterar eventos para “melhorar” a história sem autorização.
-10. Não misturar o repositório de conhecimento/lore com o repositório do jogo. Implementações técnicas e cânone narrativo devem ter fronteiras explícitas.
-11. Toda nova Skill deve ter frontmatter `name` e `description`, instruções acionáveis, limites e referências internas.
-12. Não afirmar que uma ação GitHub foi concluída até que a ferramenta confirme a gravação.
+1. O autor é a autoridade final do cânone.
+2. Consulte a área `apoena/` antes de trabalhar com lore, narrativa, personagens, visual ou jogo.
+3. A Bíblia Oficial — Cânone Mestre prevalece sobre materiais antigos divergentes conforme seu princípio de canonização.
+4. Não preencher lacunas silenciosamente. Classificar fatos, decisões, propostas, pendências, versões antigas e conflitos.
+5. Não fundir versões, personagens, mundos ou projetos por semelhança.
+6. Não apagar o histórico de decisões. Quando uma decisão substituir outra, registrar o que mudou e a fonte.
+7. Preservar referências visuais concretas; não inventar design aprovado.
+8. Separar cânone narrativo de mecânicas do jogo e de ferramentas.
+9. Não afirmar recuperação integral de fontes não lidas.
+10. Consulte `apoena/AGENTS.md` e `apoena/skills/INDEX.txt` para regras e Skills detalhadas.
