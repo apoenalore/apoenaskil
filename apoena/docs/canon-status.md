@@ -35,3 +35,8 @@ Ainda requerem catalogação: fichas completas e fontes de cada personagem; cron
 
 ## Regra de atualização
 Registre afirmação, fonte, versão/data, status, aprovação do autor e documento histórico afetado. Consulte docs/canon-master-addendum.md e docs/legacy-lore-conflicts.md.
+
+
+## Divergências de grafia ainda abertas
+- **Blin/Brin:** o sistema consolidado final declara Blin como nome oficial e Brin como grafia antiga; a Bíblia Oficial ainda contém Brin em uma seção. O conflito está documentado e não foi harmonizado silenciosamente.
+- **Oriom/Orium:** conversas registram Oriom como pai de Apoena; PDFs de sistema usam Orium. Confirmar grafia/identidade com o autor antes de consolidar.
