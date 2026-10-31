@@ -57,3 +57,9 @@ A Biblioteca também contém `Apoena a Origem do Universo (5)(1).pdf`, entrada e
 - Os 16 PDFs mencionados em conversa de 2026-09-29.
 - Manual completo do Aule.
 - Fichas oficiais completas de personagens, mapas e bíblia visual.
+
+
+## Materiais recebidos em 2026-10-31
+- `uploaded-materials-audit-2026-10-31.md`: inventário visual e textual dos três PDFs anexados nesta sessão, incluindo `Livro.pdf` (2 páginas visuais), a nova cópia de 102 páginas da cosmologia e a cópia histórica de 25 páginas do sistema de poderes.
+- `transcriptions/apoena-origem-do-universo-v6-p91-p102.md`: transcrição textual das páginas 91–102 da nova cópia da cosmologia. A decisão de Tupi não aparece no fim da página 102.
+- Os PDFs binários originais permanecem nos anexos/Biblioteca; não foram copiados como binários para este repositório nesta atualização.
