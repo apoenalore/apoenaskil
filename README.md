@@ -25,3 +25,9 @@ A IA auxilia o criador; não decide o cânone. Não inventar para preencher lacu
 
 ## Limite
 Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuais, não cópias binárias. As transcrições não preservam imagens/diagramação e podem conter erros de OCR. A página 90 da cosmologia requer conferência visual. Fichas completas, mapas, cronologia total, bíblia visual e outros anexos ainda estão incompletos.
+
+
+## Atualização de recuperação — 2026-10-31
+
+- Consulte apoena/docs/recovery/ para registros conversacionais recentes com proveniência.
+- A Skill apoena/skills/apoena-dimensional-cosmology/SKILL.md documenta a distinção entre dimensão Arcana, planeta Arcana e dimensão Pandora.
