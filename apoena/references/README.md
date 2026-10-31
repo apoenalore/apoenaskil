@@ -63,3 +63,27 @@ A Biblioteca também contém `Apoena a Origem do Universo (5)(1).pdf`, entrada e
 - `uploaded-materials-audit-2026-10-31.md`: inventário visual e textual dos três PDFs anexados nesta sessão, incluindo `Livro.pdf` (2 páginas visuais), a nova cópia de 102 páginas da cosmologia e a cópia histórica de 25 páginas do sistema de poderes.
 - `transcriptions/apoena-origem-do-universo-v6-p91-p102.md`: transcrição textual das páginas 91–102 da nova cópia da cosmologia. A decisão de Tupi não aparece no fim da página 102.
 - Os PDFs binários originais permanecem nos anexos/Biblioteca; não foram copiados como binários para este repositório nesta atualização.
+
+
+## Fontes recebidas em 2026-10-31
+
+### 4. Livro.pdf — páginas visuais de mangá
+- Arquivo recebido nesta sessão: 2 páginas, 5.625.710 bytes; SHA-256 `a2aae5a4750a7270efac303b7ca34e6e1e85dca6760158d5d73842e9e5d4cc4e`.
+- As páginas são imagens, sem camada de texto pesquisável.
+- Página 1: sequência de aproximação visual ao planeta Pandora, com legenda “PANDORA ANO 4806”.
+- Página 2: reunião em Agar; balões incluem “HOJE INICIA-SE UMA NOVA ERA PARA AGAR”, “A PARTIR DE HOJE, O DESTINO DE CADA TRIBO ESTARÁ EM SUAS MÃOS” e “RESTAM APENAS 20 ANOS PARA AGAR DEIXAR PANDORA”.
+- Status: fonte visual recebida; aprovação e posição na cronologia ainda precisam de confirmação.
+- Registro: `../docs/conversation-recovery-2026-10-31-new-uploads.md`.
+
+### 5. Apoena a Origem do Universo (6).pdf — nova versão de cosmologia
+- Arquivo recebido nesta sessão: 102 páginas, 765.419 bytes; SHA-256 `1350c8381a0741b81a0a61dca027c29c00677717b44d5cd75465fc86b052831d`.
+- Texto pesquisável disponível nas 102 páginas.
+- É distinta em extensão da versão anteriormente catalogada com 90 páginas. Não substituir a transcrição anterior.
+- A página 102 termina com a decisão de Tupi ainda pendente diante do fruto oferecido por Anahi; Kairu permanece em silêncio, e a liberdade de Tupi é enfatizada.
+- Comparação integral e transcrição separada ainda pendentes.
+- Registro: `../docs/conversation-recovery-2026-10-31-new-uploads.md`.
+
+### 6. Sistema de Poderes Apoena.pdf — cópia recebida
+- Arquivo recebido nesta sessão: 25 páginas, 256.662 bytes; SHA-256 `d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8`.
+- Mesmo nome, número de páginas e tamanho da versão histórica já catalogada. Provável repetição; identidade binária não confirmada porque o arquivo original anterior não está disponível para comparação de hash.
+- Não gerar duplicata textual sem verificar se há diferença.
