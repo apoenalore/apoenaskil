@@ -6,7 +6,7 @@
 
 O modo padrão para importar conhecimento de conversas antigas, outras IAs, documentos ou repositórios é **MODO DE RECUPERAÇÃO INTEGRAL**. Leia obrigatoriamente:
 - `docs/PROTOCOLO_UNIVERSAL_DE_EXTRACAO_E_TRANSFERENCIA.md`;
-- `docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md);
+- `docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md`.
 - `docs/source-and-status-legend.md`.
 
 ## Antes de qualquer tarefa
@@ -14,7 +14,7 @@ O modo padrão para importar conhecimento de conversas antigas, outras IAs, docu
 1. Leia `/AGENTS.md` na raiz do repositório e o README raiz.
 2. Leia este arquivo.
 3. Leia o protocolo universal e os modos de trabalho.
-4. Consulte `docs/knowledge-recovery-2026-10-30.md), `docs/knowledge-gaps-and-contradictions.md), a legenda de status e os documentos pertinentes.
+4. Consulte `docs/knowledge-recovery-2026-10-30.md`, `docs/knowledge-gaps-and-contradictions.md), a legenda de status e os documentos pertinentes.
 5. Leia a Skill adequada em `skills/`.
 6. Preserve nomes, relações, regras, eventos e características estabelecidas.
 7. Nunca transforme hipótese, sugestão ou lacuna em fato canônico.
