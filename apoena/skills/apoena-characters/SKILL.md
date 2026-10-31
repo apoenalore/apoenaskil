@@ -26,3 +26,12 @@ Nome/grafia oficial; fase e idade; origem/tribo; elemento; aparência; poderes d
 
 ## Regra
 Não inferir aparência, parentesco, idade, poder ou personalidade por arquétipo. Distinguir evolução de design por fase de erro. A ausência de dado permanece desconhecida.
+
+
+## Procedência de personagens
+- Para fichas mais detalhadas, consultar ../../docs/character-canon.md, que separa dados da Bíblia Oficial, PDFs de sistema e conversas.
+- Brin/Blin: a Bíblia Oficial ainda contém Brin; a consolidação Claud cloud declara Blin como oficial. Não substituir silenciosamente a ocorrência da Bíblia.
+- Oriom/Orium: conversa e PDFs diferem; não afirmar que são o mesmo nome sem validação autoral.
+- Ubirara é nome canonizado do Grande Monarca; não usar Birará como nome atual.
+- Kairu, Aruam e Aruan são distintos; Kairu reencarna como Aruam, e Aruan não é forma alternativa de Aruam.
+- Para personagens sem porta/elemento explicitamente informado, preencher “não documentado” e não deduzir.
