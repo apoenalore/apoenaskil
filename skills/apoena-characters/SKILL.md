@@ -14,11 +14,11 @@ description: Mantém fichas, relações, aparências, habilidades, idades e cont
 - Pais: Oriom e Serena. Irmã: Aqua. Amizades registradas: Blin e Ruf. Kael/Ubirara é mencionado como neto de Ubirara; preservar o vínculo conforme a fonte específica ao escrever a ficha.
 - Registros de história colocam Apoena como aprendiz de aventureiro, rank E, realizando trabalhos de reparo, artesanato, limpeza de terreno e resolução de problemas com animais em Agar.
 - Treina com Aqua perto da muralha e carrega pedras descritas como dez vezes seu peso. É rápido, mas foi registrado como menos forte que Blin e Kael.
-- Idade: material/conversas citam 12 anos no início; 14 anos como idade de virada foi considerada e ficou sob revisão. Não fixar 14 como cânone sem aprovação.
+- **Cronologia oficial segundo a Bíblia Oficial — Cânone Mestre:** Apoena começa a história aos 12 anos; aos 14 passa pelo ritual no Monte do Renascimento/Caverna da Decisão; a experiência dura aproximadamente 3 meses. A versão em que a Caverna dura 3 anos é explicitamente descartada por esse documento-mestre.
 - Profecias/visões registradas incluem fragmentos como “Quando a luz e sombras...”, torre de vigia, “um será levado” e cidade de ouro. Não completar frases proféticas a partir desses fragmentos.
 
 ## Outros personagens — pontos conhecidos
-- **Aqua:** irmã de Apoena; registrada como 5 anos e depois 7 durante treinamento em versões/conversas; capacidades ligadas a água, ar e tempestade. Diferença de idade/versão deve ser mantida em histórico até validar a ficha atual.
+- **Aqua:** irmã de Apoena; idades 5 e 7 aparecem em registros de diferentes fases/versões, ainda sem reconciliação específica de fase nesta Skill. Capacidades registradas: água, ar e tempestade.
 - **Oriom:** pai de Apoena; Sentinela das Sombras. Poderes/associações registrados: fogo, lava, terra e sombras; pulseira de cristal vermelho.
 - **Serena:** mãe de Apoena; água, água-ar, luz e tempestade; sacerdotisa em registros.
 - **Angam Ubirara:** líder/título Angam Ubirara; estilo “Madeira”, sem regalia, usa bisão voador e teleporte apenas em emergência segundo conversa. Idade registrada como 60 quando Apoena tem 12 e 63 no retorno.
@@ -26,3 +26,11 @@ description: Mantém fichas, relações, aparências, habilidades, idades e cont
 
 ## Protocolo de ficha
 Usar campos separados: nome/grafia; origem/tribo; elemento; idade e fase; aparência; poderes documentados; equipamentos; relações; eventos; citações/falas; fonte; estado; conflitos. A ausência de informação não deve ser preenchida com invenção.
+
+
+## Cânone consolidado — adições da Bíblia Oficial
+- Apoena possui potencial excepcional para abrir Água, Fogo, Terra, Ar, Luz e Sombra, mas não começa dominando as seis nem todas as técnicas.
+- A Bênção do Grande Espírito não concede imortalidade, força infinita, invencibilidade ou domínio automático; exige desenvolvimento e preserva o livre-arbítrio.
+- Após a experiência na Caverna, Apoena começa a recuperar o Caminho do Aurium; isso não equivale a domínio total imediato.
+- A grafia oficial do Grande Monarca é **Ubirara**; “Birará” é forma antiga/incorreta quando se refere ao mesmo personagem.
+- A Bíblia Oficial determina que **Nairuk** substitui a nomenclatura antiga **Luciel** quando se trata da entidade definida nessa canonização. Usar contexto e não renomear qualquer “Luciel” sem conferir.
