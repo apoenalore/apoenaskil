@@ -9,6 +9,10 @@ Biblioteca de instruções reutilizáveis para orientar agentes de IA no univers
 4. Consulte apoena/canon/ e os documentos temáticos em apoena/docs/.
 5. Selecione a Skill em apoena/skills/INDEX.txt.
 
+## Atualização de recuperação
+- Auditoria ampliada de repositórios e proveniência: `apoena/docs/repository-source-audit-2026-10-31.md`.
+- Skill de produção editorial do Studio Maker: `apoena/skills/apoena-studio-production/SKILL.md`.
+
 ## Estrutura
 - apoena/AGENTS.md: regras gerais.
 - apoena/skills/: Skills especializadas, cada uma com SKILL.md.
