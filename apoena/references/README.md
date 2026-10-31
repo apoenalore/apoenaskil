@@ -9,7 +9,7 @@
 - Biblioteca: arquivo original encontrado; entrada em 2026-09-07; 609.906 bytes.
 - Extensão: 62 páginas.
 - Estado da inspeção: texto extraído de todas as 62 páginas.
-- Observação: a extração preserva marcadores de página, mas não imagens, layout nem elementos gráficos. Conferência visual do PDF continua recomendada em trechos com OCR/diagramação ambíguos.
+- Observação: a extração preserva marcadores de página, mas não imagens, layout nem elementos gráficos. Conferência visual do PDF continua recomendada em trechos com OCR/diagramação ambígua.
 - Transcrições:
   - `transcriptions/sistema-de-poderes-apoena-atual-p01-p20.md`
   - `transcriptions/sistema-de-poderes-apoena-atual-p21-p40.md`
@@ -30,7 +30,7 @@
 - Biblioteca: arquivo original encontrado; entrada em 2026-07-20; 686.747 bytes.
 - Extensão: 90 páginas.
 - Estado da inspeção: texto extraído de todas as 90 páginas.
-- Limite importante: a extração OCR da página 90 está fragmentada/ilegível em parte; o texto final precisa ser conferido visualmente. As transcrições não incluem imagens, composição gráfica ou eventuais ilustrações.
+- Limite importante: a extração OCR da página 90 está fragmentada/ilegível em parte; o texto final precisa ser conferido visualmente. As transcrições não incluem imagens, diagramação ou eventuais ilustrações.
 - Transcrições:
   - `transcriptions/apoena-origem-do-universo-p01-p22.md`
   - `transcriptions/apoena-origem-do-universo-p23-p45.md`
@@ -40,8 +40,12 @@
 ### Cópia adicional de cosmologia
 A Biblioteca também contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, com o mesmo tamanho de arquivo (686.747 bytes). Não foi feita comparação binária ou página a página integral entre as duas cópias; portanto, não declarar duplicata idêntica. Preservar como cópia adicional até conferência.
 
+## Referências visuais
+- `visual-assets-in-library.md` cataloga duas imagens candidatas de cidade circular/Grande Árvore, com dimensões e hashes SHA-256, e uma lista de outros assets ainda não classificados.
+- Os dois mapas foram visualmente inspecionados, mas a aprovação como mapas canônicos não foi comprovada. Os PNGs originais permanecem na Biblioteca; não foram copiados binariamente para o repositório.
+
 ## Regras de preservação
-1. Os PDFs originais permanecem na Biblioteca do usuário. As transcrições do GitHub são cópias textuais derivadas, não substitutos binários.
+1. Os PDFs e PNGs originais permanecem na Biblioteca do usuário. As transcrições do GitHub são cópias textuais derivadas, não substitutos binários.
 2. Não reconstruir ou redesenhar figuras ausentes a partir de texto.
 3. Preservar número de página e proveniência em toda citação futura.
 4. Se uma correção do autor divergir de um PDF, registrar o conflito e aplicar a correção apenas no escopo indicado.
