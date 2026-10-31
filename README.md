@@ -49,3 +49,9 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 - `apoena/references/uploaded-materials-audit-2026-10-31.md`: inventário de `Livro.pdf`, da cosmologia (6) com 102 páginas e do PDF histórico do sistema de poderes.
 - `apoena/references/transcriptions/apoena-origem-do-universo-v6-p91-p102.md`: transcrição das páginas 91–102 da cosmologia (6).
 - A comparação integral das versões de 90 e 102 páginas e a validação da cronologia “Pandora ano 4806 / restam 20 anos” continuam pendentes.
+
+
+## Registro complementar desta sessão
+
+- `apoena/docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md`: registra o pedido de arquitetura ancestral de Agar sem estátuas, a prioridade da geografia do autor e os pontos ainda não confirmados.
+- `apoena/docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md` e `apoena/references/attachments-2026-10-31.md`: registro complementar da conversa e inventário/transcrição visual de `Livro.pdf`. Consultar também o registro de anexos mais recente para os hashes e a situação da cosmologia de 102 páginas.
