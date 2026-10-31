@@ -56,3 +56,11 @@
 
 ## Regra para próximas atualizações
 Quando um PDF, anexo, conversa antiga ou asset for disponibilizado, comparar com estes resumos, registrar fonte e atualizar Skills. Não substituir resumo por inferência. Manter versões anteriores e apontar conflitos para decisão do autor.
+
+
+## Transferência de conhecimento para Skills — etapa adicional
+Foram acrescentados ao repositório referências e Skills de cosmologia, história, personagens, geografia de Agar, governo/hierarquia, direção visual e desenvolvimento de jogos. A Bíblia Oficial foi inspecionada para correções de cânone; A Origem de Agar, o documento de hierarquia e o Capítulo 1 foram lidos/resumidos. Grock Lore e a bíblia antiga foram mapeados como fontes históricas.
+
+Conflitos documentados nesta etapa: ano 90 vs. 100 para a fundação de Agar; 50 km de largura do tronco vs. 50 km de circunferência da área da Grande Árvore; Brin vs. Blin entre Bíblia Oficial e sistema consolidado; Oriom vs. Orium entre conversas e PDFs. A jornada de três anos na Caverna foi identificada como versão antiga descartada pela Bíblia Oficial, que estabelece aproximadamente três meses.
+
+A transferência continua parcial: os sistemas de poder em múltiplas versões e os PDFs de lore ainda precisam de comparação integral por seção. Não tratar o índice como declaração de recuperação completa.
