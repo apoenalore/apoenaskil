@@ -6,15 +6,16 @@ Biblioteca de Skills e conhecimento reutilizável do universo Apoena.
 1. Leia apoena/AGENTS.md.
 2. Leia apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md — regra obrigatória: primeiro recuperar e preservar tudo; depois organizar; em seguida auditar contradições; por último atualizar o cânone com o autor.
 3. Consulte apoena/docs/knowledge-recovery-2026-10-30.md e apoena/docs/knowledge-gaps-and-contradictions.md.
-4. Leia apoena/docs/source-and-status-legend.md.
-5. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
-6. Consulte apoena/canon/, apoena/docs/ e apoena/skills/INDEX.txt.
+4. Consulte também os registros de recuperação por conversa, incluindo apoena/docs/conversation-recovery-2026-10-31-wall-of-agar.md.
+5. Leia apoena/docs/source-and-status-legend.md.
+6. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
+7. Consulte apoena/canon/, apoena/docs/ e apoena/skills/INDEX.txt.
 
 ## Estrutura
 - apoena/AGENTS.md: regras gerais obrigatórias para agentes.
 - apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md: modos de trabalho e protocolo de recuperação integral.
 - apoena/skills/: Skills especializadas, cada uma com SKILL.md.
-- apoena/docs/: conhecimento recuperado, proveniência, modos de trabalho e lacunas.
+- apoena/docs/: conhecimento recuperado, proveniência, modos de trabalho, registros de conversas e lacunas.
 - apoena/references/: inventário de fontes e transcrições com marcadores de página.
 - apoena/canon/: materiais aprovados.
 - apoena/decisions/: decisões registradas.
