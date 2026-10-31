@@ -28,3 +28,5 @@ A base reutilizável e suas fontes estão organizadas na pasta `apoena/` do repo
 
 - [Comparação de versões do Sistema Aurium](apoena/docs/power-system-version-comparison.md)
 - [Skill auditor de versões do sistema de poder](apoena/skills/apoena-power-system-auditor/SKILL.md)
+
+- [Sequência cosmológica e cronologia](apoena/docs/cosmology-sequence-and-chronology.md)
