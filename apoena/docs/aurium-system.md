@@ -24,8 +24,12 @@ Aurium pode ser usado sem conversão elemental, incluindo reforço corporal e es
 ## Defesa
 O Aurium de indivíduos diferentes naturalmente se repele. Romper essa defesa é excepcional.
 
+## Nomenclatura em Agar
+A documentação do jogo registra que, para a população de Agar, o conhecimento comum chama essa força de **Força Vital** ou **Energia Elementar**. O nome verdadeiro **Aurium** corresponde a conhecimento mais profundo, em parte perdido. Esta é uma distinção de conhecimento dentro do mundo; não transforma os termos em forças diferentes.
+
 ## Apoena
-Sua linhagem permite predisposição para Terra, Água, Fogo, Vento, Luz e Sombra, sem domínio nato. Após a Caverna dos Renascidos, aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
+A linhagem de Apoena permite predisposição para Terra, Água, Fogo, Vento, Luz e Sombra, sem domínio nato automático. O material do jogo também registra que Apoena começa a história sem manifestação elemental; não confundir predisposição de linhagem com uma manifestação já despertada.
+Após a Caverna dos Renascidos, aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
 
 ## Personagens citados no material
 - Brin: exemplo de manifestação de Ar/Vento com Aurium exteriorizado.
@@ -36,3 +40,6 @@ Sua linhagem permite predisposição para Terra, Água, Fogo, Vento, Luz e Sombr
 
 ## Regra para criar técnicas
 Considere personagem, personalidade, manifestações disponíveis, classe, experiência, custo, controle, limitações, ambiente e intenção dramática. Não gere poderes por fórmula automática de elemento.
+
+## Limite entre cânone e jogo
+Barras, valores numéricos, modificadores ambientais, custos específicos de Q/W/E/R, habilidades de manopla e bênçãos de constelações pertencem ao protótipo de jogo quando assim marcados. Não os converta em regras narrativas sem aprovação explícita.
