@@ -32,3 +32,16 @@ Ainda precisam de catalogação e validação: fichas completas, geografia, cron
 
 ## Atualização
 Registre afirmação aprovada, fonte, data, aprovação do autor e documentos substituídos. Consulte `docs/knowledge-recovery-2026-10-30.md` para o inventário das fontes que ainda não foram recuperadas integralmente.
+
+
+## Adendo da Bíblia Oficial — cânone prioritário
+- Início de Apoena aos 12; ritual aos 14 no Monte do Renascimento/Caverna da Decisão; experiência de cerca de 3 meses. A versão antiga de três anos é descartada.
+- Elementos oficiais: Água, Fogo, Terra e Ar (não Vento).
+- Ubirara é a grafia oficial do Grande Monarca; Nairuk é nome oficial da entidade quando materiais antigos usam Luciel.
+- 13 constelações no total: 12 conhecidas + Serpentário oculta.
+- Potencial de Apoena para seis manifestações não é domínio automático.
+- Em Agar, a energia é conhecida como Força Vital/Energia Elementar; Aurium é conhecimento profundo/perdido.
+- Ver docs/canon-master-addendum.md e docs/legacy-lore-conflicts.md para fonte e divergências abertas.
+
+## Conflitos de grafia ainda abertos
+O sistema consolidado final declara Blin (não Brin), enquanto a Bíblia Oficial ainda usa Brin em uma seção. Conversas registram Oriom como pai de Apoena, enquanto PDFs de sistema usam Orium. Manter a proveniência e não harmonizar sem decisão.
