@@ -43,3 +43,6 @@
 - ../docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md
 - ../docs/conversation-recovery-2026-10-31-new-uploads.md
 - ../references/attachments-2026-10-31.md
+
+## Recuperação conversacional adicional
+- ../docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md
