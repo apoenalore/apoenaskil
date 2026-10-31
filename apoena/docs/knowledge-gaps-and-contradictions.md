@@ -30,3 +30,16 @@ Oriom/Orium; Ubirara/Ubirará/Birará; Blin/Brin. Não presumir equivalência ne
 
 ## Resolução
 Localizar fonte primária aprovada; registrar trecho/página/data/escopo; comparar sem apagar histórico; apresentar conflitos ao autor; atualizar Skills somente após confirmação.
+
+
+## Atualização da auditoria — 2026-10-31
+
+**data_hora_do_registro:** 2026-10-31T08:47:00-03:00
+
+- Nova fonte documental: `docs/repository-source-audit-2026-10-31.md`.
+- Skill adicionada: `skills/apoena-studio-production/SKILL.md`.
+- Studio Maker e jogo Godot têm fronteira formal documentada; não copiar código/cenas Godot para o Studio nem tratar o Studio como runtime.
+- O README do Studio descreve editor de cena 2D aproximado, não reconstrução 3D; giro de esqueleto não cria vistas ausentes.
+- AI Hub é projeto de infraestrutura multi-IA, não parte do cânone de Apoena.
+- Assets GLB/FBX citados ou encontrados em repositórios não foram copiados nesta atualização. PDFs primários, anexos, fichas completas e mapas oficiais continuam sem recuperação integral.
+- Confirmar a situação atual diretamente no código/commit antes de classificar capacidades de protótipos como implementadas.
