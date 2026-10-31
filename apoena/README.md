@@ -15,7 +15,7 @@ Este diretório reúne regras de trabalho, Skills, documentos de referência, de
 - `canon/`: materiais aprovados pelo autor.
 - `decisions/`: decisões de projeto e histórico.
 - `docs/`: resumos, sistemas, proveniência, cosmologia e lacunas.
-- `references/`: inventário das fontes primárias e transcrições textuais com marcadores de página.
+- `references/`: inventário das fontes primárias, transcrições textuais e catálogo de referências visuais.
 - `skills/`: instruções reutilizáveis por domínio.
 
 ## Fontes
