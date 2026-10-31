@@ -6,7 +6,10 @@ Biblioteca de Skills e conhecimento reutilizável do universo Apoena.
 1. Leia apoena/AGENTS.md.
 2. Leia apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md — regra obrigatória: primeiro recuperar e preservar tudo; depois organizar; em seguida auditar contradições; por último atualizar o cânone com o autor.
 3. Consulte apoena/docs/knowledge-recovery-2026-10-30.md e apoena/docs/knowledge-gaps-and-contradictions.md.
-4. Consulte também os registros de recuperação por conversa, incluindo apoena/docs/conversation-recovery-2026-10-31-wall-of-agar.md.
+4. Consulte também os registros de recuperação por conversa:
+   - apoena/docs/conversation-recovery-2026-10-31-wall-of-agar.md
+   - apoena/docs/recovery-session-2026-10-31-chat-context.md
+   - apoena/docs/recovery/
 5. Leia apoena/docs/source-and-status-legend.md.
 6. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
 7. Consulte apoena/canon/, apoena/docs/ e apoena/skills/INDEX.txt.
@@ -29,5 +32,5 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 ## Atualização de recuperação — 2026-10-31
 
-- Consulte apoena/docs/recovery/ para registros conversacionais recentes com proveniência.
 - A Skill apoena/skills/apoena-dimensional-cosmology/SKILL.md documenta a distinção entre dimensão Arcana, planeta Arcana e dimensão Pandora.
+- A captura adicional apoena/docs/recovery-session-2026-10-31-chat-context.md preserva contexto conversacional sobre direção artística, muralha e domo de Agar, acesso ao território, sistema de manifestações, abertura da HQ, geografia e pendências.
