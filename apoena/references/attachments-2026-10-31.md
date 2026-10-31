@@ -72,3 +72,20 @@ A página apresenta uma reunião de liderança/representantes e uma fala sobre u
 - A nova versão de 102 páginas da cosmologia ainda precisa ser comparada e transcrita.
 - `Livro.pdf` foi inspecionado visualmente, mas o binário não foi anexado ao GitHub.
 - `A ORIGEM DE AGAR.pdf` e a imagem atual da capital precisam ser reenviados para recuperar os originais nesta sessão.
+
+
+## Verificação dos binários disponíveis no ambiente desta sessão — 2026-10-31
+
+Os três arquivos abaixo estavam efetivamente acessíveis no diretório de trabalho desta sessão. Os metadados e hashes SHA-256 foram conferidos diretamente nos arquivos locais. Isso confirma a identidade dos arquivos examinados nesta sessão, mas **não significa que os binários tenham sido copiados para o GitHub**.
+
+| Arquivo | Páginas | Tamanho em bytes | SHA-256 |
+|---|---:|---:|---|
+| Livro.pdf | 2 | 5.625.710 | a2aae5a4750a7270efac303b7ca34e6e1e85dca6760158d5d73842e9e5d4cc4e |
+| Apoena a Origem do Universo (6).pdf | 102 | 765.419 | 1350c8381a0741b81a0a61dca027c29c00677717b44d5cd75465fc86b052831d |
+| Sistema de Poderes Apoena.pdf | 25 | 256.662 | d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8 |
+
+- Livro.pdf: metadado de título “Apoena capítulo 1”; 2 páginas A4.
+- Apoena a Origem do Universo (6).pdf: metadado de título “Apoena a Origem do Universo”; 102 páginas A4.
+- Sistema de Poderes Apoena.pdf: metadado de título “Sistema de Poderes Apoena”; 25 páginas A4.
+- Os hashes foram adicionados para que futuras cópias possam ser comparadas sem depender apenas de nomes ou tamanhos.
+- Os PDFs binários não foram enviados ao repositório nesta atualização. A biblioteca mantém as transcrições textuais existentes e os registros de inspeção; a preservação dos originais binários no GitHub continua pendente.
