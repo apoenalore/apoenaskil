@@ -140,3 +140,14 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 - Registro de proveniência: [descrição de Apoena e correção de resposta da IA](apoena/docs/conversation-recovery-2026-10-31-apoena-character-description-correction.md).
 - A descrição do protagonista nas instruções visuais do projeto é masculina: rapaz moreno, cabelos brancos bagunçados, olhos castanhos, colar dourado com cristal azul, roupa azul simples com detalhes brancos, faixa branca, sandálias de couro e arco de madeira.
 - O prompt anterior da IA que descreveu Apoena como mulher/guardiã de olhos azuis, armadura e manto foi preservado como erro histórico não canônico, não como design alternativo.
+
+
+## Recuperação complementar — Tupi, Anahi e Idade da Pedra (2026-10-31T13:55:00-03:00)
+
+- Nova Skill: `apoena/skills/apoena-tupi-anahi-early-earth/SKILL.md`.
+- Registro de proveniência: `apoena/docs/conversation-recovery-shared-project-context-2026-10-31.md`.
+- Auditoria desta transferência: `apoena/docs/transfer-audit-2026-10-31-1355.md`.
+- Preservados os dados disponíveis no contexto compartilhado sobre a filosofia do Grande Espírito, Tupi e Anahi após o Jardim, chegada à Terra, primeiros dez anos, Idade da Pedra, corpo e sangue de Tupi, mecânica emocional da dispersão do Aurium, caminhada com lança de pedra, cidade de Luciel e bênçãos/constelações.
+- As divergências Luciel/Nairuk e entre listas de constelações foram mantidas sem resolução.
+- Os três PDFs anexados nesta sessão foram identificados por tamanho e SHA-256; os hashes coincidem com o inventário já existente. Não foram enviados como binários ao GitHub nesta atualização.
+- Esta recuperação usa um resumo de contexto compartilhado, não exportação integral das mensagens originais. Não declarar recuperação integral de todo o histórico.
