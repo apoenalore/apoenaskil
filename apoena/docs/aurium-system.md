@@ -28,13 +28,13 @@ O Aurium de indivíduos diferentes naturalmente se repele. Romper essa defesa é
 A documentação do jogo registra que, para a população de Agar, o conhecimento comum chama essa força de **Força Vital** ou **Energia Elementar**. O nome verdadeiro **Aurium** corresponde a conhecimento mais profundo, em parte perdido. Esta é uma distinção de conhecimento dentro do mundo; não transforma os termos em forças diferentes.
 
 ## Apoena
-A linhagem de Apoena permite predisposição para Terra, Água, Fogo, Vento, Luz e Sombra, sem domínio nato automático. O material do jogo também registra que Apoena começa a história sem manifestação elemental; não confundir predisposição de linhagem com uma manifestação já despertada.
+A linhagem de Apoena permite potencial para Terra, Água, Fogo, Ar, Luz e Sombra, sem domínio nato automático. O material do jogo também registra que Apoena começa a história sem manifestação elemental; não confundir predisposição de linhagem com uma manifestação já despertada.
 Após a Caverna dos Renascidos, aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
 
 ## Personagens citados no material
 - Blin/Brin: o sistema consolidado final declara Blin como nome oficial e Brin como grafia antiga; a Bíblia Oficial ainda usa Brin em uma seção. O exemplo de manifestação de Ar por exteriorização natural de Aurium está associado a esse personagem; ver conflito registrado.
 - Ubirara: Terra e Água; combinação associada a Madeira; domínio direto. “Birará” é forma antiga/incorreta para o Grande Monarca.
-- Serena: Água, Vento e Luz.
+- Serena: Água, Ar e Luz (atribuição do documento de sistema).
 - Orium: Fogo, Terra e Sombra.
 - Kael e Ruf: citados entre os companheiros; não inferir portas sem fonte.
 
@@ -47,3 +47,22 @@ Barras, valores numéricos, modificadores ambientais, custos específicos de Q/W
 
 ## Cânone-mestre — correções prioritárias
 A Bíblia Oficial estabelece: Apoena começa aos 12 anos; aos 14 passa pelo ritual no Monte do Renascimento/Caverna da Decisão; a experiência dura aproximadamente 3 meses. A versão de 3 anos na Caverna é descartada. Apoena possui potencial excepcional para Água, Fogo, Terra, Ar, Luz e Sombra, mas não começa dominando as seis. A população comum de Agar conhece a energia como Força Vital/Energia Elementar; Aurium é o conceito profundo/perdido. Porta aberta, manifestação, domínio, classe, estilo e técnica são conceitos distintos.
+
+
+## Fases universais do domínio (consolidação Claud cloud)
+- Fase 1 — Manifestação: produzir o elemento pelo próprio Aurium.
+- Fase 2 — Controle Elemental: melhorar precisão, estabilidade, velocidade e eficiência.
+- Fase 3 — Domínio Ambiental: manipular elemento existente ao redor, podendo preservar reserva.
+As fases representam domínio, não invencibilidade; quantidade de Aurium não é domínio.
+
+## Combinação e classe (consolidação Claud cloud)
+Combinação é união consciente de manifestações e não é uma técnica. Exemplos abertos na fonte: Água+Terra (Lama/Madeira/outros), Água+Ar (Tempestade/Gelo/outros), Água+Fogo (Vapor/outros). A mesma combinação pode levar a resultados distintos por indivíduo. A Postura de União indica preparação, mas não revela o resultado; catalisadores como cajado oferecem outro caminho. Classe é especialização e não destino rígido.
+
+## Reserva e sinais narrativos
+A fonte descreve 100% como a reserva completa individual no momento, não um nível universal. O leitor deve perceber desgaste por esforço, precisão, respiração, movimento e dificuldade de manter técnicas, sem uma barra/número exato. Emoções podem provocar liberação extraordinária de Aurium já existente, não criá-lo. Esgotamento pode ir de fraqueza/perda momentânea de movimento/desmaio até comprometimento grave e morte em extremo.
+
+## Conflito de nomenclatura do conhecimento público
+Claud cloud diz que o ensino comum reconhece a força própria sem nome específico; DOCUMENTO OFICIAL — SISTEMA DE PODER DE AGAR lista Energia, Força Vital e Energia Elementar. A Bíblia Oficial afirma que o povo não conhece Aurium como conceito profundo. Registrar a nuance por fonte; não forçar uniformidade.
+
+## Fonte detalhada e histórico
+Para os tópicos de fases, combinação, classes, constelações, controle direto, condensação, defesa e personagens, consultar docs/power-system-version-comparison.md. Esse documento é comparativo e não substitui os PDFs originais.
