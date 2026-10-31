@@ -55,3 +55,9 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - `apoena/docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md`: registra o pedido de arquitetura ancestral de Agar sem estátuas, a prioridade da geografia do autor e os pontos ainda não confirmados.
 - `apoena/docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md` e `apoena/references/attachments-2026-10-31.md`: registro complementar da conversa e inventário/transcrição visual de `Livro.pdf`. Consultar também o registro de anexos mais recente para os hashes e a situação da cosmologia de 102 páginas.
+
+
+## Recuperação conversacional — 2026-10-31T11:04:00-03:00
+
+- `apoena/docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md`: histórico da escolha de “Agam” como preferência do autor (ainda sem confirmação canônica formal) e proveniência da reafirmação do protocolo de recuperação integral.
+- A Skill `apoena/skills/apoena-agar-civilization/SKILL.md` aponta para esse registro e preserva o status provisório do termo.
