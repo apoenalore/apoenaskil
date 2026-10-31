@@ -64,3 +64,11 @@ Foram acrescentados ao repositório referências e Skills de cosmologia, histór
 Conflitos documentados nesta etapa: ano 90 vs. 100 para a fundação de Agar; 50 km de largura do tronco vs. 50 km de circunferência da área da Grande Árvore; Brin vs. Blin entre Bíblia Oficial e sistema consolidado; Oriom vs. Orium entre conversas e PDFs. A jornada de três anos na Caverna foi identificada como versão antiga descartada pela Bíblia Oficial, que estabelece aproximadamente três meses.
 
 A transferência continua parcial: os sistemas de poder em múltiplas versões e os PDFs de lore ainda precisam de comparação integral por seção. Não tratar o índice como declaração de recuperação completa.
+
+
+## Transferência — lote de comparação de sistema de poder
+Nesta etapa foram examinadas as estruturas e trechos dos PDFs de sistema de poder e Aurium. Foi criado o documento comparativo de versões e uma Skill especializada para manter a procedência, comparar regras e registrar conflitos. A nota de consolidação Claud cloud foi capturada: ela declara unificação de três versões e correções Ubirara/Birará, Blin/Brin e Ar/Vento.
+
+Foram ampliadas as referências de fases de domínio, combinação, postura de união, catalisadores, classes, constelações, reserva/desgaste, controle direto, condensação e defesa natural. Também foi registrado um conflito textual sobre como o conhecimento cotidiano em Agar nomeia a energia: Claud cloud fala em força própria sem nome específico no ensino comum; o documento de poder de Agar lista Energia/Força Vital/Energia Elementar.
+
+**Limite desta etapa:** os PDFs foram extraídos e suas estruturas observadas, mas a comparação integral página/seção a seção do documento de 62 páginas, do Dola e da versão de desenvolvimento de 9 páginas permanece pendente. Não declarar harmonização completa.
