@@ -1,0 +1,9 @@
+# Índice de skills Apoena
+
+- apoena-canon-guardian/SKILL.md
+- apoena-worldbuilding/SKILL.md
+- apoena-scriptwriter/SKILL.md
+- apoena-art-director/SKILL.md
+- apoena-character-designer/SKILL.md
+- apoena-image-production/SKILL.md
+- apoena-continuity-reviewer/SKILL.md
