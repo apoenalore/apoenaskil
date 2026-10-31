@@ -1,27 +1,24 @@
 # Apoena Skills
 
-Biblioteca de instruções reutilizáveis para orientar agentes de IA no universo Apoena: cânone, cosmologia, Aurium, narrativa, personagens, Agar, direção visual, natureza, progressão e adaptação para jogos.
+Biblioteca de Skills e conhecimento reutilizável do universo Apoena.
 
 ## Comece por aqui
-1. Leia apoena/AGENTS.md.
-2. Consulte apoena/docs/knowledge-recovery-2026-10-30.md e apoena/docs/knowledge-gaps-and-contradictions.md.
-3. Leia apoena/docs/source-and-status-legend.md.
-4. Consulte apoena/canon/ e os documentos temáticos em apoena/docs/.
-5. Selecione a Skill em apoena/skills/INDEX.txt.
-
-## Atualização de recuperação
-- Auditoria ampliada de repositórios e proveniência: `apoena/docs/repository-source-audit-2026-10-31.md`.
-- Skill de produção editorial do Studio Maker: `apoena/skills/apoena-studio-production/SKILL.md`.
+1. Leia `apoena/AGENTS.md`.
+2. Consulte `apoena/docs/knowledge-recovery-2026-10-30.md` e `apoena/docs/knowledge-gaps-and-contradictions.md`.
+3. Leia `apoena/docs/source-and-status-legend.md`.
+4. Consulte `apoena/references/README.md` para fontes primárias e transcrições textuais.
+5. Consulte `apoena/canon/`, `apoena/docs/` e `apoena/skills/INDEX.txt`.
 
 ## Estrutura
-- apoena/AGENTS.md: regras gerais.
-- apoena/skills/: Skills especializadas, cada uma com SKILL.md.
-- apoena/docs/: conhecimento recuperado, proveniência e lacunas.
-- apoena/canon/: materiais aprovados.
-- apoena/decisions/: decisões registradas.
+- `apoena/AGENTS.md`: regras gerais para agentes.
+- `apoena/skills/`: Skills especializadas, cada uma com `SKILL.md`.
+- `apoena/docs/`: conhecimento recuperado, proveniência e lacunas.
+- `apoena/references/`: inventário de fontes e transcrições com marcadores de página.
+- `apoena/canon/`: materiais aprovados.
+- `apoena/decisions/`: decisões registradas.
 
 ## Regras
-A IA auxilia o criador; não decide o cânone. Não inventar para preencher lacunas. Separar cânone confirmado, decisão do autor, recuperação a validar, implementação verificada/histórica, planejamento, proposta, descartado e desconhecido. Correções explícitas recentes prevalecem no mesmo escopo. Não confundir mangá com protótipos do jogo nem misturar repositórios. Não afirmar que assets foram preservados quando apenas foram mencionados.
+A IA auxilia o criador; não decide o cânone. Não inventar para preencher lacunas. Separar cânone confirmado, decisão do autor, recuperação a validar, implementação verificada/histórica, planejamento, proposta, descartado e desconhecido. Correções explícitas recentes prevalecem no mesmo escopo. Não confundir mangá com protótipos do jogo nem misturar repositórios.
 
 ## Limite
-Esta biblioteca transfere o conhecimento recuperável nesta sessão e nos contextos anteriores disponíveis. Não é cópia integral de todas as conversas, PDFs ou assets originais. Consulte o inventário e as lacunas antes de continuar qualquer arco ou sistema.
+Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuais, não cópias binárias. As transcrições não preservam imagens/diagramação e podem conter erros de OCR. A página 90 da cosmologia requer conferência visual. Fichas completas, mapas, cronologia total, bíblia visual e outros anexos ainda estão incompletos.
