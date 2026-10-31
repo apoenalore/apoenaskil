@@ -15,6 +15,7 @@ Esta pasta reúne as instruções e referências de IA exclusivas do projeto Apo
 - Para lore, narrativa e personagens, escolha a Skill correspondente e consulte as fontes de cânone.
 - Para Aurium, use `apoena-aurium-system`; para constelações, `apoena-constellations-and-blessings`.
 - Para mecânicas, coop ou prototipagem, use `apoena-game-systems` e/ou `apoena-godot-prototyping`.
+- Para profissões/economia, use `apoena-progression-economy`.
 - Para natureza da Floresta Viva, use `apoena-ecology-systems`.
 - Para arquitetura dos produtos e limites entre repositórios, use `apoena-project-architect`.
 - Para recuperar novos materiais, use `apoena-knowledge-archivist`.
