@@ -5,7 +5,7 @@ description: Interpreta e desenvolve manifestações, técnicas, custos e limite
 # Skill — Sistema de Aurium
 
 ## Autoridade e escopo
-Use esta Skill junto de `../AGENTS.md`, `../../docs/aurium-system.md`, `../../docs/cosmology.md` e `../../docs/canon-status.md`. A fonte atual do sistema de poderes tem prioridade sobre o PDF anterior, conforme o inventário de cânone. Se o material integral não estiver disponível, não alegue ter conferido páginas que não leu.
+Use esta Skill junto de `../../AGENTS.md`, `../../docs/aurium-system.md`, `../../docs/cosmology.md` e `../../docs/canon-status.md`. A fonte atual do sistema de poderes tem prioridade sobre o PDF anterior, conforme o inventário de cânone. Se o material integral não estiver disponível, não alegue ter conferido páginas que não leu.
 
 ## Regras documentadas que devem ser preservadas
 - **Aurium é a fonte; manifestação é a forma.** Aurium é força primordial, não apenas partícula ou matéria física.
