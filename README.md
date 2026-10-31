@@ -73,3 +73,8 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - `apoena/docs/conversation-recovery-2026-10-31-hierofonte-and-transfer-session.md`: registra a busca pelo termo “Hierofonte”, o pedido de transferência de conhecimento, a inspeção estrutural do repositório e os limites de acesso desta sessão.
 - Alguns anexos enviados anteriormente expiraram e precisam ser reenviados para nova leitura; esta atualização não declara que os binários foram preservados no GitHub.
+
+
+## Auditoria da transferência — 2026-10-31T11:06:00-03:00
+
+- `apoena/docs/transfer-audit-2026-10-31-1106.md`: registra a inspeção estrutural do repositório, os arquivos centrais lidos, os conhecimentos do contexto compartilhado já representados, os limites desta execução e os próximos passos seguros. Não declara recuperação integral nem cópia de anexos binários.
