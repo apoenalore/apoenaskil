@@ -13,3 +13,10 @@ description: Escreve cenas, capítulos, diálogos e roteiros de mangá Apoena co
 7. Não revelar informação que o personagem ainda não conhece.
 
 Formato recomendado: página/quadro, descrição visual, ação/expressão, diálogo/balão e nota de ritmo. Não inventar paginação fechada se não solicitada.
+
+
+## Direção narrativa do autor
+- Linguagem simples, leitura fluida e ritmo de mangá/Webtoon.
+- Preservar mistério, revelações graduais e recompensa; evitar despejar cosmologia no início quando o autor pretende revelá-la mais tarde.
+- Não criar fatos canônicos por conveniência dramática. Separar propostas e perguntar quando faltar informação.
+- Respeitar cronologia oficial: Apoena inicia aos 12; ritual aos 14; experiência na Caverna de cerca de 3 meses. A versão de três anos é antiga e descartada.
