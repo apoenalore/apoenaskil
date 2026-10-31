@@ -2,20 +2,30 @@
 
 Biblioteca de Skills e conhecimento reutilizável do universo Apoena.
 
+## Entrada obrigatória para qualquer IA
+
+Antes de executar tarefas neste repositório, leia o [AGENTS.md](AGENTS.md) da raiz. Para recuperar conversas, conhecimento de outras IAs, documentos ou anexos, leia também o [Protocolo Universal de Extração e Transferência](apoena/docs/PROTOCOLO_UNIVERSAL_DE_EXTRACAO_E_TRANSFERENCIA.md).
+
+O GitHub não concede automaticamente acesso aos históricos privados das plataformas de IA. A fonte original precisa estar realmente acessível ou ser fornecida por exportação/anexo. Nenhuma IA pode alegar leitura integral sem demonstrar a cobertura.
+
 ## Comece por aqui
-1. Leia apoena/AGENTS.md.
-2. Leia apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md — regra obrigatória: primeiro recuperar e preservar tudo; depois organizar; em seguida auditar contradições; por último atualizar o cânone com o autor.
-3. Consulte apoena/docs/knowledge-recovery-2026-10-30.md e apoena/docs/knowledge-gaps-and-contradictions.md.
-4. Consulte também os registros de recuperação por conversa:
+1. Leia [AGENTS.md](AGENTS.md) na raiz.
+2. Leia apoena/AGENTS.md.
+3. Leia apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md.
+4. Para extração, siga apoena/docs/PROTOCOLO_UNIVERSAL_DE_EXTRACAO_E_TRANSFERENCIA.md.
+5. Consulte apoena/docs/knowledge-recovery-2026-10-30.md e apoena/docs/knowledge-gaps-and-contradictions.md.
+6. Consulte também os registros de recuperação por conversa:
    - apoena/docs/conversation-recovery-2026-10-31-wall-of-agar.md
    - apoena/docs/recovery-session-2026-10-31-chat-context.md
    - apoena/docs/recovered-conversation-notes-2026-10-31.md (registro complementar, inclui a preferência Agam ainda a confirmar)
    - apoena/docs/recovery/
-5. Leia apoena/docs/source-and-status-legend.md.
-6. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
-7. Consulte apoena/canon/, apoena/docs/ e apoena/skills/INDEX.txt.
+7. Leia apoena/docs/source-and-status-legend.md.
+8. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
+9. Consulte apoena/canon/, apoena/docs/ e apoena/skills/INDEX.txt.
 
 ## Estrutura
+- AGENTS.md: ponto de entrada obrigatório para IAs e agentes.
+- apoena/docs/PROTOCOLO_UNIVERSAL_DE_EXTRACAO_E_TRANSFERENCIA.md: protocolo detalhado para leitura integral, preservação e transferência.
 - apoena/AGENTS.md: regras gerais obrigatórias para agentes.
 - apoena/docs/MODOS_DE_TRABALHO_E_PRESERVACAO.md: modos de trabalho e protocolo de recuperação integral.
 - apoena/skills/: Skills especializadas, cada uma com SKILL.md.
