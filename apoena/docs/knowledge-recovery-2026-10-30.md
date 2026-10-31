@@ -34,7 +34,7 @@
 - Resumo com referências de páginas em `docs/cosmology-source-notes.md` e `docs/cosmology.md`.
 
 ### Cópia adicional
-A Biblioteca contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, mesmo tamanho de arquivo que a cópia de julho. Não foi comparada binariamente ou página a página; não afirmar identidade.
+A Biblioteca contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, mesmo tamanho de arquivo que a cópia de julho. As extrações textuais de todas as 90 páginas foram comparadas em quatro blocos e coincidem; identidade binária dos PDFs não foi verificada.
 
 O índice completo das fontes, datas, limitações e caminhos está em `references/README.md`.
 
