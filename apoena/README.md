@@ -34,3 +34,8 @@ Não trate resumos de memória como substitutos dos PDFs originais. Não transfo
 - `docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md`: registro detalhado complementar da conversa.
 - `references/attachments-2026-10-31.md`: inventário e transcrição visual complementar dos anexos.
 - `docs/conversation-recovery-2026-10-31-new-uploads.md`: registro de fontes recebidas, metadados e pendências de comparação.
+
+
+## Atualização — hierarquia político-militar de Agar
+- Skill: skills/apoena-agar-governance-and-defense/SKILL.md.
+- Registro da conversa e das correções: docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md.
