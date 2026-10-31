@@ -98,3 +98,9 @@ A hierarquia político-militar de Agar (Primodiarca, quatro Arcontes e Sentinela
 - `apoena/docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md` preserva as declarações e correções desta sessão sobre a equipe, infância de Apoena, anomalia de Aurium, cerimônia de três dias, classe e descoberta histórica futura.
 - `apoena/docs/aurium-system.md` e `apoena/skills/apoena-aurium-system/SKILL.md` receberam notas de perspectiva narrativa e distinção entre classe e manifestação.
 - `apoena/docs/knowledge-gaps-and-contradictions.md` registra divergências ainda sem resolução, especialmente classe infantil versus Mudança de Classe aos 14 anos.
+
+
+## Recuperação conversacional — Grande Espírito (2026-10-31)
+
+- `apoena/docs/conversation-recovery-2026-10-31-grande-espirito-visual-representation.md` preserva a pergunta do criador sobre a possibilidade de representar o Grande Espírito e separa as sugestões visuais da IA (não aprovadas) do que foi efetivamente declarado pelo criador.
+- A resposta anterior da IA tratou “Criador absoluto” como premissa; o registro marca essa formulação como interpretação a verificar nas fontes primárias, não como decisão nova.
