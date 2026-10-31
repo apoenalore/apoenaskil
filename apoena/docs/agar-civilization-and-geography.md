@@ -17,6 +17,13 @@ Descrição espacial recuperada: Grande Árvore com tronco de cerca de 50 km de 
 - Cidade com domo/meia esfera e poucas torres.
 Medidas são aproximações recuperadas, não mapa validado. Não calcular novas escalas por inferência.
 
+## Referências visuais localizadas
+A Biblioteca contém duas imagens candidatas de cidade circular com uma Grande Árvore central:
+- `Mapa Aquarelado da Cidade Circular Celeste.png`
+- `Mapa Aéreo da Cidade do Tronco Gigante.png`
+
+Os dois arquivos foram inspecionados e registrados em `../references/visual-assets-in-library.md`. Eles têm diferenças visuais e não há confirmação de que qualquer um seja o mapa oficial aprovado. Não escolher, combinar ou substituir versões sem orientação do autor. Os originais permanecem na Biblioteca; não foram copiados como binários para o GitHub.
+
 ## Liderança
 - Título: Angam Ubirara; função comparada pelo autor a hokage/presidente/rei, liderança política central.
 - Estilo visual de referência “Madeira”, sem regalia real ostensiva.
@@ -30,4 +37,4 @@ Medidas são aproximações recuperadas, não mapa validado. Não calcular novas
 Nomes institucionais e sequência devem ser confrontados com fontes oficiais.
 
 ## Regras para IA
-Nunca dividir Agar em quatro países. Preservar cores/tribos. Não confundir isolamento de Agar com separação cosmológica de Pandora e Arkana. Tratar medidas e cronologia como recuperadas a validar.
+Nunca dividir Agar em quatro países. Preservar cores/tribos. Não confundir isolamento de Agar com separação cosmológica de Pandora e Arkana. Tratar medidas, cronologia e mapas como recuperados a validar.
