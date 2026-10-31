@@ -68,3 +68,13 @@ Nesta conversa:
 
 ## Relação com registros anteriores
 Complementa docs/agar-civilization-and-geography.md e skills/apoena-agar-civilization/SKILL.md. A liderança anteriormente registrada como “Angam Ubirara” precisa ser comparada com o cargo Primodiarca; não presumir equivalência ou substituição.
+
+
+## Complemento de proveniência — recuperação detalhada da conversa
+Registro integral desta sessão: docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md.
+
+O registro anterior desta Skill já observava a liderança “Angam Ubirara” e a necessidade de compará-la com Primodiarca. Outro registro da conversa anterior preserva “Agam” como preferência do criador para um nome/título do soberano, com confirmação canônica pendente. A conversa atual não resolve se Agam, Angam Ubirara e Primodiarca são nomes, cargos ou referências distintas. Manter as três referências e solicitar confirmação quando a nomenclatura precisar ser consolidada.
+
+A resposta da IA que propôs Primarca, Arkan, Valen, Orion, Kael e Darian não foi aprovada. Primodiarca permanece o termo empregado diretamente pelo criador para a função de líder supremo militar.
+
+O criador descreveu os Sentinelas como a primeira força de defesa de Agar. A cadeia formal de comando deles ainda não foi estabelecida. Os Arcontes estão abaixo do Primodiarca e cada um cuida de uma tribo; não ampliar “cuida” para atribuições específicas sem nova declaração.
