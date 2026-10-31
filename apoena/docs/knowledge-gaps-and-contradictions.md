@@ -67,3 +67,13 @@
 
 ## Próximas verificações adicionais
 6. Confirmar com o autor a relação entre os registros de ano 90/99, 4.130/4.000 e Arcana/Arkana.
+
+## Atualização de lacunas — anexos recebidos em 2026-10-31
+
+- **Cosmologia (5) 90 páginas versus cosmologia (6) 102 páginas:** a nova cópia (6) acrescenta páginas 91–102, transcritas em `references/transcriptions/apoena-origem-do-universo-v6-p91-p102.md`. Ainda não foi feita comparação página a página das páginas 1–90; não presumir que sejam idênticas.
+- **Cronologia de Agar/Pandora:** `Livro.pdf`, p. 1, apresenta a legenda “PANDORA ANO 4806”; p. 2 contém a fala “Restam apenas 20 anos para Agar deixar Pandora”. Comparar com as referências anteriores a 4.000/4.130 anos em Pandora, fundação de Agar e datas da Criação. Não resolver a cronologia por inferência.
+- **Identidades na reunião:** a página 2 de `Livro.pdf` mostra uma assembleia com estandartes coloridos, mas os personagens não foram identificados com segurança.
+- **Escala de Três Rios:** o autor informou “326,566 km²” como medida da cidade de Três Rios. O tipo exato de área usado como comparação ainda não está confirmado. Não assumir área administrativa ou urbana contínua.
+- **Geografia de Agar:** trechos recuperados mencionam 320 km entre portões, 50 km a partir da Grande Árvore e uma faixa/área de 60 km até montanhas. O contexto truncado não permite determinar a geometria ou a relação entre essas medidas.
+- **Circulação fora de Agar:** há menções a Pandora como território perigoso e a grupos autorizados (sentinelas, mineradores e equipes de reconhecimento); a regra operacional completa precisa ser recuperada da conversa/documento original.
+- **Assets:** `Livro.pdf` é um PDF visual de duas páginas; os originais continuam na Biblioteca/anexos, não foram copiados como binários para o GitHub.
