@@ -34,10 +34,10 @@ A Bíblia Oficial distingue Aurium como conceito profundo/perdido de **Força Vi
 - Estilo registrado combina Aurium direto, corpo e manifestações; não abandona os elementos.
 
 ## Exemplos
-- Brin: manifestação de Ar por exteriorização natural do Aurium.
+- Blin/Brin: o documento consolidado final usa Blin como nome oficial e Brin como grafia antiga; a Bíblia Oficial ainda contém Brin. Marcar o conflito de fonte. O exemplo de manifestação de Ar por exteriorização natural está associado a esse personagem.
 - Ubirara: Terra + Água → Madeira; classe Mago; catalisador/cajado; uso direto de Aurium.
 - Serena: Água, Ar/Vento e Luz em fontes; usar Ar como elemento oficial.
-- Orium/Oriom: conferir grafia da personagem na fonte; não harmonizar por suposição.
+- Orium/Oriom: PDFs usam Orium, conversas registram Oriom como pai de Apoena; confirmar grafia antes de harmonizar.
 - Kael e Ruf: companheiros citados; não inferir portas não documentadas.
 
 ## Construção de técnica
