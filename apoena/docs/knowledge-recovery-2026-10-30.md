@@ -9,7 +9,7 @@
 - `apoena/AGENTS.md`, README raiz e README da pasta Apoena.
 - Documentos de cosmologia, Aurium, estado do cânone, produção visual, constelações e notas de sistemas de jogo.
 - Skills de cânone, worldbuilding, Aurium, constelações/bênçãos, roteiro, direção artística, personagens, produção de imagem, continuidade, sistemas de jogo, ecologia, prototipagem Godot e arquivista.
-- Nesta atualização: mapa de repositórios, detalhes adicionais de sistemas de jogo e Skill de arquitetura de projetos.
+- Nesta atualização: mapa de repositórios, detalhes adicionais de sistemas de jogo e Skills de arquitetura de projetos e progressão/economia.
 
 ### Conversas de projeto disponíveis no contexto
 - Sistema de Aurium, constelações e poderes: referência a uma conversa intitulada “Aurium Constelações Poderes”; o anexo `Texto colado.txt` é mencionado, mas seu conteúdo integral não está disponível nesta recuperação.
