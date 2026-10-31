@@ -24,3 +24,22 @@
 
 ## Recuperação e preservação
 - apoena-knowledge-archivist/SKILL.md
+
+## Novas Skills de universo e continuidade
+- apoena-cosmology/SKILL.md
+- apoena-history/SKILL.md
+- apoena-characters/SKILL.md
+- apoena-agar-world/SKILL.md
+- apoena-agar-government/SKILL.md
+- apoena-visual-direction/SKILL.md
+- apoena-game-development/SKILL.md
+
+## Novas referências
+- ../docs/canon-master-addendum.md
+- ../docs/legacy-lore-conflicts.md
+- ../docs/source-inventory.md
+- ../docs/agar-geography.md
+- ../docs/agar-government.md
+- ../docs/character-canon.md
+- ../docs/chapter1-reference.md
+- ../docs/legacy-lore-archive.md
