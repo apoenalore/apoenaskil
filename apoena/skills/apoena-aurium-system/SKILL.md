@@ -1,40 +1,51 @@
 ---
 name: apoena-aurium-system
-description: Interpreta e desenvolve manifestações, técnicas, custos e limites do Aurium em Apoena, preservando as regras documentadas.
+description: Interpreta e desenvolve manifestações, técnicas, custos e limites do Aurium em Apoena, preservando as regras documentadas na fonte atual.
 ---
 # Skill — Sistema de Aurium
 
-## Autoridade e escopo
-Use esta Skill junto de `../../AGENTS.md`, `../../docs/aurium-system.md`, `../../docs/cosmology.md` e `../../docs/canon-status.md`. A fonte atual do sistema de poderes tem prioridade sobre o PDF anterior, conforme o inventário de cânone. Se o material integral não estiver disponível, não alegue ter conferido páginas que não leu.
+## Fontes prioritárias
+- `../../docs/aurium-system.md`
+- `../../docs/cosmology-source-notes.md`
+- `../../references/README.md`
+- Transcrições de `Sistema de Poderes Apoena Atual.pdf` (62 páginas) e da versão anterior (25 páginas).
 
-## Regras documentadas que devem ser preservadas
-- **Aurium é a fonte; manifestação é a forma.** Aurium é força primordial, não apenas partícula ou matéria física.
-- Fluxo-base documentado: Aurium absorvido → estômago/conversão → coração → cérebro → sistema nervoso → utilização.
-- A **Porta de Fluidez** é o caminho-base do Aurium, não uma porta rara adicional.
-- As quatro portas elementais humanas principais são Terra, Água, Fogo e Vento. Luz e Sombra pertencem a uma camada primordial/cósmica distinta.
-- Ter uma porta não significa dominá-la. Classe, elemento e estilo de luta não são equivalentes nem destinos rígidos.
-- A manifestação não depende exclusivamente de haver matéria do elemento no ambiente; matéria compatível pode oferecer vantagem.
-- Técnicas são individuais: dependem de personalidade, classe, treinamento, experiência, criatividade, corpo, armas, controle, intenção e ambiente.
-- Cada pessoa tem capacidade própria de armazenar/suportar Aurium. Alimentação, água, respiração/contato ambiental e descanso participam da reposição.
-- Excesso pode provocar fraqueza, perda momentânea de movimento, desmaio e, em casos extremos, morte. Não invente números de custo ou limites quantitativos.
-- Aurium direto pode reforçar o corpo e formar esferas densas. Quantidade não é sinônimo de densidade nem de capacidade de condensação.
-- O Aurium de indivíduos diferentes naturalmente se repele; romper essa defesa é excepcional.
-- Controle direto e manifestações elementais podem coexistir; não obrigue personagens a escolher somente um método.
+A fonte Atual tem prioridade sobre a versão anterior. Ambas foram transcritas textualmente; verificar o PDF visual quando OCR ou imagens forem relevantes.
 
-## Apoena e exemplos registrados
-- A linhagem de Apoena apresenta predisposição para Terra, Água, Fogo, Vento, Luz e Sombra, sem domínio nato automático.
-- Após a Caverna dos Renascidos, Apoena aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
-- O resumo de cânone descreve aproximadamente três meses de treinamento espiritual na Caverna dos Renascidos. Preserve o caráter aproximado.
-- Exemplos documentados: Brin — Ar/Vento com Aurium exteriorizado; Birará — Terra e Água, combinação associada a Madeira, e domínio direto; Serena — Água, Vento e Luz; Orium — Fogo, Terra e Sombra.
-- Kael e Ruf são companheiros citados, mas suas portas/manifestações não estão especificadas no material consultado.
+## Regras obrigatórias
+1. Aurium é a fonte; manifestação é a forma.
+2. A Porta de Fluidez é o fluxo-base, não uma sétima porta rara.
+3. Terra, Água, Fogo e Ar são as quatro manifestações elementares fundamentais humanas; trechos antigos também usam “Vento”.
+4. Luz e Sombra pertencem a uma camada primordial/cósmica distinta.
+5. Possuir/abrir uma porta não equivale a dominá-la.
+6. O usuário pode manifestar elemento sem matéria ambiental; o ambiente pode fornecer matéria compatível e vantagens.
+7. Domínio elemental possui três fases: Manifestação, Controle Elemental e Domínio Ambiental. Não converter fases em níveis de força.
+8. Combinação Elementar é união consciente de manifestações; não é técnica específica e não tem receita fixa.
+9. A Postura de União é reconhecida por usuários experientes, mas não revela o resultado da combinação.
+10. Catalisadores, como o cajado de um Mago, são uma forma alternativa de canalizar combinações.
+11. Classes são especializações; Mudança de Classe ocorre aos 14 anos. Classes secundárias podem ser desenvolvidas; classe não é destino.
+12. Estilo e técnica devem expressar indivíduo, personalidade, profissão, treino, experiência e criatividade.
+13. Cada pessoa tem reserva própria; 100% representa a própria reserva cheia, não poder universal. O leitor não deve receber porcentagem/barra exata de Aurium em cena narrativa.
+14. Esgotamento pode afetar movimento, força, precisão, estabilidade, consciência e, em casos extremos, a vida.
+15. Emoções podem liberar Aurium existente extraordinariamente; não são fonte independente.
+16. Quantidade não é densidade nem capacidade de condensação.
+17. Aurium externo normalmente é repelido pelo Aurium individual; romper a defesa é raro e avançado.
+18. Controle direto pode coexistir com elementos; não obrigar personagem a escolher apenas um.
+19. Não inventar números de custo, limites, técnicas ou condições de abertura que a fonte deixa em aberto.
 
-## Como criar ou revisar uma técnica
-1. Identifique o status da informação e a fonte disponível.
-2. Confirme as manifestações do personagem; não deduza portas pelo nome, aparência ou papel narrativo.
-3. Determine objetivo, forma, alcance e efeito como proposta, se não houver fonte canônica.
-4. Considere custo, reserva, controle, treino, corpo, ambiente, defesa natural do Aurium e consequências do excesso.
-5. Explique como a técnica expressa o personagem, sem gerar poderes por fórmula elementar.
-6. Marque todo valor, regra ou técnica nova como **PROPOSTA** até aprovação explícita.
+## Exemplos da fonte
+- Apoena: predisposição de linhagem para seis manifestações, sem domínio automático; aproximadamente três meses na Caverna dos Renascidos; controle direto + corpo + manifestação.
+- Brin: exemplo de Ar com Aurium exteriorizado; Brin, Kael e Ruf podem aprender domínio direto depois.
+- Serena: Água + Ar + Luz.
+- Orium: Fogo + Terra + Sombra; despertar primordial associado a estresse extremo.
+- Ubirara: Terra + Água, Estilo Madeira, Mago, cajado e técnicas registradas; domínio direto ainda em desenvolvimento.
+- Birará: Grande Monarca com Terra + Água, Estilo Madeira e domínio direto.
+  
+**Não resolver Ubirara/Birará ou Orium/Oriom por suposição.** A fonte Atual registra as grafias Ubirara, Birará e Orium; outros materiais podem divergir.
 
-## Limites de inferência
-Não invente regras para constelações, bênçãos, combinações, hierarquias, custos numéricos, raridade de portas ou exceções. A interface de constelações do jogo é uma mecânica de protótipo e não confirma por si só cânone do mangá.
+## Processo para técnica nova
+1. Confirme as portas e a fase de domínio do personagem.
+2. Defina se a técnica usa manifestação própria, matéria ambiental, combinação, catalisador ou Aurium direto.
+3. Considere reserva, controle, treinamento, ambiente, defesa natural e consequências.
+4. Explique como a técnica expressa o indivíduo.
+5. Marque qualquer regra não documentada como **PROPOSTA**, aguardando aprovação do autor.
