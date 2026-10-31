@@ -56,7 +56,7 @@
 - Os originais binários dos mapas continuam na Biblioteca; não foram transferidos para o GitHub.
 
 
-## Divergência dimensional e cronológica — atualização de 2026-10-31
+## Divergência dimensional e cronológica — atualização de 2026-10-31T10:52:00-03:00
 
 - **Ano de Agar:** registro anterior indica fundação no ano 90 da Criação; esclarecimento direto mais recente do criador indica construção no planeta Arcana, por Tupi e seus descendentes, a partir do ano 99. Preservar ambos; não presumir que “fundação” e “construção” sejam eventos distintos.
 - **Duração em Pandora:** registros anteriores indicam aproximadamente 4.130 anos; esclarecimento direto mais recente indica 4.000 anos. Não presumir arredondamento.
