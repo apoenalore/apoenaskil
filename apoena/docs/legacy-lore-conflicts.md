@@ -44,3 +44,10 @@ Quando o autor resolver um conflito, registrar data, decisão, contexto e fontes
 - **Fonte conversacional:** Oriom é registrado como pai de Apoena/Sentinela das Sombras.
 - **PDFs de sistema:** utilizam Orium em exemplos de personagem.
 - **Tratamento:** não está confirmado nesta recuperação se é grafia divergente do mesmo personagem ou se há distinção de contexto. Manter a referência com fonte e pedir validação antes de harmonizar.
+
+
+## 9. Como Agar chama a energia no conhecimento cotidiano
+- **Claud cloud — Sistema Consolidado Final:** diz que o ensino comum reconhece a energia vital como força própria de cada indivíduo, mas não lhe dá nome específico; o povo não conhece o termo técnico Aurium nem seu funcionamento interno completo.
+- **DOCUMENTO OFICIAL — SISTEMA DE PODER DE AGAR.pdf:** lista “Energia”, “Força vital” e “Energia elemental” como nomes cotidianos.
+- **Bíblia Oficial — Cânone Mestre:** estabelece que os habitantes de Agar não conhecem Aurium como Aurium; o conceito profundo/consciente é perdido ou raro.
+- **Tratamento:** pode haver diferença de redação/contexto entre o ensino comum e a descrição do sistema de Agar. Não declarar uma única expressão obrigatória para todos os diálogos; registrar fonte e intenção da cena.
