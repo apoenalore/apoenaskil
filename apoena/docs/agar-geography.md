@@ -24,3 +24,9 @@ Não usar valores de uma fonte como se estivessem confirmados na outra.
 
 ## Fundação
 A ORIGEM DE AGAR.pdf registra ano 100 da Criação para a fundação por Tupi e ano 1230 para um grande cataclismo. Conversas registram ano 90 para a fundação. Ver legacy-lore-conflicts.md; não resolver por cálculo.
+
+
+## Relato de fundação conforme A Origem de Agar.pdf
+O documento apresenta Agar como herança entregue a Tupi pelo Grande Espírito. Segundo o relato, após cem anos vivendo na terra, Tupi teme pela influência de Nairuk sobre seus descendentes e pede orientação ao Grande Espírito. Recebe uma visão de uma montanha circular envolvendo uma pequena árvore que cresce até os céus. A orientação é seguir a estrela mais brilhante; Tupi viaja por sete meses até uma planície com montanha circular. No centro, recebe a instrução de cercar a terra com uma muralha de quatro portões, dividir o interior em cinco regiões (uma capital ao redor da montanha e quatro territórios estabelecidos de acordo com força/habilidades dos filhos). O texto diz que Tupi trabalhou por quinhentos anos na construção e que seus filhos, aos quatorze, passavam por ritual de entrada na idade adulta, casavam-se e passavam a viver em Agar.
+
+O documento associa o nome Agar à misericórdia conhecida por Tupi naquele lugar. Este relato e suas datas devem ser citados como conteúdo do PDF, sem harmonizar automaticamente com o registro conversacional do ano 90 da Criação.
