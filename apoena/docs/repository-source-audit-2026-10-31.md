@@ -50,7 +50,7 @@ A seção inicial desta auditoria foi escrita antes da leitura dos PDFs e foi su
 - `Sistema de Poderes Apoena Atual.pdf`: 62 páginas transcritas integralmente em texto.
 - `Sistema de Poderes Apoena.pdf`: 25 páginas transcritas integralmente como versão histórica.
 - `Apoena a Origem do Universo (5).pdf`: 90 páginas transcritas; página 90 com OCR fragmentado, exige conferência visual.
-- Segunda cópia `Apoena a Origem do Universo (5)(1).pdf`: não comparada.
+- Segunda cópia `Apoena a Origem do Universo (5)(1).pdf`: extrações textuais de todas as 90 páginas coincidem com a primeira cópia; identidade binária não verificada.
 - Anexo `Texto colado.txt` da conversa “Aurium Constelações Poderes”.
 - As 16 referências PDF mencionadas pelo autor em conversa anterior.
 - Fichas originais completas, mapas oficiais aprovados, cronologia integral e bíblia visual.
@@ -75,3 +75,9 @@ A estrutura Git foi inspecionada e documentos textuais selecionados foram lidos.
 **data_hora_do_registro:** 2026-10-31T08:47:00-03:00
 
 A inspeção da Biblioteca encontrou os três PDFs principais e gerou transcrições textuais com marcadores de página. Ver `references/README.md`, `docs/cosmology-source-notes.md` e `docs/aurium-system.md`. Essa atualização corrige a afirmação anterior de que os PDFs não haviam sido lidos integralmente. As limitações de OCR e de preservação binária permanecem.
+
+
+## Comparação textual das cópias de cosmologia
+**data_hora_do_registro:** 2026-10-31T08:47:00-03:00
+
+As duas cópias de `Apoena a Origem do Universo` foram comparadas por extração textual em quatro intervalos (p. 1–22, 23–45, 46–68 e 69–90). Os textos extraídos coincidem integralmente nos quatro blocos. Isso comprova equivalência textual das extrações, mas não identidade binária dos PDFs. A página 90 permanece com OCR fragmentado nas duas extrações.
