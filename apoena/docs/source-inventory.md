@@ -40,3 +40,7 @@ Os outros PDFs foram identificados e extraídos para texto local para possibilit
 
 ## Comparação de versões do sistema de poder — observação de proveniência
 O PDF “Claud cloud — Livro de Regras do Aurium — Documento Consolidado Final” declara em sua nota inicial que unifica versões anteriores e corrige: Ubirara (não Birará), Blin (não Brin) e Ar (não Vento). A Bíblia Oficial confirma Ubirara e Ar, mas sua seção de Brin/Kael/Ruf ainda usa “Brin”. Por isso a grafia Blin/Brin permanece registrada como conflito entre fontes, não resolvido por esta transferência.
+
+- **Livro 1 — Capítulo 1:** lido e resumido para escola, idade de Apoena, Cauan, Ruf, sonho de Rei Peregrino e teleporte por cristais.
+- **Grock Lore Apoena:** lido e resumido como fonte histórica, mantendo status/questões em aberto.
+- **Chat gpt bíblia desatualizada 1:** headings/tópicos inspecionados; mapa temático registrado, sem transcrição integral nem revalidação do cânone.
