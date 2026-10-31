@@ -15,6 +15,7 @@
 
 ## Mundo e sociedade
 - apoena-agar-civilization/SKILL.md
+- apoena-agar-governance-and-defense/SKILL.md
 - apoena-human-perspective/SKILL.md
 - apoena-human-perspective-reviewer/SKILL.md
 
@@ -37,8 +38,8 @@
 ## Produção editorial
 - apoena-studio-production/SKILL.md
 
-
-## Registros de recuperação relacionados a Agar e fontes recentes
+## Registros de recuperação relacionados a Agar
+- ../docs/conversation-recovery-2026-10-31-primodiarca-arcontes-sentinelas.md
 - ../docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md
 - ../docs/conversation-recovery-2026-10-31-ancient-architecture-and-chapter-1.md
 - ../docs/conversation-recovery-2026-10-31-new-uploads.md
