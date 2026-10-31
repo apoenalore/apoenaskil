@@ -12,3 +12,7 @@ description: Planeja direção visual, composição, enquadramento, continuidade
 - Não adicionar texto, objetos, figurantes ou efeitos sem necessidade/autorização.
 
 Entregar composição, plano, ângulo, posição relativa, foco, iluminação e continuidade; distinguir requisitos de sugestões.
+
+
+## Estilo Apoena registrado
+Preferência autoral: anime/mangá 2D minimalista, limpo e consistente. Não substituir por CGI, render 3D ou acabamento promocional, salvo pedido explícito. Preservar referências de personagem e escala. Em planos distantes, silhuetas e tons escuros podem ser preferíveis a detalhes inventados. Luz divina/Aurium dourado-claro; “Haja luz” branco.
