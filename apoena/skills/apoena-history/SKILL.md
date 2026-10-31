@@ -24,3 +24,14 @@ description: Organiza eventos, cronologia e continuidade histórica de Apoena, p
 3. Não calcular datas/idades derivadas sem referência aprovada.
 4. Separar passado remoto, flashback, profecia, visão e cena de abertura.
 5. Preservar versões substituídas no histórico.
+
+
+## Separação das escalas históricas
+Usar ../../docs/cosmology-sequence-and-chronology.md para distinguir:
+- cosmologia anterior ao tempo humano;
+- Guerra Cósmica e devastação de Arkana;
+- exílio de Nairuk/Serpentário;
+- restauração de Arkana e criação de Tupi;
+- história de Agar e Grande Cataclismo;
+- cronologia do protagonista.
+Não derivar datas de “eras” ou “muitas eternidades”. A cronologia oficial de Apoena permanece 12 anos no início, ritual aos 14 e experiência de aproximadamente 3 meses.
