@@ -4,7 +4,7 @@
 - `Sistema de Poderes Apoena Atual.pdf`: 62 páginas; texto extraído integralmente para `references/transcriptions/`.
 - `Sistema de Poderes Apoena.pdf`: 25 páginas; texto extraído integralmente como versão histórica.
 - `Apoena a Origem do Universo (5).pdf`: 90 páginas; texto extraído integralmente; página 90 tem OCR fragmentado e requer conferência visual.
-- Segunda cópia `Apoena a Origem do Universo (5)(1).pdf`: mesmo tamanho, mas não comparada binariamente ou página a página.
+- Segunda cópia `Apoena a Origem do Universo (5)(1).pdf`: extração textual das 90 páginas coincide integralmente com a primeira cópia; identidade binária não verificada.
 - Anexo `Texto colado.txt` da conversa “Aurium Constelações Poderes”: não localizado nesta busca.
 - 16 PDFs citados pelo autor em conversa de 2026-09-29: não identificados individualmente nesta auditoria.
 - Manual do Aule integral: não localizado.
