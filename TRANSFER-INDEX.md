@@ -23,3 +23,5 @@ A base reutilizável e suas fontes estão organizadas na pasta `apoena/` do repo
 - [Desenvolvimento de jogos](apoena/skills/apoena-game-development/SKILL.md)
 
 **Estado:** transferência incremental; não declarar que todos os PDFs e conversas foram comparados integralmente.
+- [Referência do Capítulo 1](apoena/docs/chapter1-reference.md)
+- [Arquivo de lore histórico](apoena/docs/legacy-lore-archive.md)
