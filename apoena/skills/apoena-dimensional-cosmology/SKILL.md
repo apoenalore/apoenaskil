@@ -5,6 +5,8 @@ description: Consulta e desenvolve as dimensões, planetas e deslocamentos dimen
 
 # Skill — Cosmologia dimensional de Apoena
 
+**Criada/registrada:** 2026-10-31T10:52:00-03:00
+
 ## Objetivo
 
 Ajudar IAs a consultar a estrutura dimensional de Apoena sem confundir dimensões com planetas, países, personagens ou eventos. Esta Skill deve ser usada junto de `apoena-worldbuilding`, `apoena-canon-guardian` e `apoena-knowledge-archivist`.
