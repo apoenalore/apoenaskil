@@ -44,3 +44,10 @@ O PDF “Claud cloud — Livro de Regras do Aurium — Documento Consolidado Fin
 - **Livro 1 — Capítulo 1:** lido e resumido para escola, idade de Apoena, Cauan, Ruf, sonho de Rei Peregrino e teleporte por cristais.
 - **Grock Lore Apoena:** lido e resumido como fonte histórica, mantendo status/questões em aberto.
 - **Chat gpt bíblia desatualizada 1:** headings/tópicos inspecionados; mapa temático registrado, sem transcrição integral nem revalidação do cânone.
+
+
+## Extração e comparação do sistema de poder — continuação
+- Os PDFs do sistema de poder foram extraídos em texto local para análise, incluindo o arquivo de 62 páginas “3 Sistema de Poderes Apoena Atual”.
+- Foi criada a referência comparativa power-system-version-comparison.md, com inventário de versões, correções explicitamente declaradas pela consolidação Claud cloud, regras compartilhadas, exemplos de personagens e pendências.
+- A Skill apoena-power-system-auditor orienta futuras comparações e exige procedência por arquivo/seção.
+- A comparação integral de todos os capítulos do PDF de 62 páginas, do documento Dola e de “2 Sistema de Poderes Apoena versão final” ainda não está concluída. A transferência não declara esses arquivos plenamente harmonizados.
