@@ -77,3 +77,13 @@
 - **Geografia de Agar:** trechos recuperados mencionam 320 km entre portões, 50 km a partir da Grande Árvore e uma faixa/área de 60 km até montanhas. O contexto truncado não permite determinar a geometria ou a relação entre essas medidas.
 - **Circulação fora de Agar:** há menções a Pandora como território perigoso e a grupos autorizados (sentinelas, mineradores e equipes de reconhecimento); a regra operacional completa precisa ser recuperada da conversa/documento original.
 - **Assets:** `Livro.pdf` é um PDF visual de duas páginas; os originais continuam na Biblioteca/anexos, não foram copiados como binários para o GitHub.
+
+
+## Novas pendências de fontes recebidas — 2026-10-31
+
+- `Apoena a Origem do Universo (6).pdf` tem 102 páginas, enquanto a versão anterior catalogada tem 90. Ainda não houve comparação textual integral. Manter ambas; não assumir que a nova versão substitui a anterior até confirmação do autor.
+- A página 102 da nova versão termina antes da decisão de Tupi sobre o fruto. Confirmar se este é o encerramento intencional da versão atual ou se há continuação em outro documento.
+- `Livro.pdf` contém uma página visual com a legenda “PANDORA ANO 4806” e uma reunião em Agar com a fala “RESTAM APENAS 20 ANOS PARA AGAR DEIXAR PANDORA”. A relação dessa fala com a cronologia recuperada (fundação de Agar no ano 90 da Criação e isolamento aproximado de 4.130 anos) precisa ser verificada; não calcular nem harmonizar por conta própria.
+- `Livro.pdf` não tem texto pesquisável. A leitura visual das falas foi registrada, mas nomes, cargos e identidade das figuras não foram confirmados.
+- `Sistema de Poderes Apoena.pdf` recebido tem os mesmos 25 páginas e 256.662 bytes do arquivo histórico catalogado, mas o hash do original antigo não está disponível para comparação. Tratar como provável cópia repetida, não como nova versão confirmada.
+- Os binários desses três PDFs ainda não foram incorporados ao GitHub; os arquivos permanecem no contexto da sessão. Ver metadados e registro em `docs/conversation-recovery-2026-10-31-new-uploads.md` e `references/README.md`.
