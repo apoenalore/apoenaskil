@@ -1,6 +1,7 @@
 # Índice de Skills Apoena
 
 ## Cânone e lore
+- apoena-primordial-cosmology/SKILL.md
 - apoena-canon-guardian/SKILL.md
 - apoena-worldbuilding/SKILL.md
 - apoena-dimensional-cosmology/SKILL.md
