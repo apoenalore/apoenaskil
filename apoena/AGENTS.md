@@ -27,3 +27,12 @@ Antes de qualquer tarefa relacionada a Apoena:
 - Sistemas de jogo: `skills/apoena-game-systems/SKILL.md`
 - Prototipagem Godot: `skills/apoena-godot-prototyping/SKILL.md`
 - Arquivista: `skills/apoena-knowledge-archivist/SKILL.md`
+
+## Canonização e correções consolidadas
+- Quando houver conflito, a Bíblia Oficial — Cânone Mestre prevalece sobre materiais antigos conforme seu princípio de canonização.
+- Apoena começa aos 12 anos; ritual aos 14 no Monte do Renascimento/Caverna da Decisão; experiência de aproximadamente 3 meses. A versão de 3 anos é antiga e descartada para esse evento.
+- Os elementos fundamentais são Água, Fogo, Terra e Ar; “Vento” não é elemento oficial.
+- Ubirara é o nome oficial do Grande Monarca; Nairuk é o nome oficial da entidade onde fontes antigas possam dizer Luciel.
+- Há 13 constelações no total: 12 conhecidas e Serpentário oculta.
+- Diferenciar Aurium de Força Vital/Energia Elementar (termos comuns em Agar), Porta, manifestação, domínio, classe, estilo e técnica.
+- Verificar os documentos canon-master-addendum.md e legacy-lore-conflicts.md antes de harmonizar dados de versões antigas.
