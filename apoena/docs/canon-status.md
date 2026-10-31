@@ -6,7 +6,7 @@
 | Sistema de Poderes Apoena Atual.pdf | 62 páginas | Texto extraído integralmente | Fonte prioritária do sistema de Aurium; ver transcrições e notas. |
 | Sistema de Poderes Apoena.pdf | 25 páginas | Texto extraído integralmente | Versão anterior; preservar como histórico e comparar, não sobrepor à atual. |
 | Apoena a Origem do Universo (5).pdf | 90 páginas | Texto extraído integralmente | Fonte de cosmologia; página 90 tem OCR fragmentado e requer conferência visual. |
-| Apoena a Origem do Universo (5)(1).pdf | 90 páginas indicadas | Não comparada | Cópia adicional de mesmo tamanho, sem comparação binária/página a página. |
+| Apoena a Origem do Universo (5)(1).pdf | 90 páginas indicadas | Extração textual coincidente | Os textos extraídos das 90 páginas coincidem com a cópia de julho; identidade binária não verificada. |
 | JOGO-APOENA-AGAR-/docs/CONSTELACOES_E_BENCAOS.md | Documento do jogo | Referência parcial | Não substitui a Bíblia narrativa. |
 
 Consulte `../references/README.md` para proveniência e transcrições.
