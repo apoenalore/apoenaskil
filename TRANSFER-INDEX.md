@@ -22,6 +22,9 @@
 - [Desenvolvimento de jogos e separação de projetos](skills/apoena-game-development/SKILL.md)
 - [Registro de decisões e questões abertas](decisions/apoena-knowledge-ledger.md)
 - [Inventário de fontes](references/source-inventory.md)
+- [Adendo do cânone-mestre](references/canon-master-addendum.md)
+- [Conflitos de versões antigas](references/legacy-lore-conflicts.md)
+- [Governo e hierarquia de Agar](skills/apoena-agar-government/SKILL.md)
 
 ## Limite desta entrega
 Os arquivos aqui documentam somente detalhes sustentados por fontes localizadas ou por registros explícitos de conversas. Esta entrega não substitui a leitura integral de todos os PDFs, não afirma que cada personagem ou evento já foi coberto e não inventa soluções para lacunas. A expansão deve ser incremental, com fonte e status em cada item.
