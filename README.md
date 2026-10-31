@@ -1,11 +1,11 @@
 # Apoena Skills
 
-Biblioteca de instruções reutilizáveis para orientar agentes de IA no universo **Apoena**: cânone, cosmologia, Aurium, narrativa, personagens, direção visual, natureza e adaptação para jogos.
+Biblioteca de instruções reutilizáveis para orientar agentes de IA no universo **Apoena**: cânone, cosmologia, Aurium, narrativa, personagens, direção visual, natureza, progressão e adaptação para jogos.
 
 ## Estrutura
 - `apoena/AGENTS.md`: regras gerais obrigatórias.
 - `apoena/skills/`: Skills especializadas.
-- `apoena/docs/`: resumos de referência, inventário de recuperação e notas de sistemas.
+- `apoena/docs/`: resumos de referência, inventário de recuperação, mapa de repositórios e notas de sistemas.
 - `apoena/canon/`: materiais consolidados e aprovados pelo autor.
 - `apoena/decisions/`: decisões autorais registradas.
 
@@ -21,6 +21,7 @@ Biblioteca de instruções reutilizáveis para orientar agentes de IA no univers
 - `apoena-continuity-reviewer`: continuidade e contradições.
 - `apoena-game-systems`: mecânicas sem confundir jogo e cânone.
 - `apoena-ecology-systems`: ecossistema e natureza do protótipo Floresta Viva.
+- `apoena-progression-economy`: profissões, progressão, NPCs e economia planejada.
 - `apoena-godot-prototyping`: fluxo HTML de protótipo → Godot.
 - `apoena-knowledge-archivist`: recuperação, proveniência e lacunas.
 - `apoena-project-architect`: separação dos repositórios e arquitetura de produtos.
