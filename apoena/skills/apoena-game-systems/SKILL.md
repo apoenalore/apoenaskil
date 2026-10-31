@@ -45,3 +45,7 @@ Status: **IDEIA EM DESENVOLVIMENTO**, não especificação final.
 - `docs/ecology-game-notes.md` — natureza do protótipo.
 - `docs/canon-status.md` — fontes e lacunas do cânone.
 - Repositórios de jogo citados acima — detalhes técnicos específicos e mutáveis.
+
+
+## Cânone e desenvolvimento
+A Bíblia Oficial — Cânone Mestre é a fonte prioritária para lore quando mecânicas de jogo ou PDFs antigos divergirem. Parâmetros de gameplay (barras, números, cooldowns, bônus de constelação, valores de dano) não se tornam regras narrativas sem aprovação explícita. O sistema de jogo pode adaptar Aurium, mas deve indicar o que é cânone, especificação de jogo, implementação, teste ou proposta. Para o escopo e a separação de repositórios, consultar a Skill apoena-game-development.
