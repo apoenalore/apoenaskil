@@ -29,3 +29,10 @@ A fonte de referência localizada é o PDF **Apoena — A Origem do Universo —
 
 ## Limites
 Este arquivo não tenta reconciliar variações entre PDFs ou versões de conversa. O nome de uma entidade em determinado trecho não autoriza concluir que seja outro personagem sem fonte. Ver o registro de questões abertas.
+
+
+## Canonização de nomes e distinções — Bíblia Oficial
+- A Bíblia Oficial — Cânone Mestre declara **Nairuk** como nome oficial da entidade e determina que “Luciel” é nomenclatura antiga quando se refere a essa entidade. Não aplicar a correção indiscriminadamente a outros usos do nome.
+- O sistema cosmológico diferencia Kairu e Aruam: Kairu realiza o sacrifício nos Céus; a canonização afirma que Kairu posteriormente reencarna como Aruam, que vive como homem na Terra e realiza o sacrifício na Terra. Não confundir Aruam com Aruan.
+- A Bíblia Oficial distingue as 13 constelações totais de 12 conhecidas e uma oculta, Serpentário. Materiais antigos que chamam as 13 de todas conhecidas devem ser marcados como anteriores.
+- A Bíblia Oficial determina que a população comum de Agar não conhece Aurium como conceito profundo; conhece a energia como Força Vital ou Energia Elementar. Essa distinção pertence ao conhecimento cultural e não nega a definição cosmológica de Aurium.
