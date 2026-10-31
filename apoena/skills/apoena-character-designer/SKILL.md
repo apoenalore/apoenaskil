@@ -11,3 +11,7 @@ Ficha: nome/função, idade confirmada, personalidade/motivação, aparência, r
 - Manter silhueta, cabelo, rosto, proporções, roupa e acessórios consistentes.
 - Respeitar sistema Aurium.
 - Atualizar ficha somente após aprovação do autor.
+
+
+## Referências canonizadas
+Apoena começa aos 12; ritual aos 14 no Monte do Renascimento/Caverna da Decisão; experiência de cerca de 3 meses. Potencial excepcional abrange Água, Fogo, Terra, Ar, Luz e Sombra, mas não começa dominando as seis. Referência visual de conversa: cabelo branco, pele muito escura, sobrancelhas pretas. Não fixar detalhes da pulseira/manopla sem referência aprovada da fase.
