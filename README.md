@@ -78,3 +78,12 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 ## Auditoria da transferência — 2026-10-31T11:06:00-03:00
 
 - `apoena/docs/transfer-audit-2026-10-31-1106.md`: registra a inspeção estrutural do repositório, os arquivos centrais lidos, os conhecimentos do contexto compartilhado já representados, os limites desta execução e os próximos passos seguros. Não declara recuperação integral nem cópia de anexos binários.
+
+
+## Recuperação registrada nesta sessão — 2026-10-31
+
+- Nova Skill: [Governo e Defesa de Agar](apoena/skills/apoena-agar-governance-and-defense/SKILL.md), com as definições do criador para Primodiarca, Arcontes e Sentinelas.
+- Registro histórico: [conversa sobre Primodiarca, Arcontes e Sentinelas](apoena/docs/conversation-recovery-2026-10-31-primodiarca-arcontes-sentinelas.md).
+- A atualização corrige a interpretação metafísica anterior feita pela IA: os três termos foram definidos pelo criador como cargos/funções políticos e militares de Agar.
+- A liderança previamente registrada como “Angam Ubirara” foi mantida como ponto de comparação pendente; nenhuma equivalência foi presumida.
+- Esta atualização não copiou os PDFs anexados como binários. Eles permanecem disponíveis como anexos desta sessão; as transcrições e inventários já existentes no repositório continuam sendo referências textuais, não substitutos dos originais.
