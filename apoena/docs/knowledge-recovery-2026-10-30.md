@@ -46,3 +46,14 @@
 
 ## Regra para próximas atualizações
 Quando um PDF, anexo ou conversa antiga for disponibilizado, comparar com estes resumos, registrar a fonte e atualizar as Skills. Não substituir um resumo por conteúdo inferido. Manter versões anteriores e apontar conflitos para decisão do autor.
+
+
+## Atualização da transferência para apoenaskil
+Nesta etapa, foram inspecionados o documento-mestre oficial, o PDF A Origem de Agar e o documento de hierarquia militar/governamental. Foram adicionados:
+- Resumo de regras prioritárias da Bíblia Oficial e correções canonizadas.
+- Registro de conflitos sobre duração da jornada na Caverna, ano de fundação de Agar e medida da Grande Árvore.
+- Referências iniciais de geografia, governo e personagens.
+- Skills reutilizáveis de cosmologia, história, personagens, Agar, governo, direção visual e desenvolvimento de jogos.
+- Atualização das Skills existentes de cânone, Aurium, roteiro, direção artística, design de personagem, produção de imagens e revisão de continuidade.
+
+A transferência continua parcial. A leitura integral e a comparação por versão dos documentos de poder e de todos os materiais de lore ainda são pendências. A existência dos PDFs anexados não significa que cada página tenha sido validada nesta etapa.
