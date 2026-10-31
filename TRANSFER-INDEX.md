@@ -30,3 +30,5 @@ A base reutilizável e suas fontes estão organizadas na pasta `apoena/` do repo
 - [Skill auditor de versões do sistema de poder](apoena/skills/apoena-power-system-auditor/SKILL.md)
 
 - [Sequência cosmológica e cronologia](apoena/docs/cosmology-sequence-and-chronology.md)
+
+- [Registro de personagens e procedência](apoena/docs/character-canon.md)
