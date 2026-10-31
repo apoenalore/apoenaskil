@@ -70,3 +70,20 @@ Nesta etapa foram adicionados, a partir do contexto de conversas anteriores disp
 - Skills novas: Agar, cânone de personagens, continuidade visual e implementação de gameplay.
 
 Os novos documentos são sínteses de memória e decisões de conversa. Não substituem as fontes primárias. Nenhum PDF, imagem ou arquivo binário foi copiado nesta etapa.
+
+
+## Auditoria adicional de fontes — 2026-10-31
+
+**data_hora_do_registro:** 2026-10-31T08:47:00-03:00
+
+Foi realizada nova inspeção estrutural e documental dos repositórios `apoenalore/projeto-apoena-studio-maker-ia`, `Apoena-pixel-art-html`, `JOGO-APOENA-AGAR-`, `GameCreator`, `que-projeto-e-esse` e `APOENA-AI-HUB-IA`. O relatório detalhado está em `docs/repository-source-audit-2026-10-31.md`.
+
+Novos pontos recuperados:
+- Separação formal entre Studio Maker (mangá/autoria) e jogo Godot (runtime) documentada em `projeto-apoena-studio-maker-ia/docs/SEPARACAO_MANGA_E_JOGO.md`.
+- Studio Maker: fichas versionadas, geração/correção por API, editor manual de mangá e editor de cena 2D com esqueleto aproximado; limitações registradas na Skill `apoena-studio-production`.
+- Protocolo de trabalho sequencial no Pixel Art: uma tarefa ativa por vez, critérios objetivos, testes, validação correta, revisão e registro antes da próxima tarefa.
+- README atual do jogo descreve Floresta Viva, Arena offline e Modo História alfa, com pendências explícitas e distinção entre arte 2D da interface e gameplay 3D.
+- GameCreator e Lore Engine são ferramentas distintas; AI Hub é infraestrutura multi-IA separada do universo ficcional.
+- Foram localizados assets binários dentro do repositório do jogo (incluindo modelos GLB), mas não foram baixados nem copiados para a biblioteca de Skills.
+
+**Limite:** leitura documental seletiva e árvore de arquivos; não houve auditoria integral de código, commits, branches ou assets binários.
