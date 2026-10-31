@@ -27,6 +27,7 @@ Antes de qualquer tarefa relacionada a Apoena:
 - Continuidade: `skills/apoena-continuity-reviewer/SKILL.md`
 - Sistemas de jogo: `skills/apoena-game-systems/SKILL.md`
 - Ecossistema: `skills/apoena-ecology-systems/SKILL.md`
+- Progressão/economia: `skills/apoena-progression-economy/SKILL.md`
 - Prototipagem Godot: `skills/apoena-godot-prototyping/SKILL.md`
 - Arquitetura de projetos: `skills/apoena-project-architect/SKILL.md`
 - Arquivista: `skills/apoena-knowledge-archivist/SKILL.md`
