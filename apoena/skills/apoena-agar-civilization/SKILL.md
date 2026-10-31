@@ -17,7 +17,7 @@ Leia docs/agar-civilization-and-geography.md, docs/cosmology.md e docs/canon-sta
 - Existe um **domo azul-claro acima da muralha**. O autor especificou que ele deve ser mais alto do que nas primeiras representações; a altura exata não foi informada.
 - A espessura de 20 m aparece em anotação anterior no inventário de lacunas e continua **pendente de confirmação**; não promovê-la a decisão confirmada.
 - Detalhes de material, construção, funcionamento e resistência do domo permanecem desconhecidos.
-- Registro da conversa e das referências indisponíveis: `docs/conversation-recovery-2026-10-31-wall-of-agar.md`.
+- Registro da conversa e das referências indisponíveis: docs/conversation-recovery-2026-10-31-wall-of-agar.md.
 
 ## Capital — arquitetura ancestral sem estátuas
 - O autor apresentou uma imagem como referência da capital e pediu que Agar fosse representada respeitando sua geografia, **sem estátuas**, usando uma linguagem de arquitetura ancestral elaborada, inspirada na sensação de civilizações míticas como Atlântida.
@@ -26,7 +26,7 @@ Leia docs/agar-civilization-and-geography.md, docs/cosmology.md e docs/canon-sta
 - A regra explícita para essa representação é **não incluir estátuas**. A monumentalidade deve vir de arquitetura, escala, geometria e integração com a paisagem.
 - Não alterar a geografia para acomodar edifícios; não inventar elementos geográficos ou estruturas específicas.
 - O arquivo da imagem de referência não ficou acessível para inspeção e não foi copiado para o GitHub nesta recuperação. Solicitar reenvio antes de descrever ou reconstruir detalhes visuais.
-- Registro completo: `docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md`.
+- Registro completo: docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md.
 
 ## Terminologia política — título do soberano em discussão
 - O criador considerou “Agar”, “Argano” e “Agardiano” e pediu um nome mais original dentro do universo.
@@ -34,4 +34,9 @@ Leia docs/agar-civilization-and-geography.md, docs/cosmology.md e docs/canon-sta
 - Registrar **Agam** como **PREFERÊNCIA DO AUTOR — CONFIRMAÇÃO CANÔNICA PENDENTE** para o título do rei/soberano de Agar.
 - Não presumir que o título já esteja formalmente canonizado nem inventar etimologia, sucessão, dinastia, tratamento protocolar ou cargos derivados.
 - “Arkan”, “Agarim”, “Agaron”, “Kaor”, “Aragor”, “Aruan”, “Garan”, “Agan”, “Orkan” e “Argael” foram sugestões da IA, não nomes adotados.
-- Registro cronológico: `docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md`.
+- Registro cronológico: docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md.
+
+## Governo e defesa — atualização de 2026-10-31
+- Consultar skills/apoena-agar-governance-and-defense/SKILL.md para as definições diretas do criador sobre Primodiarca, Arcontes e Sentinelas.
+- Não confundir esses cargos com classes de Aurium ou uma hierarquia cósmica.
+- Registro da conversa: docs/conversation-recovery-2026-10-31-primodiarca-arcontes-sentinelas.md.
