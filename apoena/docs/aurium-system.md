@@ -101,3 +101,40 @@ Não preencher artificialmente:
 
 ## 13. Limite entre mangá e jogo
 O documento de poderes estabelece regras narrativas de Aurium. HUD, valores de AUR, cooldowns, números de dano, habilidades Q/W/E/R/F, atributos e bônus de constelações são sistemas de jogo quando descritos nos repositórios de gameplay. Não transferir automaticamente valores de gameplay para o mangá.
+
+
+## 14. Correção de perspectiva narrativa e recuperação de 2026-10-31
+
+Esta seção registra uma correção explícita do criador sobre o conhecimento dos habitantes, sem apagar o conteúdo histórico das fontes anteriores.
+
+- No início da narrativa, os habitantes não pensam ou falam cotidianamente em “canalizar Aurium”. Ao usar seus poderes, pensam que estão **manifestando/controlando seu elemento**.
+- Para a arquitetura real do universo, Aurium é a energia fundamental anterior à manifestação; o criador o comparou ao chakra.
+- A descoberta consciente dessa camada energética será desenvolvida narrativamente mais tarde, especialmente pela nova geração, a partir de Apoena e de fragmentos de um texto antigo encontrado em uma construção em ruínas.
+- A descoberta arqueológica é uma ideia do criador ainda não especificada: local, texto, autoria, idioma e conteúdo exato permanecem em aberto.
+- Não antecipar a explicação teórica em diálogos de personagens que ainda não a conhecem.
+
+### Classe e habilidades profissionais — distinção em desenvolvimento
+
+O criador esclareceu que classe não deve ser reduzida a fortalecimento físico genérico. Uma classe possui habilidades/poderes específicos relacionados à função. Exemplo do criador: uma pessoa da tribo da Água que recebe a classe Ferreiro continua manifestando seu elemento conforme sua afinidade, mas também desenvolve habilidades próprias de ferreiro; resistência ao calor extremo da forja foi citada como exemplo.
+
+A classe e a manifestação elemental são dimensões distintas. Não inventar um catálogo definitivo de habilidades de Ferreiro ou de outras classes sem aprovação. A proposta de progressões independentes de Domínio Elemental e Domínio de Classe, com “nível máximo” para o ápice de ambas, foi discutida mas ainda não possui escala ou critérios formalizados.
+
+### Caverna dos Renascidos — rito de três dias
+
+Registro do criador: a cerimônia dura três dias. A criança é guiada por vozes através da escuridão até um espaço central com gramado, fonte circular de água e cristais luminosos.
+
+1. **Primeiro dia:** interação entre criança e espírito; a criança é ouvida e se estabelece vínculo de confiança.
+2. **Segundo dia:** o espírito anuncia que Agar será transportada novamente para Arkana em alguns anos. Explica que a pessoa deve dar o melhor de si para proteger aquilo que ama. Não pode explicar tudo sobre Arkana por não ter autorização; a criança pode perguntar livremente e recebe respostas conforme os limites da autorização.
+3. **Terceiro dia:** recebimento da classe e treinamento inicial para compreender as habilidades correspondentes. A formação posterior ocorre na sociedade.
+
+### Anomalia de Apoena — explicação do criador
+
+Apoena é o primeiro caso conhecido. A combinação da sobrecarga de Sombra de um dos pais com a sobrecarga de Luz do outro fez com que nascesse com quantidade excepcionalmente elevada de Aurium. Normalmente, a quantidade de Aurium cresce gradualmente durante a infância e o corpo acompanha esse crescimento; Apoena nasceu fora dessa progressão e seu corpo infantil não conseguia controlar/suportar a quantidade. Seu sistema biológico impede a manifestação elemental até que haja preparação corporal suficiente. Ele cumpre essa condição por treinamento físico próprio, sem conhecer a causa.
+
+O criador situou a sequência: ensino elemental a partir dos 7 anos; escola dos 7 aos 12; escolha/entrada no caminho militar aos 12; dos 12 aos 14, Apoena ainda fracassa na manifestação elemental, mas desenvolve força, velocidade, resistência e técnica corporal ao longo da vida. Aos 14 enfrenta uma luta que não pode resolver apenas com essas habilidades e procura resposta na Caverna. O estilo físico não é criado pelo treinamento da Caverna.
+
+### Divergências que não devem ser harmonizadas sem o criador
+
+A fonte Atual documenta Mudança de Classe aos 14 anos, enquanto a conversa de 2026-10-31 descreve recebimento de classe no terceiro dia de uma cerimônia infantil e escolha do caminho militar aos 12. A relação entre classe inicial, formação, caminho militar e mudança aos 14 ainda não está definida. Também permanecem pendentes a idade da cerimônia, duração do treinamento posterior de Apoena na Caverna e relação exata com o registro anterior de aproximadamente três meses.
+ 
+**Registro integral da conversa:** `conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md`.
