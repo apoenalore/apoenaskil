@@ -9,6 +9,7 @@ Biblioteca de Skills e conhecimento reutilizável do universo Apoena.
 4. Consulte também os registros de recuperação por conversa:
    - apoena/docs/conversation-recovery-2026-10-31-wall-of-agar.md
    - apoena/docs/recovery-session-2026-10-31-chat-context.md
+   - apoena/docs/recovered-conversation-notes-2026-10-31.md (registro complementar, inclui a preferência Agam ainda a confirmar)
    - apoena/docs/recovery/
 5. Leia apoena/docs/source-and-status-legend.md.
 6. Consulte apoena/references/README.md para fontes primárias e transcrições textuais.
