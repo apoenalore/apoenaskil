@@ -1,89 +1,71 @@
 # Inventário de recuperação de conhecimento Apoena
 
-**Data do inventário:** 2026-10-30  
-**Status:** parcial, com proveniência. Este documento evita afirmar recuperação integral quando fontes não estão disponíveis no contexto atual.
+**Data do inventário inicial:** 2026-10-30  
+**Atualização de fontes primárias:** 2026-10-31T08:47:00-03:00  
+**Status:** recuperação ampla, mas ainda parcial. Não é cópia integral de todas as conversas, anexos, assets ou documentos existentes.
 
-## O que foi consultado
+## Contextos e repositórios consultados
+- Base central `apoenalore/apoenaskil`, incluindo AGENTS, READMEs, Skills, canon, decisions e docs.
+- Conversas disponíveis no contexto sobre Aurium, constelações, poderes, Pixel Art, cooperação, mapas grandes, Studio Maker, GameCreator e direção visual.
+- `apoenalore/Apoena-pixel-art-html`: README, AGENTS, organização, ecossistema, terras e coop.
+- `apoenalore/JOGO-APOENA-AGAR-`: README e documentação selecionada do jogo 3D, constelações e gameplay.
+- `apoenalore/GameCreator`: README e `PLANO_GERAL_APOENA.md`.
+- `apoenalore/que-projeto-e-esse`: README da Lore Engine.
+- `apoenalore/projeto-apoena-studio-maker-ia`: README e documentação de separação entre mangá e jogo.
+- `apoenalore/APOENA-AI-HUB-IA`: documentação consultada como infraestrutura separada, não lore.
 
-### Base de Skills
-- `apoena/AGENTS.md`, README raiz e README da pasta Apoena.
-- Documentos de cosmologia, Aurium, estado do cânone, produção visual, constelações e notas de sistemas de jogo.
-- Skills de cânone, worldbuilding, Aurium, constelações/bênçãos, roteiro, direção artística, personagens, produção de imagem, continuidade, sistemas de jogo, ecologia, prototipagem Godot e arquivista.
-- Nesta atualização: mapa de repositórios, detalhes adicionais de sistemas de jogo e Skills de arquitetura de projetos e progressão/economia.
+## Fontes primárias da Biblioteca localizadas e transcritas
 
-### Conversas de projeto disponíveis no contexto
-- Sistema de Aurium, constelações e poderes: referência a uma conversa intitulada “Aurium Constelações Poderes”; o anexo `Texto colado.txt` é mencionado, mas seu conteúdo integral não está disponível nesta recuperação.
-- Pixel Art: o autor esclareceu que HTML serve para teste rápido no celular e que a entrega final seguirá para Godot.
-- Cooperação em mundo de exploração: conceito de convidar/visitar mundos, realizar missões, construções e combates em equipe; compartilhar somente estado/dados necessários e entregar recompensas ao voltar ao mundo próprio. O conceito ainda está em desenvolvimento.
-- Mapa grande no Godot: o autor levantou a questão de escala e arquitetura; não foi recuperada uma decisão aprovada.
-- Desenvolvimento GameCreator/GitHub: o autor estabeleceu trabalho sequencial, foco em corrigir bloqueios antes de adicionar funcionalidades, evitar workflows redundantes e registrar causa, solução, data/commit e teste. São regras de processo, não lore.
+### Sistema de Poderes Apoena Atual.pdf
+- 62 páginas; entrada na Biblioteca em 2026-09-07.
+- Texto extraído de todas as páginas, dividido em três arquivos sob `references/transcriptions/`.
+- É a fonte prioritária para as regras do sistema de Aurium.
+- Conteúdo detalhado incorporado em `docs/aurium-system.md` e `skills/apoena-aurium-system/SKILL.md`.
 
-### Repositórios auxiliares consultados
-- `apoenalore/Apoena-pixel-art-html`: README, AGENTS, `docs/ECOSSISTEMA.md`, `docs/TERRAS_E_COOP.md` e `docs/ORGANIZACAO.md`.
-- `apoenalore/JOGO-APOENA-AGAR-`: README; foram recuperadas descrições da alfa Godot 4, arena offline, Modo História de teste, menus, constelações de gameplay, habilidades provisórias e limitações.
-- `apoenalore/GameCreator`: README e `PLANO_GERAL_APOENA.md`; fronteiras editor/runtime, modos planejados, progressão, economia, NPCs e ecossistema.
-- `apoenalore/que-projeto-e-esse`: README; identificado como Lore Engine, ferramenta 3D independente em protótipo.
-- `apoenalore/projeto-apoena-studio-maker-ia`: README consultado para identificar responsabilidades do Studio Maker; detalhes técnicos não foram tratados como cânone.
-- `apoenalore/apoenaskil`: estrutura existente inspecionada antes de acrescentar documentos.
+### Sistema de Poderes Apoena.pdf
+- 25 páginas; entrada na Biblioteca em 2026-08-27.
+- Texto extraído de todas as páginas, dividido em dois arquivos sob `references/transcriptions/`.
+- Preservado como versão histórica anterior, não como regra que substitui a fonte Atual.
 
-## Conhecimento preservado nesta base
-- Cosmologia resumida: Grande Espírito, Aurium, Espírito da Vida, Tupi, Guerra Celestial e três domínios.
-- Sistema de Aurium: fluxo, portas, manifestações, reserva/custo, controle direto, defesa e exemplos de personagens.
-- Constelações registradas e distinção entre fatos cosmológicos e bônus de gameplay experimental.
-- Ecossistema do protótipo Floresta Viva, com parâmetros provisórios e limites.
-- Regras para proteger cânone, direção visual e continuidade.
-- Distinção entre cânone narrativo e mecânicas provisórias do jogo.
-- Conceito cooperativo e decisão HTML → Godot, classificados por status.
-- Plano de História, Exploração Livre e MOBA, e camadas de progressão.
-- Mapa de responsabilidades dos repositórios, ferramentas de autoria e runtimes.
+### Apoena a Origem do Universo (5).pdf
+- 90 páginas; entrada na Biblioteca em 2026-07-20.
+- Texto extraído de todas as páginas, dividido em quatro arquivos sob `references/transcriptions/`.
+- A página 90 tem OCR fragmentado; precisa de conferência visual.
+- Resumo com referências de páginas em `docs/cosmology-source-notes.md` e `docs/cosmology.md`.
 
-## Fontes importantes ainda não recuperadas integralmente
-- PDFs “Sistema de Poderes Apoena Atual.pdf”, “Sistema de Poderes Apoena.pdf” e “Apoena a Origem do Universo (5).pdf”; nomes e prioridade constam no inventário anterior, mas todas as páginas não foram examinadas nesta recuperação.
-- Anexo “Texto colado.txt” da conversa “Aurium Constelações Poderes”.
-- Fichas completas e fontes originais de personagens.
-- Cronologia completa, geografia, facções, arcos, povos, ecossistema canônico e regras de profissões/economia do mundo narrativo.
-- Bíblia visual integral, paletas aprovadas, proporções e referências originais.
-- Significado espiritual, origem, requisitos e efeitos definitivos das bênçãos/constelações; os bônus de gameplay são experimentais.
-- Decisão técnica definitiva sobre mapas gigantes e implementação de multiplayer.
-- Assets binários: ilustrações, PNGs, spritesheets, PDFs, GLBs, FBXs e ZIPs referidos nos READMEs ou conversas. Caminhos e descrições foram registrados quando disponíveis, mas os arquivos não foram copiados.
-- Código-fonte integral, histórico de commits e testes dos repositórios auxiliares; foram consultados documentos textuais, não uma auditoria integral de código.
+### Cópia adicional
+A Biblioteca contém `Apoena a Origem do Universo (5)(1).pdf`, entrada em 2026-08-26, mesmo tamanho de arquivo que a cópia de julho. Não foi comparada binariamente ou página a página; não afirmar identidade.
 
-## Contradições e pontos que exigem validação
-- Nomes Oriom/Orium e Ubirara/Ubirará/Birará aparecem em contextos diferentes. Não presumir equivalência sem comparar fichas aprovadas.
-- README do jogo 3D descreve contagens de torres/condições de vitória em seções distintas; podem pertencer a modos ou iterações diferentes.
-- Cooperação discutida em conversa e coop local do Pixel Art podem ter escopos/protocolos diferentes.
-- Dados do Studio Maker, Lore Engine e ferramentas de jogo não se tornam cânone automaticamente.
+O índice completo das fontes, datas, limitações e caminhos está em `references/README.md`.
 
-## Regra para próximas atualizações
-Quando um PDF, anexo, conversa antiga ou asset for disponibilizado, comparar com estes resumos, registrar fonte e atualizar Skills. Não substituir resumo por inferência. Manter versões anteriores e apontar conflitos para decisão do autor.
-
-
-## Complemento de recuperação — expansão de 2026-10-30
-
-Nesta etapa foram adicionados, a partir do contexto de conversas anteriores disponível:
-- Agar: país único, quatro tribos e cores, cultura ancestral, fundação, isolamento, medidas gerais da capital, muralha, portão, liderança e educação.
+## Conhecimento recuperado e ampliado
+- Cosmologia: Grande Espírito, Aurium, Nairuk, Kairu, Cordeiro, rebelião celestial, três domínios, Oceano Primordial, criação do Reino Material, Tupi, Anahi, jardim, árvores e início da tentação.
+- Aurium: natureza primordial, reposição, reserva individual, esgotamento, emoções, Porta de Fluidez, portas elementais, Luz/Sombra, três fases de domínio, combinação, Postura de União, catalisadores, classes, Aurium direto, condensação, defesa natural e princípios de combate.
+- Exemplos expressos na fonte Atual: Apoena, Brin, Kael, Ruf, Serena, Orium, Ubirara e Birará, mantendo divergências.
+- Agar: país único, quatro tribos e cores, cultura ancestral, fundação, isolamento, medidas gerais, capital, muralha, portão, liderança e educação (recuperado de memória e ainda a validar em fontes originais).
 - Personagens: Apoena Rocha Rios, Oriom/Orium, Serena, Aqua, Blin/Brin, Ruf, Kael, Ubirara/Ubirará/Birará e fragmentos de profecia/visões.
-- Temas e estilo narrativo: esperança, perseverança, amizade, família, crescimento, sacrifício/coragem, ritmo Webtoon e linguagem simples.
+- Temas narrativos: esperança, perseverança, amizade, família, crescimento, sacrifício/coragem, ritmo Webtoon e linguagem simples.
 - Direção visual: anime/mangá 2D minimalista, pixel art 2.5D específica do jogo, regras de spritesheet/transparência e metas de produção 3D.
-- Parâmetros de gameplay lembrados: HP, AUR, moedas, habilidades Q/W/E/R/F, veneno, dungeon, itens e ecossistema vivo.
-- Legenda formal de proveniência/status e documento de lacunas/contradições.
-- Skills novas: Agar, cânone de personagens, continuidade visual e implementação de gameplay.
+- Jogos e desenvolvimento: plano de História, Exploração Livre e MOBA, camadas de progressão, profissões/economia, NPCs, ecossistema, coop, GameCreator, Studio Maker, Lore Engine, Godot e AI Hub.
 
-Os novos documentos são sínteses de memória e decisões de conversa. Não substituem as fontes primárias. Nenhum PDF, imagem ou arquivo binário foi copiado nesta etapa.
+## Limites que permanecem
+- Os PDFs originais permanecem na Biblioteca. O GitHub recebeu extrações textuais, não cópias binárias dos PDFs.
+- As transcrições não incluem diagramas, imagens ou layout original; OCR pode errar nomes e trechos.
+- Página 90 da cosmologia requer inspeção visual.
+- O anexo `Texto colado.txt` da conversa “Aurium Constelações Poderes” ainda não foi localizado.
+- 16 PDFs citados em conversa de 2026-09-29 não foram identificados individualmente.
+- Manual do Aule integral não foi localizado.
+- Fichas oficiais completas, cronologia total, mapas, geografia detalhada, facções, povos, arcos além das fontes disponíveis e Bíblia visual integral continuam incompletos.
+- Assets binários (ilustrações, spritesheets, modelos GLB/FBX, vídeos e ZIPs) não foram copiados para o repositório nesta atualização.
+- Código-fonte e histórico de commits dos repositórios auxiliares não passaram por auditoria integral.
 
+## Divergências preservadas
+- Kairu é chamado Filho do Grande Espírito e também descrito como o próprio Grande Espírito esvaziado de glória; o texto menciona três manifestações do Grande Espírito.
+- Orium/Oriom; Ubirara/Birará/Ubirará; Blin/Brin; Ar/Vento.
+- Serena aparece com Água, Ar e Luz na fonte Atual, enquanto memórias mencionam Tempestade.
+- Apoena tem predisposição de linhagem para seis manifestações, mas não domínio automático; o jogo registra o estado inicial Ausente.
+- Cooperação cross-world e coop local por celulares podem ter escopos diferentes.
+- Contagens de torres/condições de vitória aparecem diferentes em seções do README do jogo 3D.
 
-## Auditoria adicional de fontes — 2026-10-31
-
-**data_hora_do_registro:** 2026-10-31T08:47:00-03:00
-
-Foi realizada nova inspeção estrutural e documental dos repositórios `apoenalore/projeto-apoena-studio-maker-ia`, `Apoena-pixel-art-html`, `JOGO-APOENA-AGAR-`, `GameCreator`, `que-projeto-e-esse` e `APOENA-AI-HUB-IA`. O relatório detalhado está em `docs/repository-source-audit-2026-10-31.md`.
-
-Novos pontos recuperados:
-- Separação formal entre Studio Maker (mangá/autoria) e jogo Godot (runtime) documentada em `projeto-apoena-studio-maker-ia/docs/SEPARACAO_MANGA_E_JOGO.md`.
-- Studio Maker: fichas versionadas, geração/correção por API, editor manual de mangá e editor de cena 2D com esqueleto aproximado; limitações registradas na Skill `apoena-studio-production`.
-- Protocolo de trabalho sequencial no Pixel Art: uma tarefa ativa por vez, critérios objetivos, testes, validação correta, revisão e registro antes da próxima tarefa.
-- README atual do jogo descreve Floresta Viva, Arena offline e Modo História alfa, com pendências explícitas e distinção entre arte 2D da interface e gameplay 3D.
-- GameCreator e Lore Engine são ferramentas distintas; AI Hub é infraestrutura multi-IA separada do universo ficcional.
-- Foram localizados assets binários dentro do repositório do jogo (incluindo modelos GLB), mas não foram baixados nem copiados para a biblioteca de Skills.
-
-**Limite:** leitura documental seletiva e árvore de arquivos; não houve auditoria integral de código, commits, branches ou assets binários.
+## Regra para futuras atualizações
+Quando uma nova fonte surgir, registrar data/hora, proveniência, páginas e escopo. Comparar versões sem apagar histórico. Distinguir fonte primária, memória, decisão do autor, implementação, plano e proposta. Não inventar o que falta.
