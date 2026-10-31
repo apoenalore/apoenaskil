@@ -33,10 +33,10 @@ O Aurium de indivíduos diferentes naturalmente se repele. Romper essa defesa é
 A Bíblia Oficial estabelece potencial excepcional para abrir seis manifestações: Água, Fogo, Terra, Ar, Luz e Sombra. Apoena não começa dominando todas. Após o ritual canônico no Monte do Renascimento/Caverna da Decisão (aos 14 anos; experiência de aproximadamente 3 meses), começa a recuperar o Caminho do Aurium. Seu estilo pode combinar Aurium direto, corpo e manifestações; não abandona os elementos.
 
 ## Personagens citados
-- Brin: exemplo de manifestação de Ar por exteriorização natural de Aurium.
+- Blin/Brin: o sistema consolidado final declara Blin como nome oficial e Brin como grafia antiga; a Bíblia Oficial ainda usa Brin em uma seção. Conflito de proveniência registrado. O exemplo de manifestação de Ar por exteriorização natural de Aurium está associado a esse personagem.
 - Ubirara: Terra e Água; combinação associada a Madeira; classe Mago; catalisador/cajado e uso direto do Aurium.
 - Serena: fontes citam Água, Ar/Vento e Luz; harmonizar Vento como Ar quando for o elemento.
-- Orium/Oriom: a grafia de personagem precisa ser verificada na fonte/ficha; não resolver por suposição.
+- Orium/Oriom: a grafia de personagem precisa ser verificada na fonte/ficha; PDFs usam Orium, conversas registram Oriom como pai de Apoena. Não resolver por suposição.
 - Kael e Ruf: companheiros citados; não inferir portas sem fonte.
 
 ## Regra para criar técnicas
