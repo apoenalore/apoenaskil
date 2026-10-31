@@ -109,3 +109,13 @@ O registro distingue decisões explícitas de lembranças a validar. Os pedidos 
 - `Livro.pdf` (2 páginas, composto por imagens) foi inspecionado visualmente: página 1 mostra Pandora, ano 4806; página 2 mostra reunião de liderança em Agar e contém a fala “Restam apenas 20 anos para Agar deixar Pandora”. Registrar como material recebido, com posição cronológica e identidade dos personagens ainda a validar.
 - `Sistema de Poderes Apoena.pdf` (25 páginas) corresponde à versão histórica já catalogada; não substitui a versão Atual de 62 páginas.
 - Os PDFs binários permanecem nos anexos/Biblioteca; não foram copiados para o GitHub como binários.
+
+
+## Atualização de anexos — 2026-10-31T10:53:00-03:00
+
+Novas fontes recebidas e inspecionadas nesta sessão:
+- `Livro.pdf`: 2 páginas visuais, 5.625.710 bytes, SHA-256 `a2aae5a4750a7270efac303b7ca34e6e1e85dca6760158d5d73842e9e5d4cc4e`. Página 1 situa Pandora no ano 4806; página 2 mostra reunião em Agar e contém a fala “Restam apenas 20 anos para Agar deixar Pandora”. É fonte visual fornecida pelo autor, mas aprovação/canonicidade e encaixe cronológico não foram confirmados. Ver `docs/conversation-recovery-2026-10-31-new-uploads.md`.
+- `Apoena a Origem do Universo (6).pdf`: nova fonte de 102 páginas, 765.419 bytes, SHA-256 `1350c8381a0741b81a0a61dca027c29c00677717b44d5cd75465fc86b052831d`. O texto é pesquisável; a página 102 termina antes da decisão de Tupi sobre o fruto. Ainda não foi comparada integralmente com a versão antiga de 90 páginas nem transcrita separadamente. Preservar as duas versões.
+- `Sistema de Poderes Apoena.pdf`: 25 páginas, 256.662 bytes, SHA-256 `d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8`. Mesmo tamanho e número de páginas da fonte histórica já catalogada; provável repetição, identidade binária pendente.
+
+A recuperação continua parcial. Os PDFs foram inspecionados localmente, mas os binários não foram incorporados ao GitHub nesta etapa. O catálogo em `references/README.md` contém os metadados e as pendências.
