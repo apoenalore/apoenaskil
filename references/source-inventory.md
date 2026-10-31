@@ -31,3 +31,10 @@ Os seguintes documentos foram anexados pelo autor. O inventário registra nomes 
 
 ## Próxima ação recomendada
 Ler cada PDF integralmente, extrair passagens e registrar por tópico: fonte, página, transcrição/resumo, estado, relação com outra fonte e questão de validação. Adicionar as referências completas a Skills em pequenos commits.
+
+
+## Leitura realizada nesta etapa
+- A Bíblia Oficial foi inspecionada por seções: canonização, cronologia inicial, Bênção, conceitos de Aurium, portas/manifestações, Apoena, Brin/Kael/Ruf, Ubirara, constelações, Nairuk, Kairu/Aruam, Tupi, Agar, política e correções definitivas. Ela estabelece precedência sobre documentos antigos.
+- “A Origem de Agar” foi extraída em texto e lida para fundação, datação, muralha, portões, vias, territórios tribais e desenho da capital.
+- “Sistema de Hierarquia Militar e Governamental de Agar” foi lido para autoridade civil, conselho, tribunal e corpos militares.
+- “1 Lore apoena .pdf” foi identificado como documento de continuidade de versão anterior com passagens de três anos de jornada; sua informação entra no arquivo de histórico, não substitui a Bíblia Oficial.
