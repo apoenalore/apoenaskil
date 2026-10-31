@@ -52,3 +52,6 @@
 
 ## Recuperação da conversa de 2026-10-31
 - ../docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md
+
+## Recuperação conversacional — ritual e sistema de classes
+- ../docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md
