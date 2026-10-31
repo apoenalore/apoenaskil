@@ -7,7 +7,11 @@
 - Quatro tribos elementais: Água (azul), Fogo (vermelho), Terra (verde) e Ar/Vento (amarelo).
 - Cultura ancestral descrita como atlante-like: cristais, tecnologia integrada à natureza, preservação da vida e do ambiente.
 - Tupi é lembrado como figura paterna ancestral, “pai de todos”.
-- Agar foi fundada por Tupi e descendentes no ano 90 da Criação.
+- Registro histórico anterior: Agar foi fundada por Tupi e descendentes no ano 90 da Criação.
+- Esclarecimento direto posterior do criador (2026-10-31): Agar foi construída no planeta Arcana, dentro da dimensão Arcana, a partir do ano 99 da Criação por Tupi e seus descendentes; posteriormente foi retirada da dimensão Arcana e enviada à dimensão Pandora, onde passa 4.000 anos.
+- Os registros ano 90/ano 99 e 4.130/4.000 são divergências preservadas. Não presumir arredondamento ou diferença de evento. Ver recovery/2026-10-31-arcana-agar-pandora.md.
+- Correção conceitual: Agar é o país deslocado; Apoena é um morador de Agar. Não tratar Agar como personagem.
+- Arcana/Arkana: preservar as grafias de cada fonte. O esclarecimento de 2026-10-31 usa Arcana para dimensão e planeta; registros anteriores usam Arkana em referências dimensionais. Não padronizar sem confirmação.
 - Isolamento em Pandora por aproximadamente 4.130 anos. Cotejar com a cronologia oficial e a separação Pandora/Arkana superior a 4.000 anos após Luciel/Grande Cataclismo.
 
 ## Geografia e capital
@@ -37,4 +41,4 @@ Os dois arquivos foram inspecionados e registrados em `../references/visual-asse
 Nomes institucionais e sequência devem ser confrontados com fontes oficiais.
 
 ## Regras para IA
-Nunca dividir Agar em quatro países. Preservar cores/tribos. Não confundir isolamento de Agar com separação cosmológica de Pandora e Arkana. Tratar medidas, cronologia e mapas como recuperados a validar.
+Nunca dividir Agar em quatro países. Preservar cores/tribos. Diferenciar dimensão Arcana, planeta Arcana e dimensão Pandora. Não confundir o deslocamento de Agar com transporte de todo o planeta Arcana. Preservar divergências cronológicas sem resolvê-las por inferência. Tratar medidas, cronologia e mapas como recuperados a validar.
