@@ -8,7 +8,7 @@ description: Mantém a separação entre repositórios Apoena, ferramentas de au
 Ajudar agentes a continuar os projetos técnicos associados ao universo Apoena sem misturar produtos, código, saves, assets ou estados de implementação.
 
 ## Leitura obrigatória
-- `../AGENTS.md`
+- `../../AGENTS.md`
 - `../../docs/repository-map.md`
 - `../../docs/game-design-recovered.md`
 - O README e as instruções do repositório específico que será alterado.
