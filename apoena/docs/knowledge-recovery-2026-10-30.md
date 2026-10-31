@@ -69,3 +69,10 @@ O índice completo das fontes, datas, limitações e caminhos está em `referenc
 
 ## Regra para futuras atualizações
 Quando uma nova fonte surgir, registrar data/hora, proveniência, páginas e escopo. Comparar versões sem apagar histórico. Distinguir fonte primária, memória, decisão do autor, implementação, plano e proposta. Não inventar o que falta.
+
+
+## Referências visuais localizadas — auditoria da Biblioteca
+- Foram encontrados e inspecionados dois PNGs candidatos de cidade circular/Grande Árvore: `Mapa Aquarelado da Cidade Circular Celeste.png` (1536×1024 RGB; SHA-256 `1feb81d22b82b7f8c43cf7226c86994588770305f42ef2ef51299af01e289452`) e `Mapa Aéreo da Cidade do Tronco Gigante.png` (1536×1024 RGB; SHA-256 `23d70eb6c0ee809d6a778074a220510a9690637c49c4730b79b8493e19e2b55a`).
+- São imagens distintas com diferenças visuais. Relação com Agar é plausível pela forma circular e Grande Árvore, mas aprovação como mapas canônicos não foi comprovada.
+- Outros arquivos com nomes de sprites/compostagem foram encontrados, mas não puderam ser materializados por falta de autorização de bytes; não foram atribuídos ao Apoena.
+- Catálogo: `references/visual-assets-in-library.md`. Os PNGs originais permanecem na Biblioteca; não foram copiados como binários para GitHub.
