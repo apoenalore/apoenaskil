@@ -14,3 +14,7 @@ Método:
 3. Separar proposta de fato.
 4. Explicar consequências para história, personagens e cosmologia.
 5. Oferecer opções apenas quando a decisão criativa estiver aberta.
+
+
+## Proteção da versão atual
+Antes de desenvolver lore, consultar a Bíblia Oficial — Cânone Mestre e docs/canon-master-addendum.md. A Bíblia Oficial prevalece sobre documentos antigos divergentes. Para Agar, consultar geografia e conflitos registrados; datas e medidas divergentes permanecem separadas. Toda ideia nova é proposta até aprovação do autor.
