@@ -2,27 +2,24 @@
 
 Biblioteca de instruções reutilizáveis para orientar agentes de IA no universo **Apoena**: cânone, cosmologia, Aurium, narrativa, personagens, direção visual e adaptação para jogos.
 
-## Estrutura
-- `apoena/AGENTS.md`: regras gerais obrigatórias.
-- `apoena/skills/`: Skills especializadas.
-- `apoena/docs/`: resumos de referência, inventário de recuperação e notas de sistemas de jogo.
+## Comece pela área Apoena
+- [README Apoena](apoena/README.md)
+- [Regras para agentes](apoena/AGENTS.md)
+- [Índice de Skills](apoena/skills/INDEX.txt)
+- [Estado do cânone](apoena/docs/canon-status.md)
+- [Adendo da Bíblia Oficial](apoena/docs/canon-master-addendum.md)
+- [Inventário de fontes](apoena/docs/source-inventory.md)
+- [Conflitos de versões](apoena/docs/legacy-lore-conflicts.md)
+- [Inventário de recuperação](apoena/docs/knowledge-recovery-2026-10-30.md)
+
+## Áreas
+- `apoena/skills/`: Skills especializadas e reutilizáveis.
+- `apoena/docs/`: referências de cânone, fontes, geografia, governo, personagens, Aurium e histórico.
 - `apoena/canon/`: materiais consolidados e aprovados pelo autor.
 - `apoena/decisions/`: decisões autorais registradas.
 
-## Skills
-- `apoena-canon-guardian`: protege o cânone.
-- `apoena-worldbuilding`: desenvolve mundo e cosmologia.
-- `apoena-aurium-system`: aplica as regras documentadas do Aurium e revisa técnicas.
-- `apoena-scriptwriter`: roteiro, cenas e diálogos.
-- `apoena-art-director`: direção visual e composição.
-- `apoena-character-designer`: fichas e consistência de personagens.
-- `apoena-image-production`: imagens, edição e spritesheets.
-- `apoena-continuity-reviewer`: continuidade e contradições.
-- `apoena-game-systems`: organiza mecânicas sem confundir jogo e cânone narrativo.
-- `apoena-godot-prototyping`: fluxo HTML de protótipo → Godot.
-- `apoena-knowledge-archivist`: recupera, cataloga e preserva proveniência e lacunas.
+## Regra principal
+A IA auxilia o autor; não decide o cânone. A Bíblia Oficial — Cânone Mestre prevalece sobre materiais antigos divergentes conforme seu princípio de canonização. Toda lacuna deve ser marcada como desconhecida ou proposta, nunca preenchida silenciosamente.
 
-## Estado do material
-Esta biblioteca é uma base de transferência de conhecimento, não uma enciclopédia completa. Consulte `apoena/docs/knowledge-recovery-2026-10-30.md` para saber o que foi recuperado e quais fontes continuam ausentes. Os PDFs originais, anexos de conversas, fichas completas, cronologia, geografia, facções, arcos e bíblia visual ainda precisam de catalogação e validação integral.
-
-**Regra principal:** a IA auxilia o autor; não decide o cânone. Toda lacuna deve ser marcada como desconhecida ou proposta, nunca preenchida silenciosamente.
+## Estado da transferência
+A transferência é incremental. A branch de trabalho atual contém novas Skills e referências criadas a partir dos PDFs e do contexto disponível. Nem todos os anexos foram comparados integralmente; consulte o inventário e as pendências antes de tratar o material como enciclopédia completa.
