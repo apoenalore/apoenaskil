@@ -1,30 +1,25 @@
-# Transferência de conhecimento — Universo Apoena
+# Índice de transferência — Apoena
 
-**Estado:** primeira consolidação de conhecimento; não é uma declaração de que todo o cânone foi catalogado.
-**Data de consolidação:** 2026-10-30.
-**Objetivo:** organizar material real disponível em documentos enviados e contexto de conversas em Skills reutilizáveis.
+A base reutilizável e suas fontes estão organizadas na pasta `apoena/` do repositório.
 
-## Como interpretar
-- **CANÔNICO / fonte documental:** consta de uma fonte autoral ou de confirmação explícita.
-- **DECISÃO DE PRODUÇÃO:** regra de projeto visual, narrativo ou técnico.
-- **EM DISCUSSÃO / PENDENTE:** não tratar como fato definitivo.
-- **HISTÓRICO / SUBSTITUÍDO:** preservar sem reativar automaticamente.
-- **CONFLITO:** versões diferem; manter ambas e pedir decisão do autor.
+## Comece por
+- [Regras de agentes](apoena/AGENTS.md)
+- [README Apoena](apoena/README.md)
+- [Índice de Skills](apoena/skills/INDEX.txt)
+- [Adendo do cânone-mestre](apoena/docs/canon-master-addendum.md)
+- [Inventário de fontes](apoena/docs/source-inventory.md)
+- [Conflitos e versões anteriores](apoena/docs/legacy-lore-conflicts.md)
+- [Registro de recuperação](apoena/docs/knowledge-recovery-2026-10-30.md)
 
-## Skills e documentos nesta transferência
-- [Guardião do cânone](skills/apoena-canon-guardian/SKILL.md)
-- [Cosmologia e origem](skills/apoena-cosmology/SKILL.md)
-- [História e cronologia](skills/apoena-history/SKILL.md)
-- [Personagens](skills/apoena-characters/SKILL.md)
-- [Agar, povos e geografia](skills/apoena-agar-world/SKILL.md)
-- [Aurium e sistema de poder](skills/apoena-power-system/SKILL.md)
-- [Direção visual](skills/apoena-visual-direction/SKILL.md)
-- [Desenvolvimento de jogos e separação de projetos](skills/apoena-game-development/SKILL.md)
-- [Registro de decisões e questões abertas](decisions/apoena-knowledge-ledger.md)
-- [Inventário de fontes](references/source-inventory.md)
-- [Adendo do cânone-mestre](references/canon-master-addendum.md)
-- [Conflitos de versões antigas](references/legacy-lore-conflicts.md)
-- [Governo e hierarquia de Agar](skills/apoena-agar-government/SKILL.md)
+## Skills centrais
+- [Guardião do cânone](apoena/skills/apoena-canon-guardian/SKILL.md)
+- [Cosmologia](apoena/skills/apoena-cosmology/SKILL.md)
+- [História](apoena/skills/apoena-history/SKILL.md)
+- [Personagens](apoena/skills/apoena-characters/SKILL.md)
+- [Agar e geografia](apoena/skills/apoena-agar-world/SKILL.md)
+- [Governo de Agar](apoena/skills/apoena-agar-government/SKILL.md)
+- [Sistema Aurium](apoena/skills/apoena-aurium-system/SKILL.md)
+- [Direção visual](apoena/skills/apoena-visual-direction/SKILL.md)
+- [Desenvolvimento de jogos](apoena/skills/apoena-game-development/SKILL.md)
 
-## Limite desta entrega
-Os arquivos aqui documentam somente detalhes sustentados por fontes localizadas ou por registros explícitos de conversas. Esta entrega não substitui a leitura integral de todos os PDFs, não afirma que cada personagem ou evento já foi coberto e não inventa soluções para lacunas. A expansão deve ser incremental, com fonte e status em cada item.
+**Estado:** transferência incremental; não declarar que todos os PDFs e conversas foram comparados integralmente.
