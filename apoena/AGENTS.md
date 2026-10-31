@@ -13,10 +13,10 @@ Antes de qualquer tarefa:
 10. Sugestões só viram cânone após aprovação explícita.
 11. Não confunda protótipos de jogo com cânone do mangá nem misture repositórios.
 12. Não alegue recuperação integral se anexos, PDFs ou conversas estiverem inacessíveis.
-13. **Registre data e hora em todos os novos registros, alterações, decisões, descobertas e relatórios.** Use formato ISO 8601 com fuso horário, por exemplo `2026-10-31T02:55:00-03:00`.
-14. Diferencie a data/hora em que o fato ou conversa ocorreu da data/hora em que a IA registrou ou atualizou o documento, quando ambas forem conhecidas.
-15. **Se não for possível determinar a hora, não invente nem estime.** Registre explicitamente `Hora não disponível na fonte` (e preserve a data, se conhecida). Se nem a data for conhecida, use `Data e hora não disponíveis na fonte`.
-16. Se o sistema não fornecer relógio ou fuso confiável, informe essa limitação e não fabrique timestamp. Nunca use a data atual como se fosse a data original de uma conversa antiga.
+13. Registre data e hora em todos os novos registros, alterações, decisões, descobertas e relatórios. Use ISO 8601 com fuso horário quando o relógio for confiável.
+14. Diferencie a data/hora do fato original da data/hora em que a IA registrou o documento, quando ambas forem conhecidas.
+15. Se a hora não estiver disponível na fonte, declare isso; não invente nem estime.
+16. Se não houver relógio ou fuso confiável, informe a limitação e não fabrique timestamp.
 
 ## Skills
 - Cânone: skills/apoena-canon-guardian/SKILL.md
@@ -28,8 +28,13 @@ Antes de qualquer tarefa:
 - Agar: skills/apoena-agar-civilization/SKILL.md
 - Visual: skills/apoena-art-director/SKILL.md, skills/apoena-image-production/SKILL.md e skills/apoena-visual-continuity/SKILL.md
 - Jogo: skills/apoena-game-systems/SKILL.md e skills/apoena-gameplay-implementation/SKILL.md
+- Engenharia de jogos: skills/apoena-game-engineering/SKILL.md
 - Ecologia: skills/apoena-ecology-systems/SKILL.md
 - Progressão/economia: skills/apoena-progression-economy/SKILL.md
 - Godot: skills/apoena-godot-prototyping/SKILL.md
 - Arquitetura: skills/apoena-project-architect/SKILL.md
 - Arquivista: skills/apoena-knowledge-archivist/SKILL.md
+
+## Regra especial para tarefas GameCreator/Godot
+
+Antes de alterar GameCreator ou Apoena Pixel Art, leia a Skill de engenharia, a auditoria técnica datada e a pesquisa associada. A auditoria não autoriza alterações de código: confirme o estado atual, respeite AGENTS.md do repositório de destino, mantenha WIP = 1 e altere somente o escopo pedido. Não crie workflows/runner redundantes, não apague artefatos ou dados sem autorização e não declare integração sem teste no runtime consumidor.
