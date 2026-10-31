@@ -31,3 +31,5 @@ Esta pasta reúne as instruções e referências de IA exclusivas do projeto Apo
 - docs/chapter1-reference.md — detalhes de continuidade do Capítulo 1.
 - docs/legacy-lore-archive.md — resumos históricos de versões anteriores.
 - skills/INDEX.txt foi ampliado com Skills de cosmologia, história, personagens, Agar, governo, direção visual e separação de projetos.
+
+- Para comparar as diferentes versões de Aurium sem apagar histórico, consulte docs/power-system-version-comparison.md e a Skill apoena-power-system-auditor.
