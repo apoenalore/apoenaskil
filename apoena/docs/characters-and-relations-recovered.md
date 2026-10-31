@@ -32,3 +32,9 @@ Fragmentos narrativos: profecia “Quando a luz e sombras...”; visão de torre
 
 ## Continuidade
 Manter aparência de Apoena e condição inicial de Ausente. Não equipar Aqua com grimório na versão corrigida. Separar idades por arco. Não resolver Oriom/Orium, Blin/Brin ou Ubirara/Ubirará/Birará por palpite. Distinguir habilidades de gameplay de poderes narrativos.
+
+
+## Correção explícita do criador — 2026-10-31
+- Pais de Apoena: **Oriom** (pai) e **Serena** (mãe). Ver registro de origem em `conversation-recovery-2026-10-31-parents-correction.md`.
+- A grafia atual confirmada para o pai é Oriom. “Orium” permanece somente como ocorrência histórica em materiais anteriores, não como alternativa atual equivalente.
+- Descrições biográficas produzidas pela IA sem aprovação explícita não são cânone.
