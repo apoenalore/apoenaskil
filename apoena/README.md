@@ -39,3 +39,7 @@ Não trate resumos de memória como substitutos dos PDFs originais. Não transfo
 ## Atualização — hierarquia político-militar de Agar
 - Skill: skills/apoena-agar-governance-and-defense/SKILL.md.
 - Registro da conversa e das correções: docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md.
+
+
+## Correção de parentesco — 2026-10-31
+- Pais de Apoena: Oriom e Serena. Registro de proveniência: `docs/conversation-recovery-2026-10-31-parents-correction.md`.
