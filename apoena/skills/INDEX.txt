@@ -55,3 +55,8 @@
 
 ## Recuperação conversacional — ritual e sistema de classes
 - ../docs/conversation-recovery-2026-10-31-ritual-classes-apoena-anomaly.md
+
+
+## Transferência complementar — 2026-10-31
+- ../docs/transfer-session-2026-10-31-1335.md
+- ../../apoena-knowledge/README.md — conjunto suplementar de Skills e notas; consultar após a biblioteca principal, não substitui as Skills canônicas existentes.
