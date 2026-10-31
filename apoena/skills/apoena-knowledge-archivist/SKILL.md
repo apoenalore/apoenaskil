@@ -38,3 +38,10 @@ Antes de publicar:
 - Não derive personalidade, parentesco, poder, cronologia ou geografia sem fonte.
 - Não transforme um arquivo de protótipo em bíblia canônica.
 - Não inclua conteúdo privado não destinado à biblioteca pública.
+
+
+## Atualização da transferência — 2026-10-30
+- Priorize a Bíblia Oficial — Cânone Mestre para correções explícitas e registre o princípio de precedência no inventário.
+- Ao comparar PDFs, preserve cada edição e anote seção/página quando disponível. Não supor que um arquivo chamado “final” seja a versão oficial sem canonização.
+- Registrar conflitos detectados entre conversas e PDFs: ano 90 vs. ano 100 da fundação de Agar; 50 km de largura vs. 50 km de circunferência da área da Grande Árvore; duração de três anos antiga vs. cerca de três meses canonizada.
+- Atualizar os índices dentro de apoena/ e manter a raiz do repositório como ponto de navegação, evitando bibliotecas duplicadas.
