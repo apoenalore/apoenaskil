@@ -30,3 +30,8 @@ Use `../../docs/game-design-recovered.md`, `../../docs/repository-map.md` e a do
 - Sistemas gerais: `apoena-game-systems`.
 - Cânone: `apoena-canon-guardian`.
 - Fonte de recuperação: `../../docs/game-design-recovered.md`.
+
+
+## Exemplo narrativo de profissão e competências
+Consulte `../../docs/conversation-recovery-2026-08-25-professions-and-elemental-combination.md`.
+Um ferreiro Terra e um aprendiz Terra + Fogo foram discutidos para ilustrar como profissão, manifestações, treino e estilo podem se reforçar. É exemplo conceitual, não especificação de gameplay nem ficha canônica. Não criar árvore rígida de classes a partir dele.
