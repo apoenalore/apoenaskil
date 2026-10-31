@@ -76,3 +76,20 @@ Quando uma nova fonte surgir, registrar data/hora, proveniência, páginas e esc
 - São imagens distintas com diferenças visuais. Relação com Agar é plausível pela forma circular e Grande Árvore, mas aprovação como mapas canônicos não foi comprovada.
 - Outros arquivos com nomes de sprites/compostagem foram encontrados, mas não puderam ser materializados por falta de autorização de bytes; não foram atribuídos ao Apoena.
 - Catálogo: `references/visual-assets-in-library.md`. Os PNGs originais permanecem na Biblioteca; não foram copiados como binários para GitHub.
+
+
+## Recuperação conversacional adicional — 2026-10-31
+
+Foi registrado um esclarecimento direto do criador sobre a cosmologia dimensional e a história de Agar. Ver o registro integral em apoena/docs/recovery/2026-10-31-arcana-agar-pandora.md e a Skill apoena/skills/apoena-dimensional-cosmology/SKILL.md.
+
+Conteúdo recuperado:
+- Arcana é uma dimensão criada para a vida humana; seres espirituais adentram a matéria e experimentam a vivência humana limitada.
+- Existe também um planeta oculto dentro dessa dimensão, igualmente chamado Arcana.
+- Agar foi construída nesse planeta por Tupi e seus descendentes a partir do ano 99 da Criação.
+- Agar foi retirada da dimensão Arcana e enviada à dimensão Pandora.
+- Pandora é descrita como dimensão hostil, com gerações de habitantes lutando contra monstros e demônios.
+- Agar passa 4.000 anos em Pandora.
+- Apoena é morador do país Agar.
+- A proposta de livro inspiracional, com elementos do mundo real e estrutura de grande narrativa fundadora, foi discutida como possibilidade em desenvolvimento.
+
+Divergências preservadas: ano 90 versus ano 99; aproximadamente 4.130 versus 4.000 anos; grafias Arkana versus Arcana. A atualização não resolve essas diferenças.
