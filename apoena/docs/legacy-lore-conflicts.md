@@ -33,3 +33,14 @@ Este arquivo preserva divergências encontradas nos documentos. Não apagar vers
 
 ## Regra
 Quando o autor resolver um conflito, registrar data, decisão, contexto e fontes que permanecem como históricas.
+
+
+## 7. Brin / Blin — grafia do companheiro
+- **Bíblia Oficial — Cânone Mestre:** a seção de Brin, Kael e Ruf usa “Brin”.
+- **Claud cloud — Livro de Regras do Aurium, Documento Consolidado Final:** declara explicitamente “Blin” como nome oficial e “Brin” como grafia antiga usada em versões anteriores; o documento também registra a correção Ar (não Vento) e Ubirara (não Birará).
+- **Tratamento:** há conflito entre a Bíblia Oficial e o documento consolidado de sistema. O documento de sistema afirma a correção explicitamente, mas não reescrever a ocorrência do cânone-mestre sem aprovação do autor. Usar “Blin (grafia consolidada no sistema; Bíblia Oficial ainda contém Brin)” em materiais de referência provisórios.
+
+## 8. Oriom / Orium — grafia de personagem
+- **Fonte conversacional:** Oriom é registrado como pai de Apoena/Sentinela das Sombras.
+- **PDFs de sistema:** utilizam Orium em exemplos de personagem.
+- **Tratamento:** não está confirmado nesta recuperação se é grafia divergente do mesmo personagem ou se há distinção de contexto. Manter a referência com fonte e pedir validação antes de harmonizar.
