@@ -1,4 +1,4 @@
-# Índice de skills Apoena
+# Índice de Skills Apoena
 
 ## Cânone e lore
 - apoena-canon-guardian/SKILL.md
@@ -10,13 +10,19 @@
 ## Narrativa e personagens
 - apoena-scriptwriter/SKILL.md
 - apoena-character-designer/SKILL.md
+- apoena-character-canon/SKILL.md
+
+## Mundo e sociedade
+- apoena-agar-civilization/SKILL.md
 
 ## Visual
 - apoena-art-director/SKILL.md
 - apoena-image-production/SKILL.md
+- apoena-visual-continuity/SKILL.md
 
 ## Jogos e desenvolvimento
 - apoena-game-systems/SKILL.md
+- apoena-gameplay-implementation/SKILL.md
 - apoena-ecology-systems/SKILL.md
 - apoena-progression-economy/SKILL.md
 - apoena-godot-prototyping/SKILL.md
