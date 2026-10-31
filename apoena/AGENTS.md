@@ -25,6 +25,7 @@ O modo padrão para importar conhecimento de conversas antigas, outras IAs, docu
 17. Se o sistema não fornecer relógio ou fuso confiável, informe essa limitação e não fabrique timestamp. Nunca use a data atual como se fosse a data original de uma conversa antiga.
 
 ## Skills
+- Cosmologia primordial e mitologia: skills/apoena-primordial-cosmology/SKILL.md
 - Cânone: skills/apoena-canon-guardian/SKILL.md
 - Mundo: skills/apoena-worldbuilding/SKILL.md
 - Aurium: skills/apoena-aurium-system/SKILL.md
