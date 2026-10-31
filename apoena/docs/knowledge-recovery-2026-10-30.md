@@ -99,3 +99,13 @@ Divergências preservadas: ano 90 versus ano 99; aproximadamente 4.130 versus 4.
 Registro detalhado em apoena/docs/recovery-session-2026-10-31-chat-context.md. A captura preserva direção artística fornecida pelo autor, descrição da muralha circular de Agar com 60 m e domo azul-claro mais alto, restrições de circulação para fora de Agar, exemplos de liberdade de uso das manifestações elementais, abertura inicial da HQ, referências de geografia/capital e limites de recuperação.
 
 O registro distingue decisões explícitas de lembranças a validar. Os pedidos de proporção 9:3 e 4:3 são relativos a imagens específicas, não regras universais. A espessura de 20 m, as relações entre medidas geográficas e a composição do exército permanecem pendentes de validação. Nenhum binário de imagem ou PDF expirado foi copiado nesta captura.
+
+
+## Recuperação complementar — anexos e conversas de 2026-10-31
+
+- Conversas adicionais visíveis nesta sessão foram registradas em `docs/conversation-recovery-2026-10-31.md`. O registro preserva Agar como país com várias cidades e vilarejos, trechos incompletos sobre medidas, muralha e circulação em Pandora, referências visuais e esclarecimentos de Aurium.
+- Os anexos recebidos foram catalogados em `references/uploaded-materials-audit-2026-10-31.md`.
+- A cópia recebida `Apoena a Origem do Universo (6).pdf` tem 102 páginas, enquanto a cópia (5) previamente catalogada tinha 90. As páginas 91–102 foram transcritas em `references/transcriptions/apoena-origem-do-universo-v6-p91-p102.md`. A comparação das páginas 1–90 entre versões ainda está pendente.
+- `Livro.pdf` (2 páginas, composto por imagens) foi inspecionado visualmente: página 1 mostra Pandora, ano 4806; página 2 mostra reunião de liderança em Agar e contém a fala “Restam apenas 20 anos para Agar deixar Pandora”. Registrar como material recebido, com posição cronológica e identidade dos personagens ainda a validar.
+- `Sistema de Poderes Apoena.pdf` (25 páginas) corresponde à versão histórica já catalogada; não substitui a versão Atual de 62 páginas.
+- Os PDFs binários permanecem nos anexos/Biblioteca; não foram copiados para o GitHub como binários.
