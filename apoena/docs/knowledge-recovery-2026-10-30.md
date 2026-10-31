@@ -6,12 +6,7 @@
 ## O que foi consultado
 
 ### Base de Skills
-- `apoena/AGENTS.md`
-- `apoena/README.md`
-- `apoena/docs/aurium-system.md`
-- `apoena/docs/canon-status.md`
-- `apoena/docs/cosmology.md`
-- `apoena/docs/visual-production.md`
+- `apoena/AGENTS.md`, `apoena/README.md`, `apoena/docs/aurium-system.md`, `apoena/docs/canon-status.md`, `apoena/docs/cosmology.md`, `apoena/docs/visual-production.md`.
 - Skills existentes: canon guardian, worldbuilding, scriptwriter, art director, character designer, image production e continuity reviewer.
 - `apoena/canon/README.md` e `apoena/decisions/README.md`.
 
@@ -24,24 +19,26 @@
 
 ### Repositórios de jogo consultados como fontes auxiliares
 - `apoenalore/Apoena-pixel-art-html`: README, AGENTS, organização, ecossistema, terras/co-op e instruções de assets.
-- `apoenalore/JOGO-APOENA-AGAR-`: README e LEIA-ME, além de descrições de personagens. Esse projeto é distinto do Pixel Art.
+- `apoenalore/JOGO-APOENA-AGAR-`: README, LEIA-ME e documentos de constelações/bênçãos, Energia Elementar e combate, decisões MOBA e Modo História. Esse projeto é distinto do Pixel Art.
 - `apoenalore/projeto-apoena-studio-maker-ia`: árvore de arquivos consultada para confirmar que Studio/Maker é separado do jogo; seus detalhes internos não foram incorporados como lore.
 - `apoenalore/GameCreator`: ferramenta separada, conforme conversas e documentação consultadas anteriormente.
 
 ## Conhecimento preservado nesta base
 - Cosmologia resumida: Grande Espírito, Aurium, Espírito da Vida, Tupi, Guerra Celestial e três domínios descritos.
-- Sistema de Aurium: fluxo, portas, manifestações, reserva/custo, controle direto, defesa e exemplos de personagens.
+- Sistema de Aurium: fluxo, portas, manifestações, reserva/custo, controle direto, defesa, nomenclatura usada em Agar e exemplos de personagens.
+- Constelações registradas, quantidade de pontos, posição histórica de Serpentário e separação entre fatos cosmológicos e bônus de gameplay.
+- Ecossistema do protótipo Floresta Viva: ciclos de solo, sementes, plantas, fauna, decomposição, limites e parâmetros provisórios.
 - Regras para proteger cânone e direção visual.
 - Distinção entre cânone narrativo e mecânicas provisórias do jogo.
 - Conceito cooperativo e decisão HTML → Godot, ambos classificados com status apropriado.
 
 ## Fontes importantes ainda não recuperadas integralmente
-- PDFs originais citados em `docs/canon-status.md`: “Sistema de Poderes Apoena Atual.pdf”, “Sistema de Poderes Apoena.pdf” e “Apoena a Origem do Universo (5).pdf”. O inventário existente informa seus nomes e a prioridade relativa, mas a recuperação atual não examinou todas as páginas.
+- PDFs originais citados em `docs/canon-status.md`: “Sistema de Poderes Apoena Atual.pdf”, “Sistema de Poderes Apoena.pdf” e “Apoena a Origem do Universo (5).pdf”. O inventário existente informa seus nomes e prioridade relativa, mas esta recuperação não examinou todas as páginas.
 - Anexo da conversa “Aurium Constelações Poderes” (`Texto colado.txt`).
 - Fichas completas e fontes de personagem.
 - Cronologia completa, geografia, facções, arcos, povos, ecossistema canônico e regras de profissões/economia.
 - Bíblia visual integral, paletas aprovadas, proporções e referências originais.
-- Detalhes finais do sistema de constelações/bênçãos.
+- Significado espiritual, origem, requisitos e efeitos definitivos das bênçãos/constelações; os efeitos de gameplay consultados são experimentais.
 - Resposta/decisão técnica definitiva sobre mapas gigantes e implementação de multiplayer.
 
 ## Regra para próximas atualizações
