@@ -33,3 +33,5 @@ Esta pasta reúne as instruções e referências de IA exclusivas do projeto Apo
 - skills/INDEX.txt foi ampliado com Skills de cosmologia, história, personagens, Agar, governo, direção visual e separação de projetos.
 
 - Para comparar as diferentes versões de Aurium sem apagar histórico, consulte docs/power-system-version-comparison.md e a Skill apoena-power-system-auditor.
+
+- docs/cosmology-sequence-and-chronology.md — sequência da criação, Guerra Cósmica, Arkana, Serpentário e cronologia do protagonista, com limites de datação.
