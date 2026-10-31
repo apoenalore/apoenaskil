@@ -11,7 +11,7 @@ Use esta Skill junto de `../../AGENTS.md`, `../../docs/aurium-system.md`, `../..
 - **Aurium é a fonte; manifestação é a forma.** Aurium é força primordial, não apenas partícula ou matéria física.
 - Fluxo-base documentado: Aurium absorvido → estômago/conversão → coração → cérebro → sistema nervoso → utilização.
 - A **Porta de Fluidez** é o caminho-base do Aurium, não uma porta rara adicional.
-- As quatro portas elementais humanas principais são Terra, Água, Fogo e Vento. Luz e Sombra pertencem a uma camada primordial/cósmica distinta.
+- As quatro portas elementais humanas principais são Terra, Água, Fogo e Ar. “Vento” não é elemento oficial; harmonizar material antigo para Ar. Luz e Sombra pertencem a uma camada primordial/cósmica distinta.
 - Ter uma porta não significa dominá-la. Classe, elemento e estilo de luta não são equivalentes nem destinos rígidos.
 - A manifestação não depende exclusivamente de haver matéria do elemento no ambiente; matéria compatível pode oferecer vantagem.
 - Técnicas são individuais: dependem de personalidade, classe, treinamento, experiência, criatividade, corpo, armas, controle, intenção e ambiente.
@@ -25,7 +25,7 @@ Use esta Skill junto de `../../AGENTS.md`, `../../docs/aurium-system.md`, `../..
 - A linhagem de Apoena apresenta predisposição para Terra, Água, Fogo, Vento, Luz e Sombra, sem domínio nato automático.
 - Após a Caverna dos Renascidos, Apoena aprende controle consciente do Aurium. Seu estilo combina Aurium direto, corpo e manifestações; ele não abandona os elementos.
 - O resumo de cânone descreve aproximadamente três meses de treinamento espiritual na Caverna dos Renascidos. Preserve o caráter aproximado.
-- Exemplos documentados: Brin — Ar/Vento com Aurium exteriorizado; Birará — Terra e Água, combinação associada a Madeira, e domínio direto; Serena — Água, Vento e Luz; Orium — Fogo, Terra e Sombra.
+- Exemplos documentados: Blin/Brin — o sistema consolidado final declara Blin como nome oficial e Brin como grafia antiga, mas a Bíblia Oficial ainda usa Brin em uma seção; o exemplo é manifestação de Ar por exteriorização natural de Aurium. Ubirara — Terra e Água, combinação associada a Madeira, e domínio direto; Serena — Água, Ar/Vento e Luz; Orium/Oriom — PDFs usam Orium, conversas registram Oriom como pai de Apoena; conferir grafia antes de harmonizar.
 - Kael e Ruf são companheiros citados, mas suas portas/manifestações não estão especificadas no material consultado.
 
 ## Como criar ou revisar uma técnica
@@ -38,3 +38,7 @@ Use esta Skill junto de `../../AGENTS.md`, `../../docs/aurium-system.md`, `../..
 
 ## Limites de inferência
 Não invente regras para constelações, bênçãos, combinações, hierarquias, custos numéricos, raridade de portas ou exceções. A interface de constelações do jogo é uma mecânica de protótipo e não confirma por si só cânone do mangá.
+
+
+## Canonização prioritária
+A Bíblia Oficial — Cânone Mestre estabelece início de Apoena aos 12 anos, ritual aos 14 no Monte do Renascimento/Caverna da Decisão e experiência de aproximadamente 3 meses; a versão antiga de 3 anos é descartada. Potencial para seis manifestações não equivale a domínio automático. Em Agar, o conhecimento comum é Força Vital/Energia Elementar; Aurium é conceito profundo/perdido. Porta, manifestação, domínio, classe, estilo e técnica são distintos. Consultar docs/canon-master-addendum.md e docs/legacy-lore-conflicts.md.
