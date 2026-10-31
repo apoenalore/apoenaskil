@@ -87,3 +87,14 @@
 - `Livro.pdf` não tem texto pesquisável. A leitura visual das falas foi registrada, mas nomes, cargos e identidade das figuras não foram confirmados.
 - `Sistema de Poderes Apoena.pdf` recebido tem os mesmos 25 páginas e 256.662 bytes do arquivo histórico catalogado, mas o hash do original antigo não está disponível para comparação. Tratar como provável cópia repetida, não como nova versão confirmada.
 - Os binários desses três PDFs ainda não foram incorporados ao GitHub; os arquivos permanecem no contexto da sessão. Ver metadados e registro em `docs/conversation-recovery-2026-10-31-new-uploads.md` e `references/README.md`.
+
+
+## Hierarquia político-militar de Agar — atualização 2026-10-31T11:07:00-03:00
+
+- O criador definiu Primodiarca como líder supremo militar, com autoridade comparável à de rei/monarca e deveres comparados aos de um presidente, usando Hokage como analogia funcional.
+- Definiu quatro Arcontes abaixo do Primodiarca, um para cada tribo, cada qual cuidando de sua tribo.
+- Definiu Sentinelas como a primeira força de defesa de Agar: vigiam e defendem as muralhas e o território próximo, patrulhando sobre e ao redor delas.
+- Não confundir Primodiarca com entidade cósmica ou origem do Aurium. Essa caracterização apareceu em respostas anteriores da IA e foi corrigida pelo criador.
+- **Divergência de nomenclatura a resolver:** o registro anterior preserva Agam como preferência do criador para o título/nome do soberano; a Skill de governança também registra “Angam Ubirara” como liderança em material anterior. A conversa atual usa Primodiarca para o cargo de líder supremo militar. Não está confirmado se são nomes pessoais, títulos diferentes, equivalentes ou substituições.
+- Competências detalhadas dos Arcontes, cadeia de comando dos Sentinelas, forma de escolha/sucessão e outras forças de defesa permanecem desconhecidas.
+- Registro completo: docs/conversation-recovery-2026-10-31-hierarquia-politico-militar-agar.md.
