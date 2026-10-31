@@ -25,3 +25,6 @@ A base reutilizável e suas fontes estão organizadas na pasta `apoena/` do repo
 **Estado:** transferência incremental; não declarar que todos os PDFs e conversas foram comparados integralmente.
 - [Referência do Capítulo 1](apoena/docs/chapter1-reference.md)
 - [Arquivo de lore histórico](apoena/docs/legacy-lore-archive.md)
+
+- [Comparação de versões do Sistema Aurium](apoena/docs/power-system-version-comparison.md)
+- [Skill auditor de versões do sistema de poder](apoena/skills/apoena-power-system-auditor/SKILL.md)
