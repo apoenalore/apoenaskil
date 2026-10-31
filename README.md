@@ -41,3 +41,11 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - Adicionada a Skill `apoena/skills/apoena-human-perspective/SKILL.md`, que preserva a instrução do autor para analisar a experiência de pessoas em Agar a partir de uma perspectiva humana sem Aurium.
 - Adicionado `apoena/docs/recovery-session-2026-10-31-human-perspective.md`, distinguindo a instrução do autor das hipóteses da IA sobre possíveis reações sociais a pessoas com poder.
+
+
+## Materiais e registros adicionais — 2026-10-31T10:53:00-03:00
+
+- `apoena/docs/conversation-recovery-2026-10-31.md`: recuperação complementar de conversas sobre Agar, muralha, medidas, geografia, direção visual e Aurium.
+- `apoena/references/uploaded-materials-audit-2026-10-31.md`: inventário de `Livro.pdf`, da cosmologia (6) com 102 páginas e do PDF histórico do sistema de poderes.
+- `apoena/references/transcriptions/apoena-origem-do-universo-v6-p91-p102.md`: transcrição das páginas 91–102 da cosmologia (6).
+- A comparação integral das versões de 90 e 102 páginas e a validação da cronologia “Pandora ano 4806 / restam 20 anos” continuam pendentes.
