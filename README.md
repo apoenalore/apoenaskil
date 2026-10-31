@@ -35,3 +35,9 @@ Os PDFs originais permanecem na Biblioteca; o GitHub recebeu extrações textuai
 
 - A Skill apoena/skills/apoena-dimensional-cosmology/SKILL.md documenta a distinção entre dimensão Arcana, planeta Arcana e dimensão Pandora.
 - A captura adicional apoena/docs/recovery-session-2026-10-31-chat-context.md preserva contexto conversacional sobre direção artística, muralha e domo de Agar, acesso ao território, sistema de manifestações, abertura da HQ, geografia e pendências.
+
+
+## Atualização de recuperação — 2026-10-31
+
+- Adicionada a Skill `apoena/skills/apoena-human-perspective/SKILL.md`, que preserva a instrução do autor para analisar a experiência de pessoas em Agar a partir de uma perspectiva humana sem Aurium.
+- Adicionado `apoena/docs/recovery-session-2026-10-31-human-perspective.md`, distinguindo a instrução do autor das hipóteses da IA sobre possíveis reações sociais a pessoas com poder.
