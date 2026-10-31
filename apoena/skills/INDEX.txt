@@ -46,3 +46,5 @@
 
 - apoena-power-system-auditor/SKILL.md
 - ../docs/power-system-version-comparison.md
+
+- ../docs/cosmology-sequence-and-chronology.md
