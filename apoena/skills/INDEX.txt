@@ -5,6 +5,7 @@
 - apoena-canon-guardian/SKILL.md
 - apoena-worldbuilding/SKILL.md
 - apoena-dimensional-cosmology/SKILL.md
+- apoena-cave-of-waterfall-rite/SKILL.md — dimensão Caverna, Caverna da Cachoeira e Ritual de Passagem.
 - apoena-aurium-system/SKILL.md
 - apoena-constellations-and-blessings/SKILL.md
 - apoena-continuity-reviewer/SKILL.md
@@ -54,6 +55,7 @@
 - ../docs/conversation-recovery-2026-10-31-primordial-cosmology-nairuk-kairu.md
 - ../docs/conversation-recovery-2026-10-31-agar-fauna-tree-and-distant-mountains.md
 - ../docs/conversation-recovery-2026-10-31-ancestral-beasts-and-forbidden-gauntlet.md
+- ../docs/conversation-recovery-2026-10-31-caverna-apoena-origin-and-rite.md
 - ../docs/conversation-recovery-2026-10-31-backup-topics-49-71.md
 
 ## Transferência complementar — 2026-10-31
