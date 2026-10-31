@@ -54,3 +54,16 @@
 - Sua aprovação como mapas oficiais de Agar não foi comprovada; preservar ambos como candidatos distintos.
 - Spritesheets e imagens com nomes relacionados a garoto aventureiro/compostagem foram encontrados na Biblioteca, mas não foi possível materializar seus bytes nem confirmar a ligação com Apoena.
 - Os originais binários dos mapas continuam na Biblioteca; não foram transferidos para o GitHub.
+
+
+## Divergência dimensional e cronológica — atualização de 2026-10-31
+
+- **Ano de Agar:** registro anterior indica fundação no ano 90 da Criação; esclarecimento direto mais recente do criador indica construção no planeta Arcana, por Tupi e seus descendentes, a partir do ano 99. Preservar ambos; não presumir que “fundação” e “construção” sejam eventos distintos.
+- **Duração em Pandora:** registros anteriores indicam aproximadamente 4.130 anos; esclarecimento direto mais recente indica 4.000 anos. Não presumir arredondamento.
+- **Arcana/Arkana:** o criador esclareceu que Arcana nomeia tanto uma dimensão criada para a experiência da vida humana quanto o planeta oculto dentro dela. Registros anteriores usam Arkana em contexto dimensional. Preservar grafias e confirmar se são variantes ou conceitos distintos.
+- **Agar:** o esclarecimento mais recente define Agar como país construído em Arcana e depois deslocado da dimensão Arcana para Pandora. Apoena é morador do país Agar; não confundir Agar com personagem.
+- **Proposta editorial:** a ideia de um livro inspiracional com elementos reconhecíveis do mundo real, comparado a uma grande narrativa fundadora, permanece em desenvolvimento; não é decisão editorial fechada.
+- Registro integral: apoena/docs/recovery/2026-10-31-arcana-agar-pandora.md.
+
+## Próximas verificações adicionais
+6. Confirmar com o autor a relação entre os registros de ano 90/99, 4.130/4.000 e Arcana/Arkana.
