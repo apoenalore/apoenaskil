@@ -7,7 +7,7 @@
 
 **DECISÃO DO AUTOR:** HTML é usado para testar rapidamente no celular; o jogo pronto seguirá para Godot. O HTML não deve ser tratado como destino final de produção nem como conversão automática para Godot.
 
-Fonte: conversa de projeto Pixel Art, na qual o autor esclareceu que HTML serve para testar rápido no celular e que o resultado final irá para Godot.
+Fonte: conversa de projeto Pixel Art, na qual o autor esclareceu que HTML serve para testar rápido no celular e que o resultado final irá para Godot. Registro: `decisions/DEC-0001-html-prototyping-godot-production.md`.
 
 ## 2. Conceito de visita cooperativa a mundos
 
@@ -37,26 +37,38 @@ Streaming por regiões, chunks, carregamento/descarregamento, simulação local 
 
 O repositório `apoenalore/Apoena-pixel-art-html` documenta um jogo com dois modos — MOBA e exploração/Floresta Viva — e protótipos HTML e Godot distintos. O protótipo Godot tem câmera 2.5D inicial (câmera 2D elevada, acompanhamento, zoom e ordenação por Y), não câmera 3D 360° nem isometria completa.
 
-O ecossistema documentado inclui bananeira, jabuticabeira, javali, sementes, frutos, umidade, nutrientes, clima, decomposição e dispersão. Os valores de balanceamento e artes geométricas são marcados como provisórios. Para regras completas e atualizadas, consultar o próprio repositório:
-- `docs/ECOSSISTEMA.md`
-- `docs/TERRAS_E_COOP.md`
-- `docs/ORGANIZACAO.md`
+O ecossistema documentado inclui bananeira, jabuticabeira, javali, sementes, frutos, umidade, nutrientes, clima, decomposição e dispersão. Os valores de balanceamento e artes geométricas são marcados como provisórios. Para regras completas e atualizadas, consultar:
+- `docs/ecology-game-notes.md` nesta biblioteca.
+- `apoenalore/Apoena-pixel-art-html/docs/ECOSSISTEMA.md`
+- `apoenalore/Apoena-pixel-art-html/docs/TERRAS_E_COOP.md`
+- `apoenalore/Apoena-pixel-art-html/docs/ORGANIZACAO.md`
 
-Não copiar todos os valores do simulador para o cânone do mangá.
+Não copiar os valores do simulador para o cânone do mangá.
 
 ## 5. Projeto Godot 3D separado
 
-O repositório `apoenalore/JOGO-APOENA-AGAR-` contém protótipos Godot 4 de arena/MOBA e Modo História. O README do repositório marca diversos elementos como alfa/provisórios e registra ausência de multiplayer online no estado documentado. Use seu README e docs como fonte mutável do projeto, não como cânone narrativo.
+O repositório `apoenalore/JOGO-APOENA-AGAR-` contém protótipos Godot 4 de arena/MOBA e Modo História. Seus documentos registram:
+- Godot 4 e GDScript como engine/linguagem do projeto; não migrar para Unity nem misturar APIs/pastas de outro motor.
+- Objetivo de longo prazo inicial: PvP familiar 2x2 e coop; plano 5v5 de 25–40 minutos é referência futura, não entrega atual.
+- Estado descrito em documentos: treino e Modo História offline; multiplayer online não implementado.
+- Sistema prototipado de Energia Elementar: Q/W/E/R gastam reserva interna sem cooldown individual por relógio; ataque básico físico não gasta essa reserva. Barras e custos são abstrações de gameplay, não valores canônicos de Aurium.
+- O conhecimento comum em Agar chama a força de **Força Vital / Energia Elementar**; o nome Aurium é conhecimento mais profundo, em parte perdido.
+- Apoena começa a história sem manifestação elemental; as habilidades simuladas com manopla no jogo são provisórias. Isso não substitui a predisposição de linhagem documentada no resumo de Aurium.
+
+Esses pontos são específicos do projeto de jogo e devem ser conferidos contra o repositório atual antes de declarar implementação.
 
 ## 6. Constelações e bênçãos
 
-Há menção, no README do jogo 3D, a uma interface com 13 constelações, Serpentário visível mas não equipável, e bônus de gameplay ainda não canônicos. O conteúdo integral do sistema de constelações e seus efeitos não foi recuperado neste registro. Não inventar constelações, bênçãos, pontos, efeitos ou relação cosmológica.
+A documentação do jogo registra 13 constelações: Cordeiro tem 10 pontos estelares, as 11 seguintes têm 7 pontos cada e Serpentário tem 9. Após a rebelião de Nairuk, Serpentário deixou a Aliança Cósmica, que passou a reunir doze constelações; Serpentário aparece como histórico e não equipável.
+
+O jogo prototipa bênção principal (+10%) e apoio (+4%) sobre atributos de gameplay. Os pareamentos de atributos são hipóteses de game design, não significado espiritual canônico. Detalhes em `docs/constellations-system.md` e Skill `apoena-constellations-and-blessings`.
 
 ## Relações
 - Poderes: `docs/aurium-system.md` e Skill `apoena-aurium-system`.
 - Cânone: `docs/canon-status.md`.
-- Transferência HTML/Godot: Skill `apoena-godot-prototyping`.
 - Coop e sistemas: Skill `apoena-game-systems`.
+- Natureza: `docs/ecology-game-notes.md` e Skill `apoena-ecology-systems`.
+- Transferência HTML/Godot: Skill `apoena-godot-prototyping`.
 
 ## Histórico
-- 2026-10-30: primeira consolidação a partir do contexto de conversas compartilhadas e documentação acessível nos repositórios de jogo. Lacunas mantidas explícitas.
+- 2026-10-30: consolidação inicial a partir do contexto de conversas compartilhadas e documentação acessível nos repositórios de jogo. Lacunas mantidas explícitas.
