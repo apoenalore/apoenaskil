@@ -57,3 +57,7 @@ Nesta etapa, foram inspecionados o documento-mestre oficial, o PDF A Origem de A
 - Atualização das Skills existentes de cânone, Aurium, roteiro, direção artística, design de personagem, produção de imagens e revisão de continuidade.
 
 A transferência continua parcial. A leitura integral e a comparação por versão dos documentos de poder e de todos os materiais de lore ainda são pendências. A existência dos PDFs anexados não significa que cada página tenha sido validada nesta etapa.
+
+
+### Conflitos de grafia registrados
+O documento consolidado final do sistema de Aurium declara Blin (não Brin) e Ar (não Vento), enquanto a Bíblia Oficial ainda usa Brin em uma seção. Conversas usam Oriom para o pai de Apoena; PDFs de sistema usam Orium. Essas divergências foram registradas sem decisão artificial.
