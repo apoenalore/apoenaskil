@@ -36,3 +36,7 @@ Os outros PDFs foram identificados e extraídos para texto local para possibilit
 2. Extrair fichas completas de personagens e registrar a fonte.
 3. Catalogar cronologia, facções, locais, constelações, profecias e história de Agar.
 4. Reconciliar apenas conflitos que o documento-mestre ou o autor resolvam explicitamente.
+
+
+## Comparação de versões do sistema de poder — observação de proveniência
+O PDF “Claud cloud — Livro de Regras do Aurium — Documento Consolidado Final” declara em sua nota inicial que unifica versões anteriores e corrige: Ubirara (não Birará), Blin (não Brin) e Ar (não Vento). A Bíblia Oficial confirma Ubirara e Ar, mas sua seção de Brin/Kael/Ruf ainda usa “Brin”. Por isso a grafia Blin/Brin permanece registrada como conflito entre fontes, não resolvido por esta transferência.
