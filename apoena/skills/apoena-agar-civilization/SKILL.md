@@ -27,3 +27,11 @@ Leia docs/agar-civilization-and-geography.md, docs/cosmology.md e docs/canon-sta
 - Não alterar a geografia para acomodar edifícios; não inventar elementos geográficos ou estruturas específicas.
 - O arquivo da imagem de referência não ficou acessível para inspeção e não foi copiado para o GitHub nesta recuperação. Solicitar reenvio antes de descrever ou reconstruir detalhes visuais.
 - Registro completo: `docs/conversation-recovery-2026-10-31-agar-capital-ancestral-architecture.md`.
+
+## Terminologia política — título do soberano em discussão
+- O criador considerou “Agar”, “Argano” e “Agardiano” e pediu um nome mais original dentro do universo.
+- Após sugestões intermediárias da IA, o criador respondeu **“Agam seria melhor”**.
+- Registrar **Agam** como **PREFERÊNCIA DO AUTOR — CONFIRMAÇÃO CANÔNICA PENDENTE** para o título do rei/soberano de Agar.
+- Não presumir que o título já esteja formalmente canonizado nem inventar etimologia, sucessão, dinastia, tratamento protocolar ou cargos derivados.
+- “Arkan”, “Agarim”, “Agaron”, “Kaor”, “Aragor”, “Aruan”, “Garan”, “Agan”, “Orkan” e “Argael” foram sugestões da IA, não nomes adotados.
+- Registro cronológico: `docs/conversation-recovery-2026-10-31-agam-title-and-integral-recovery-protocol.md`.
