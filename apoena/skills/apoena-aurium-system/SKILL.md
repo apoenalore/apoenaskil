@@ -49,3 +49,12 @@ A fonte Atual tem prioridade sobre a versão anterior. Ambas foram transcritas t
 3. Considere reserva, controle, treinamento, ambiente, defesa natural e consequências.
 4. Explique como a técnica expressa o indivíduo.
 5. Marque qualquer regra não documentada como **PROPOSTA**, aguardando aprovação do autor.
+
+
+## Profissões e combinações — exemplo de design recuperado
+Consulte `../../docs/conversation-recovery-2026-08-25-professions-and-elemental-combination.md`.
+- A profissão pode nascer de prática, treinamento e experiência; não precisa ser apenas uma classe escolhida previamente.
+- Um ferreiro Terra foi usado como exemplo de personagem que trabalha metal, fabrica e testa espadas ao longo dos anos.
+- Um aprendiz Terra + Fogo foi imaginado aprendendo a sentir/compreender o metal por Terra e aquecê-lo com precisão por Fogo.
+- Esses exemplos são ilustrativos e não estabelecem personagens, técnicas nomeadas ou resultados automáticos para todos os usuários dessas manifestações.
+- Um Mago pode usar um cajado como catalisador para combinações e também manifestar elementos separadamente; não restringir toda magia a combinações.
