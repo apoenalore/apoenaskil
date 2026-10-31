@@ -43,3 +43,6 @@
 - ../docs/character-canon.md
 - ../docs/chapter1-reference.md
 - ../docs/legacy-lore-archive.md
+
+- apoena-power-system-auditor/SKILL.md
+- ../docs/power-system-version-comparison.md
