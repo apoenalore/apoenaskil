@@ -4,6 +4,8 @@
 - apoena-canon-guardian/SKILL.md
 - apoena-worldbuilding/SKILL.md
 - apoena-dimensional-cosmology/SKILL.md
+
+<!-- Atualizado em 2026-10-31T10:52:00-03:00 -->
 - apoena-aurium-system/SKILL.md
 - apoena-constellations-and-blessings/SKILL.md
 - apoena-continuity-reviewer/SKILL.md
