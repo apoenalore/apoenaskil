@@ -32,6 +32,7 @@ O modo padrão para importar conhecimento de conversas antigas, outras IAs, docu
 - Roteiro: skills/apoena-scriptwriter/SKILL.md
 - Personagens: skills/apoena-character-designer/SKILL.md e skills/apoena-character-canon/SKILL.md
 - Agar: skills/apoena-agar-civilization/SKILL.md
+- Perspectiva humana sem Aurium: skills/apoena-human-perspective-reviewer/SKILL.md (ativar quando o criador pedir essa lente; não é regra global automática)
 - Visual: skills/apoena-art-director/SKILL.md, skills/apoena-image-production/SKILL.md e skills/apoena-visual-continuity/SKILL.md
 - Jogo: skills/apoena-game-systems/SKILL.md e skills/apoena-gameplay-implementation/SKILL.md
 - Ecologia: skills/apoena-ecology-systems/SKILL.md
