@@ -32,6 +32,14 @@ Registros de conversa: mãe de Apoena, sacerdotisa; manifestações/associaçõe
 ## Ubirara
 Bíblia Oficial: Grande Monarca Ubirara; Terra + Água → Estilo Madeira; Classe Mago; catalisador/cajado; Aurium direto; técnicas listadas em canon-master-addendum.md.
 
+### Título e símbolo — registro de conversa
+- Em “Título para soberano de Agar”, o autor declarou que Ubirara será o nome do personagem e associou o título **Ybáarõ** ao sentido simbólico **“o fruto que protege a árvore”**; Agar representa a árvore.
+- A fala também contém “Arcano”, mas não esclarece se é classe, título adicional ou referência a outro conceito. Não incorporá-lo à hierarquia sem confirmação.
+- A conversa levantou uma proposta linguística baseada em elementos do tupi, mas ressalvou que **Ybáarõ não foi verificado como forma historicamente atestada ou morfologicamente correta do tupi antigo**. Registrar como significado autoral dentro do universo, não como tradução histórica comprovada.
+- **Fonte/status:** conversa “Título para soberano de Agar”; intenção simbólica explicitada pelo autor. Confirmar a compatibilidade final com Bíblia Oficial antes de harmonizar nomenclatura política.
+
+ Grande Monarca Ubirara; Terra + Água → Estilo Madeira; Classe Mago; catalisador/cajado; Aurium direto; técnicas listadas em canon-master-addendum.md.
+
 ## Blin/Brin, Kael e Ruf
 A Bíblia Oficial — Cânone Mestre usa **Brin** em sua seção sobre Brin, Kael e Ruf. O documento “Claud cloud — Livro de Regras do Aurium — Documento Consolidado Final” declara explicitamente **Blin** como nome oficial e Brin como grafia antiga. Esta divergência entre fontes está registrada em legacy-lore-conflicts.md; usar “Blin (grafia consolidada no sistema; Bíblia Oficial ainda contém Brin)” em referência provisória. Kael e Ruf também possuem Aurium; Blin pode manifestar Ar por exteriorização natural. Não deduzir portas adicionais.
 
