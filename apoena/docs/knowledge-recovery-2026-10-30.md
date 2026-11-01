@@ -81,3 +81,11 @@ Foram ampliadas as referências de fases de domínio, combinação, postura de u
 A página do projeto ChatGPT “historiaegeografia” foi aberta e expôs conversas relacionadas ao Universo Apoena, ao Game Creator, à produção visual e a ferramentas. Foram lidas “Branch · Criação de Personagens” e “Branch · Roupas e Uniformes” nesta etapa. As decisões de personagem acima foram registradas com sua fonte e escopo.
 
 **Estado:** parcial. Ainda não foi feita leitura integral de todas as conversas listadas no projeto. Não declarar a transferência de conversas como completa; continuar revisando por assunto e registrar somente conteúdo que possa ser atribuído a uma fonte, separando decisões, propostas, pedidos de imagem e questões pendentes.
+
+
+### Conversa “Implementação do Editor Visual” — regras e estado histórico
+A leitura da conversa recuperou requisitos de desenvolvimento do Apoena Game Creator. O autor quer combinar MOBA e exploração durante a partida, com aquisição de equipamentos no mapa. Para ataques, pediu que a mira melhore a precisão sem estender o alcance normal: alvos fora do alcance não podem ser acertados; ataques guiados podem ter alcance um pouco maior. Seleção/prioridade de alvo não pode ignorar colisão com tropas, escudos ou paredes.
+
+A conversa também relatou uma auditoria de um pacote Game Creator v3.9.2 e uma etapa de testes v4.0. Como registros de conversa, esses números não são status atual verificado. A própria etapa dizia que execução nativa no Godot 4 e em Android físico não havia sido validada. O princípio recuperado é verificar implementação, integração, salvamento, teste e exportação antes de declarar uma função pronta.
+
+**Limite desta atualização:** a página do projeto foi aberta e as conversas “Branch · Roupas e Uniformes”, “Branch · Criação de Personagens”, “Transferência de conhecimento”, “Pendências do Game Creator” e “Implementação do Editor Visual” foram consultadas. A revisão integral de todas as conversas ainda não está concluída; manter este inventário marcado como parcial até percorrer o restante das conversas e as fontes anexadas disponíveis.
