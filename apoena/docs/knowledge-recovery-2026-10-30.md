@@ -12,6 +12,8 @@
 - Nesta atualização: mapa de repositórios, detalhes adicionais de sistemas de jogo e Skills de arquitetura de projetos e progressão/economia.
 
 ### Conversas de projeto disponíveis no contexto
+- “Branch · Criação de Personagens”: o autor rejeitou usar a aparência de Apoena aos 17 anos para a fase de 12; especificou uniforme de aluno da Tribo da Água (camiseta azul lisa, calça bege, sandálias). Uma solicitação subsequente para personagem da Tribo do Fogo aos 12 anos não nomeia Apoena.
+- “Branch · Roupas e Uniformes”: foram listadas categorias de roupas para organizar; não há uniforme geral aprovado nessa conversa.
 - Sistema de Aurium, constelações e poderes: referência a uma conversa intitulada “Aurium Constelações Poderes”; o anexo `Texto colado.txt` é mencionado, mas seu conteúdo integral não está disponível nesta recuperação.
 - Pixel Art: o autor esclareceu que HTML serve para teste rápido no celular e que a entrega final seguirá para Godot.
 - Cooperação em mundo de exploração: conceito de convidar/visitar mundos, realizar missões, construções e combates em equipe; compartilhar somente estado/dados necessários e entregar recompensas ao voltar ao mundo próprio. O conceito ainda está em desenvolvimento.
@@ -72,3 +74,10 @@ Nesta etapa foram examinadas as estruturas e trechos dos PDFs de sistema de pode
 Foram ampliadas as referências de fases de domínio, combinação, postura de união, catalisadores, classes, constelações, reserva/desgaste, controle direto, condensação e defesa natural. Também foi registrado um conflito textual sobre como o conhecimento cotidiano em Agar nomeia a energia: Claud cloud fala em força própria sem nome específico no ensino comum; o documento de poder de Agar lista Energia/Força Vital/Energia Elementar.
 
 **Limite desta etapa:** os PDFs foram extraídos e suas estruturas observadas, mas a comparação integral página/seção a seção do documento de 62 páginas, do Dola e da versão de desenvolvimento de 9 páginas permanece pendente. Não declarar harmonização completa.
+
+
+## Auditoria de conversas do projeto — atualização 2026-11-01
+
+A página do projeto ChatGPT “historiaegeografia” foi aberta e expôs conversas relacionadas ao Universo Apoena, ao Game Creator, à produção visual e a ferramentas. Foram lidas “Branch · Criação de Personagens” e “Branch · Roupas e Uniformes” nesta etapa. As decisões de personagem acima foram registradas com sua fonte e escopo.
+
+**Estado:** parcial. Ainda não foi feita leitura integral de todas as conversas listadas no projeto. Não declarar a transferência de conversas como completa; continuar revisando por assunto e registrar somente conteúdo que possa ser atribuído a uma fonte, separando decisões, propostas, pedidos de imagem e questões pendentes.

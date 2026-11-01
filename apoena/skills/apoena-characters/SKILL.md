@@ -9,6 +9,7 @@ Nome/grafia oficial; fase e idade; origem/tribo; elemento; aparência; poderes d
 
 ## Apoena Rocha Rios — pontos confirmados/registrados
 - Tribo Água; elemento Ausente.
+- **Aparência aos 12 anos — decisão visual do autor em conversa:** representar uma criança da Tribo da Água com uniforme de aluno: camiseta azul lisa, sem logos/símbolos/detalhes, calça bege e sandálias. Não usar a versão de 17 anos como referência para esta fase. Isto documenta a representação solicitada para os 12 anos, não define todos os trajes futuros.
 - Conversas registram cabelo branco, pele muito escura, sobrancelhas pretas; detalhe de sobrancelha deve ser preservado nas referências visuais.
 - Não possui poderes inatos, conforme registros de conversa.
 - Pulseira preta no braço direito com cristais; paleta e forma variam em registros de imagem. A evolução para manopla/armadura está registrada, mas não fixar desenho final sem referência aprovada.

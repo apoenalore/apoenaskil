@@ -13,6 +13,13 @@
 - Relações registradas: pais Oriom e Serena; irmã Aqua; companheiros Blin, Kael e Ruf (checar fonte de cada relação e grafia).
 - Profecias/visões de conversa registradas em fragmentos: “Quando a luz e sombras...”, torre de vigia, “um será levado”, cidade de ouro. Não completar.
 
+### Aparência de Apoena aos 12 anos — decisão visual em conversa
+- O autor corrigiu uma representação anterior de 17 anos: para esta fase, Apoena deve parecer uma criança de 12 anos.
+- Uniforme de aluno da Tribo da Água: camiseta azul lisa, sem logos, símbolos ou detalhes adicionais; calça bege; sandálias.
+- A decisão vale para a representação solicitada nessa fase. Não deve ser generalizada para roupas de combate, cerimônias ou outras idades sem nova referência.
+- **Fonte/status:** conversa “Branch · Criação de Personagens”; decisão visual explícita do autor, não regra extraída da Bíblia Oficial.
+- Um pedido separado de personagem de 12 anos da Tribo do Fogo, sem armas/detalhes, não nomeia Apoena; mantê-lo como conceito de personagem distinto e pendente.
+
 ## Aqua
 Irmã de Apoena. Conversas registram água, ar e tempestade; idades 5 e 7 aparecem em diferentes fases/registros. Fixar idade por fase apenas com referência de capítulo.
 
