@@ -15,7 +15,7 @@ Ajudar agentes a continuar os projetos técnicos associados ao universo Apoena s
 
 ## Regras
 1. Identifique o repositório e o produto exatos antes de editar.
-2. Não misture Studio Maker, GameCreator, Lore Engine, Pixel Art e JOGO-APOENA-AGAR-.
+2. Preserve os limites entre Studio Maker, ambiente de autoria Game Creator e runtime JOGO-APOENA-AGAR-. Dentro do ambiente Game Creator, trate Pixel Art como módulo integrado de autoria conforme requisito direto do autor; não imponha fluxo com aplicativos de autoria desconectados. Lore Engine e AI Hub continuam produtos distintos.
 3. Diferencie ferramenta de autoria de runtime consumidor: exportar um asset ou metadado não comprova uso no gameplay.
 4. Marque o estado como IMPLEMENTADO, DOCUMENTADO, PLANEJADO, PROPOSTA, PENDENTE ou DESCONHECIDO, com evidência.
 5. Não afirme que um APK, multiplayer, sincronização de saves ou integração foi validado sem teste/evidência do consumidor.
@@ -24,6 +24,8 @@ Ajudar agentes a continuar os projetos técnicos associados ao universo Apoena s
 8. Em conflito entre README e código, inspecione código, testes, histórico e commit; registre a divergência em vez de escolher arbitrariamente.
 9. Requisitos de um jogo não se tornam cânone do mangá automaticamente.
 10. Não transfira nomes ou identidades entre fichas sem validação (ex.: Oriom/Orium, Ubirara/Birará).
+11. Para toda habilidade relatada, diferencie teste isolado, validação Godot, validação Android e operação no runtime.
+12. Conserve correções do autor com precedência sobre hipóteses anteriores do assistente; mantenha registros antigos datados e marcados como superados.
 
 ## Fluxo de trabalho
 - Confirmar escopo do repositório e branch.
