@@ -116,3 +116,30 @@ Nome de produto documentado: **Lore Engine 1.0.0**; estágio descrito: protótip
 - O plano geral descreve sistemas desejados; os READMEs descrevem estados de protótipos em momentos diferentes. A implementação precisa ser conferida em branch/commit atual.
 - Coop do conceito geral e coop local do Pixel Art são descrições relacionadas, mas não necessariamente o mesmo escopo/protocolo.
 - Nenhum dos detalhes deste arquivo deve alterar o cânone narrativo sem aprovação explícita.
+
+
+## 10. Integração exigida para o Game Creator — esclarecimento do autor (conversa de 2026-10-06)
+
+Origem: conversa “Recuperar Projeto Game Creator”, no projeto historiaegeografia.  
+Status: requisito direto do autor para o produto de autoria; não é prova de implementação.
+
+O autor corrigiu explicitamente a separação entre Game Creator e Pixel Art: Pixel Art e Creator devem funcionar como uma coisa só dentro do fluxo de autoria. A página inicial deve abrir o ambiente integrado, com menus e telas de edição compartilhados; a parte de Pixel Art deve estar acessível por navegação dentro do editor, sem um aplicativo independente que precise ser iniciado à parte.
+
+O ambiente integrado deve reaproveitar as capacidades acumuladas nas versões 3.9 e 4.0, incluindo os geradores e a Fábrica Universal de Itens, em vez de reconstruí-los em paralelo. O pedido é revisar o que já existe, preservar recursos úteis e retirar apenas duplicações ou entradas desnecessárias depois de identificar sua função.
+
+Na criação de objetos no editor Pixel Art, o autor quer poder definir função e comportamento do objeto, incluindo ataque, defesa e resposta a condições de clima como chuva e sol. Isso descreve autoria de dados/comportamentos; o runtime ainda precisa consumir e executar tais dados.
+
+Fronteira de produto: a integração entre Pixel Art e Game Creator é interna ao produto de autoria; o runtime do jogo continua consumidor separado. Não declarar sincronização, exportação, execução no Godot ou funcionamento em Android sem verificar código e validação real.
+
+A conversa relata inspeções e testes em pacotes chamados 3.9.2 e 4.0, contagens de arquivos/scripts e uma bancada de regras; também relata limitações de integração com Godot e validação em Android físico. São declarações históricas do assistente dentro da conversa, não evidência do estado atual. Verificar pacote/código e registrar commit, comandos e ambiente antes de atualizar status.
+
+## 11. Alvo, alcance e colisão — requisitos de gameplay recuperados
+
+Origem: conversa “Implementação do Editor Visual”, com correção explícita do autor.  
+Status: requisito de design; não comprova implementação.
+
+- Melhorar a precisão da mira não deve aumentar o alcance do ataque normal.
+- Um alvo fora do alcance válido não pode ser atingido.
+- Personagens com ataque guiado podem receber alcance um pouco maior por configuração própria.
+- Priorização/travamento de alvo é independente de colisão física: priorizar herói não deve fazer projétil atravessar tropas, escudos ou paredes.
+- Modos de alvo, câmeras alternáveis e exploração de cavernas foram discutidos; manter como propostas quando não confirmados pelo autor.
