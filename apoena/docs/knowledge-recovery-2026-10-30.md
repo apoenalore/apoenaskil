@@ -104,3 +104,7 @@ A conversa também relatou uma auditoria de um pacote Game Creator v3.9.2 e uma 
 - “Recuperar Projeto Game Creator”: o autor pede recuperar/integrar o trabalho anterior de Pixel Art e Game Creator numa única aplicação. Geradores já feitos (incluindo gerador de itens/receitas) serão usados para editar outro jogo; por isso, os módulos devem funcionar juntos. Na navegação, a página inicial abre a entrada do jogo e o Pixel Art no mesmo produto, com menu integrado; remover HTML iniciador que não tenha função e preservar o que ainda é útil do trabalho até as versões 3.9/4.0.
 - “Criar estúdio de animação”: a visão inclui editor/gerador de personagens com corpos esqueléticos, camadas, posições e expressões, animações de cabelo e cenário, vento e efeitos visuais de poderes. Está em fase de conceito e não comprova recursos existentes no programa.
 - Esses requisitos devem ser conferidos no repositório real do Game Creator antes de afirmar o estado do aplicativo ou implementar novas mudanças. Não misturar com o repositório de cânone Apoena.
+
+
+### Direção editorial — introdução do livro Apoena
+Na conversa “Criar introdução de Apoena”, o autor pediu uma introdução de até 1.000 caracteres, breve, feita para leitores que ainda não conhecem a obra, com gatilhos de curiosidade e mistério. Para esse texto de apresentação, pediu evitar revelar Aurium e Nairuk diretamente e referir-se a Nairuk como “o dragão”. É orientação para a introdução solicitada; não altera nomes ou fatos do cânone.
