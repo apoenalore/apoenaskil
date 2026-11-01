@@ -74,3 +74,5 @@
 
 ## Recuperação do contexto compartilhado — Tupi e Anahi
 - ../docs/conversation-recovery-shared-project-context-2026-10-31.md — registro de proveniência, limites e divergências.
+
+- ../docs/conversation-recovery-2026-11-01-historiaegeografia-project.md — recuperação seletiva de conversas; ciclo hídrico de Agar, constelações, requisitos de Game Creator, cronologia e pendências.
