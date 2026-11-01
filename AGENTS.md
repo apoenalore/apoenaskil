@@ -77,3 +77,13 @@ Uma tarefa de extração só pode ser marcada como **COMPLETA** quando:
 Caso contrário, use **PARCIAL**, **NÃO VERIFICADA** ou **BLOQUEADA**, explicando exatamente o motivo.
 
 **Princípio permanente: nenhuma IA pode sacrificar a história do Apoena para produzir uma Skill mais curta ou aparentemente mais organizada.**
+
+## Continuidade de gameplay — chefes, níveis e missões
+
+Para tarefas sobre chefes, progressão ou missões no Creator ou no Pixel Art, leia também, nesta ordem:
+
+1. `apoena/docs/Game Play/LEIA_PRIMEIRO_AGENTES.md` — ordem de leitura, limites da análise e instruções de continuidade.
+2. `apoena/docs/Game Play/Plano_Apoena_Bosses_Niveis_Missoes.md` — análise completa, fontes, cobertura, diagnóstico, propostas e validação.
+3. `apoena/docs/Game Play/REGISTRO_DECISOES.md` — evidências, justificativas e questões em aberto.
+
+O material é uma proposta para protótipo. Não trate números experimentais como cânone aprovado nem como implementação já realizada. Siga as instruções gerais deste repositório e atualize as referências apenas de forma aditiva.
