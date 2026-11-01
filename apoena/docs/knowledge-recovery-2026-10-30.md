@@ -119,3 +119,18 @@ Novas fontes recebidas e inspecionadas nesta sessão:
 - `Sistema de Poderes Apoena.pdf`: 25 páginas, 256.662 bytes, SHA-256 `d29cf7162dbf61db607529fec1ae199017e05b5068906fdba42055e5558001f8`. Mesmo tamanho e número de páginas da fonte histórica já catalogada; provável repetição, identidade binária pendente.
 
 A recuperação continua parcial. Os PDFs foram inspecionados localmente, mas os binários não foram incorporados ao GitHub nesta etapa. O catálogo em `references/README.md` contém os metadados e as pendências.
+
+
+## Recuperação do projeto historiaegeografia — 2026-11-01
+
+A página do projeto e seu índice de chats foram acessados, e conversas específicas foram lidas. Esta recuperação é seletiva e incremental; não equivale à exportação integral das cerca de três dezenas de conversas listadas.
+
+Registro detalhado, proveniência, decisões, correções e pendências: docs/conversation-recovery-2026-11-01-historiaegeografia-project.md.
+
+Pontos incorporados nesta rodada:
+- ciclo hídrico de Agar alimentado pela neve/degelo da Montanha dos Espíritos, definido pelo autor; aquífero e “Grande Lago” foram ideias do assistente e ficam excluídos;
+- constelações Corvo, Cordeiro e Serpentário nomeadas pelo autor; propostas adicionais continuam classificadas por proveniência;
+- Pixel Art + Game Creator como um único ambiente de autoria, preservando a fronteira entre editor e runtime;
+- requisitos de precisão/alcance/colisão do jogo recuperados da conversa de implementação;
+- introdução do livro: acolher leitor sem conhecimento prévio, manter mistério e curiosidade, limite de 1.000 caracteres na solicitação registrada, evitar “Aurium” e “Nairuk” e usar “o Dragão” para Nairuk naquela peça;
+- cronologia de 2026-10-18 deixava várias idades em aberto. É um registro histórico e foi superado para Apoena por definições posteriores do projeto: 12 anos no começo, rito aos 14. Não inferir que as idades dos demais foram resolvidas.
