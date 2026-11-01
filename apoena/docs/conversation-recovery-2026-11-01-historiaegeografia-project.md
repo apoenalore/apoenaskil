@@ -102,3 +102,48 @@ A lista é inventário da interface, não significa que cada conversa foi revisa
 ## Atualizações no repositório
 
 Requisitos de autoria integrada e limites de combate foram acrescentados a game-design-recovered.md e às Skills de implementação/arquitetura. O ciclo hídrico, constelações nomeadas, correções de cronologia, requisitos editoriais e pendências foram registrados neste arquivo e no inventário geral. Esta atualização é documental; nenhum teste de código foi executado.
+
+
+## Conversas adicionais já lidas nesta sessão anterior
+
+### Livro dos 6 Eixos — fonte e camada oculta
+
+O autor descreveu o Livro dos 6 Eixos como registro escrito por alguém que viveu em Agar na Era de Tupi e recolheu histórias da perspectiva de seu tempo. Título/assinatura informados pelo autor: “Livro dos 6 Eixos — Por Glaucius Tupi Filho de Tupi no ano 99 da Criação.”
+
+É uma fonte histórica interna e interpretativa, não narração onisciente. Separar o acontecimento passado da forma como Glaucius o compreendeu a partir de tradição oral. O autor explicou que Agar está em ruínas; uma ruína ainda a escolher será de Glaucius, onde ele escondeu o Livro das Origens. Essa ruína e o modo de chegar até ela continuam pendentes.
+
+Tupi e Glaucius escreveram em Aurélico. A leitura exige domínio intenso de Aurium. Apoena aprende no Mundo Espiritual uma técnica de visão/percepção que lhe permite ler esse nível. O original do Livro dos 6 Eixos está com Cauam; há cópias famosas em Agar, mas apenas o original conserva a camada Aurélica oculta. Cauam pode possuir o original sem compreender o segredo. A pista no original deve indicar a localização/caminho até a ruína e o Livro das Origens; o autor ainda quer definir que ruína será. Não completar os seis eixos antes de decidir a pista e o local.
+
+O Livro das Origens contém o conhecimento sobre Nairuk e a origem da sombra desconhecida. Em Agar sabe-se que a sombra combate o Grande Espírito, mas não sua identidade/origem. Segundo o autor, Agar está simultaneamente em uma dimensão e em um planeta do qual não se consegue sair: embarcações não sobrevivem ao Oceano Primordial e a vida na superfície já não é adaptada a esse ambiente.
+
+O autor também descreveu mudanças após o cataclismo: pressão/sistema atmosférico mudou, as pessoas deixaram de crescer tanto e os gigantes já não existem na Terra; Nairuk envia monstros menores para atacar a capital, enquanto ameaças maiores podem tentar portais. Humanos de Arcana às vezes atravessam primeiro para interceptá-las; os destinos podem incluir Pandora e Abaddon/outros mundos de Serpentário. Cristais negros podem ser enviados junto com monstros e facilitar aberturas maiores de portais, ampliando energia disponível. Preservar essas relações como relato autoral dessa conversa; detalhes de termos e causalidade ainda devem ser comparados com os livros de cosmologia e demais fontes.
+
+Resumo de Montanha dos Espíritos anteriormente disponível na conversa incluiu montanha/lago, Caverna dos Renascidos, entrada triangular, luz espiritual azul e totens simples de pedra. Como eram elementos recapitulados pelo assistente, e não nova confirmação direta nessa troca, manter como pistas para conferência, não elevar por este registro sozinho.
+
+### Branch · Criação de Personagens
+
+Correções e instruções recuperadas:
+- Apoena aos 12 anos deve ter aparência de criança de 12 anos, sem simplesmente reduzir proporcionalmente o modelo de 17 anos.
+- Uniforme de estudante da Tribo da Água: camisa azul lisa, sem logotipo, símbolo ou detalhes; calça bege; sandálias.
+- “Personagem da Tribo do Fogo aos 12 anos, sem detalhes e sem armas” foi pedido separado e não nomeou Apoena; não fundir os dois pedidos.
+- Blin foi pedido aos 12 anos com uniforme estudantil, mas a geração falhou; nenhuma característica física foi estabelecida pela falha.
+
+### Branch · Roupas e Uniformes
+
+A lista inicial de uniformes (oficial, cotidiano, combate/equipamento, cerimônia, símbolos e evolução) foi exploração de categorias, não decisão final de figurino. Não converter a lista inteira em política canônica. Os detalhes confirmados do uniforme da Tribo da Água estão na conversa de personagens acima.
+
+## Fontes conversacionais diretas
+
+Links para as conversas listadas no projeto (sessão do projeto historiaegeografia):
+- Linha do tempo Apoena: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ad4b64d-43c8-83e9-b848-d8867dabfa6d?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Tudo sobre as constelações: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6aca93eb-38f0-83e9-a340-d3bfaa78db74?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Interpretar mapa de Agar: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6a85f1c4-c07c-83e9-9613-9dcbec2bddee?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Criar introdução de Apoena: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ac7c864-fb74-83e9-a927-8153d8ba274d?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Recuperar Projeto Game Creator: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ae1eff6-4164-83e8-9972-34499cb2ba2e?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Implementação do Editor Visual: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6adb95a1-6408-83e9-ad46-776100ef25b2?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Livro dos 6 Eixos: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6aad466b-03b4-83e9-b0d4-1bcd26c613fd?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Etapas do jogo Apoena: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6adbb73e-c1d8-83e9-9b01-57a6989f9fbf?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Pendências do Game Creator: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ae23b72-ae24-83e9-adc7-5842f37d47c7?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Branch · Criação de Personagens: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ae55333-422c-83e9-8e01-c4da05a30295?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+- Branch · Roupas e Uniformes: https://chatgpt.com/g/g-p-6ae1cff6d6d081918faeb79fc6e731ef/shared/c/6ae5532a-9600-83ea-a8c7-96e65c02644e?owner_user_id=user-IlVcbMejJPSetxEG7sVBUhjD
+
