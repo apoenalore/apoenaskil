@@ -108,3 +108,7 @@ A conversa também relatou uma auditoria de um pacote Game Creator v3.9.2 e uma 
 
 ### Direção editorial — introdução do livro Apoena
 Na conversa “Criar introdução de Apoena”, o autor pediu uma introdução de até 1.000 caracteres, breve, feita para leitores que ainda não conhecem a obra, com gatilhos de curiosidade e mistério. Para esse texto de apresentação, pediu evitar revelar Aurium e Nairuk diretamente e referir-se a Nairuk como “o dragão”. É orientação para a introdução solicitada; não altera nomes ou fatos do cânone.
+
+
+### Conversa “Aurium Constelações Poderes” — limite de acesso
+A conversa foi aberta e inspecionada. Ela contém o pedido “aurium constelações e sistema de poderes” e o anexo Texto colado.txt, mas o conteúdo do anexo não aparece na visualização compartilhada. Uma resposta posterior mostra perguntas e opções de sistema com escolhas ainda não confirmadas pelo autor; não tratar essas opções como decisões. A comparação integral depende de recuperar o anexo por uma fonte acessível.
