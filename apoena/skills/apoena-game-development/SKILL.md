@@ -42,3 +42,9 @@ Antes de alterar código: inventariar arquivos, versão, implementações comple
 Consultar também [registro conversacional completo](../docs/conversation-records/2026-11-02-gamecreator-low-end-first-and-tree-billboards.md). O documento preserva a explicação das tecnologias HTML/CSS/JavaScript/GDScript/JSON/PowerShell, a diretriz proposta *Low-End First*, as referências Game Boy, a ideia de árvores com billboard ou sprites direcionais, a escolha de perspectiva ainda pendente e o diagnóstico ainda inconclusivo da validação da PR #11 do GameCreator.
 
 **Importante:** o erro específico da CI não foi confirmado porque os logs da execução original não estavam disponíveis; o rerun ainda estava em andamento na última consulta. Não atribuir causa sem evidência. As técnicas de árvores e as metas de desempenho são propostas para teste, não funcionalidades aprovadas ou implementadas. Este registro é memória de desenvolvimento, não cânone narrativo.
+
+## Registro-base — auditoria de segurança do GameCreator V4.1 (2026-11-02)
+
+Consultar o [dossiê forense completo da auditoria de segurança](../docs/conversation-records/2026-11-02-gamecreator-security-audit-forensic-dossier.md). Ele preserva o cenário operacional Windows/local/equipe/GitHub Actions/ZIP, o inventário parcial dos cinco arquivos-fonte examinados, os achados SEC-001 a SEC-007, as propostas de hardening, as decisões e as lacunas da extração.
+
+**Estado rigoroso:** V4.1 é a versão de referência declarada; V4.2 Security Hardening é apenas proposta. Nenhuma correção foi implementada nem testada naquela conversa. Os achados são observações estáticas e controles ausentes/preliminares; não houve demonstração de exploração. Revalidar o código atual e workflows antes de corrigir. A extração não cobriu o conteúdo integral dos ZIPs, todas as 76 entradas, as imagens ou o link compartilhado.
