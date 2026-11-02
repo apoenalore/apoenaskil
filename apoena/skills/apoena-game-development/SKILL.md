@@ -36,3 +36,9 @@ Antes de alterar código: inventariar arquivos, versão, implementações comple
 - Seleção/prioridade de alvo deve permanecer separada da colisão física: priorizar ou travar um herói não permite atravessar tropas, escudos ou paredes.
 - A conversa também descreve exploração de cavernas, coleta de materiais/equipamentos e retorno à rota; risco, recompensa e equilíbrio entre equipes permanecem requisitos de design a validar.
 - São ideias e requisitos de jogo, não cânone narrativo nem funcionalidades comprovadas no Creator. Validar cada item contra a versão atual do GameCreator e o runtime Godot.
+
+## Registro-base — arquitetura leve, árvores e PR #11 (2026-11-01/02)
+
+Consultar também [registro conversacional completo](../docs/conversation-records/2026-11-02-gamecreator-low-end-first-and-tree-billboards.md). O documento preserva a explicação das tecnologias HTML/CSS/JavaScript/GDScript/JSON/PowerShell, a diretriz proposta *Low-End First*, as referências Game Boy, a ideia de árvores com billboard ou sprites direcionais, a escolha de perspectiva ainda pendente e o diagnóstico ainda inconclusivo da validação da PR #11 do GameCreator.
+
+**Importante:** o erro específico da CI não foi confirmado porque os logs da execução original não estavam disponíveis; o rerun ainda estava em andamento na última consulta. Não atribuir causa sem evidência. As técnicas de árvores e as metas de desempenho são propostas para teste, não funcionalidades aprovadas ou implementadas. Este registro é memória de desenvolvimento, não cânone narrativo.
