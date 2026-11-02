@@ -35,6 +35,8 @@
 - apoena-progression-economy/SKILL.md
 - apoena-godot-prototyping/SKILL.md
 - apoena-project-architect/SKILL.md
+- apoena-gamecreator-engineering/SKILL.md — continuidade, arquitetura e operação do editor GameCreator.
+- apoena-gamecreator-security/SKILL.md — auditoria, hardening, distribuição e proteção de dados do GameCreator.
 
 ## Recuperação e preservação
 - apoena-knowledge-archivist/SKILL.md
@@ -76,3 +78,7 @@
 - ../docs/conversation-recovery-shared-project-context-2026-10-31.md — registro de proveniência, limites e divergências.
 
 - ../docs/conversation-recovery-2026-11-01-historiaegeografia-project.md — recuperação seletiva de conversas; ciclo hídrico de Agar, constelações, requisitos de Game Creator, cronologia e pendências.
+
+## Engenharia e segurança do GameCreator — recuperação de 2026-11-02
+- ../docs/game-creator/README.md — ponto de entrada para arquitetura, escopo, estado e limites de auditoria.
+- ../docs/game-creator/security-audit/conversation-dossier-2026-11-02.md — dossiê de auditoria de segurança recuperado; cobertura parcial e achados históricos.

@@ -14,7 +14,7 @@ O modo padrão para importar conhecimento de conversas antigas, outras IAs, docu
 1. Leia `/AGENTS.md` na raiz do repositório e o README raiz.
 2. Leia este arquivo.
 3. Leia o protocolo universal e os modos de trabalho.
-4. Consulte `docs/knowledge-recovery-2026-10-30.md`, `docs/knowledge-gaps-and-contradictions.md), a legenda de status e os documentos pertinentes.
+4. Consulte `docs/knowledge-recovery-2026-10-30.md`, `docs/knowledge-gaps-and-contradictions.md`, a legenda de status e os documentos pertinentes.
 5. Leia a Skill adequada em `skills/`.
 6. Preserve nomes, relações, regras, eventos e características estabelecidas.
 7. Nunca transforme hipótese, sugestão ou lacuna em fato canônico.
@@ -67,6 +67,8 @@ O modo padrão para importar conhecimento de conversas antigas, outras IAs, docu
 - `skills/apoena-progression-economy/SKILL.md`
 - `skills/apoena-godot-prototyping/SKILL.md`
 - `skills/apoena-project-architect/SKILL.md`
+- `skills/apoena-gamecreator-engineering/SKILL.md`
+- `skills/apoena-gamecreator-security/SKILL.md`
 
 ### Recuperação e produção
 - `skills/apoena-knowledge-archivist/SKILL.md`
@@ -106,4 +108,15 @@ Para tarefas sobre chefes, progressão ou missões no Creator ou no Pixel Art, l
 2. `apoena/docs/Game Play/Plano_Apoena_Bosses_Niveis_Missoes.md` — análise completa, fontes, cobertura, diagnóstico, propostas e validação.
 3. `apoena/docs/Game Play/REGISTRO_DECISOES.md` — evidências, justificativas e questões em aberto.
 
-O material é uma proposta para protótipo. Não trate números experimentais como cânone aprovado nem como implementação já realizada. Siga as instruções gerais deste repositório e atualize as referências apenas de forma aditiva.
+O material é uma proposta para protótipo. Não trate números experimentais como cânone aprovado nem como implementação já realizada.
+
+## Continuidade do GameCreator — engenharia e segurança
+
+Para qualquer tarefa que modifique ou audite o editor GameCreator, leia também:
+1. `skills/apoena-gamecreator-engineering/SKILL.md`;
+2. `skills/apoena-gamecreator-security/SKILL.md` quando houver segurança, backup, importação, comunicação entre módulos, distribuição ou GitHub Actions;
+3. `docs/game-creator/README.md`;
+4. `docs/game-creator/security-audit/conversation-dossier-2026-11-02.md`;
+5. o `AGENTS.md`, README, testes e workflows atuais do repositório de código.
+
+Respeite WIP = 1 para GameCreator e Apoena Pixel Art HTML combinados. Não confunda a base de conhecimento Apoena Skill com o repositório do editor. O dossiê de segurança de 2026-11-02 é uma recuperação parcial: seus achados precisam ser revalidados no SHA atual antes de qualquer correção ou declaração de vulnerabilidade.
