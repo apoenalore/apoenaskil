@@ -12,6 +12,7 @@ Ajudar agentes a continuar os projetos técnicos associados ao universo Apoena s
 - `../../docs/repository-map.md`
 - `../../docs/game-design-recovered.md`
 - O README e as instruções do repositório específico que será alterado.
+- Para o editor GameCreator: `../apoena-gamecreator-engineering/SKILL.md` e, quando aplicável, `../apoena-gamecreator-security/SKILL.md`.
 
 ## Regras
 1. Identifique o repositório e o produto exatos antes de editar.
@@ -41,3 +42,5 @@ Ajudar agentes a continuar os projetos técnicos associados ao universo Apoena s
 - `../../docs/game-design-recovered.md`
 - `../../docs/game-design-notes.md`
 - `../../docs/knowledge-recovery-2026-10-30.md`
+- `../apoena-gamecreator-engineering/SKILL.md`
+- `../apoena-gamecreator-security/SKILL.md`
